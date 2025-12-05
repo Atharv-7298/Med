@@ -1,0 +1,66 @@
+/* --- Edit Mode Styling --- */
+.patient-info.edit-mode label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border-bottom: 1px dashed #e9ecef;
+  padding: 15px 0;
+}
+
+.patient-info.edit-mode input,
+.patient-info.edit-mode textarea {
+  padding: 10px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  font-size: 1em;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.patient-info.edit-mode input:focus,
+.patient-info.edit-mode textarea:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.3);
+}
+
+.patient-info.edit-mode textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+.patient-info.edit-mode .span-2 {
+  grid-column: span 2;
+}
+
+.medication-input {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.save-btn {
+  display: block;
+  margin: 30px auto 0 auto;
+  padding: 12px 30px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease,
+    box-shadow 0.3s ease;
+  box-shadow: 0 4px 12px rgba(40, 167, 69, 0.2);
+}
+
+.save-btn:hover {
+  background-color: #218838;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(40, 167, 69, 0.3);
+}
+
+.save-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 8px rgba(40, 167, 69, 0.2);
+}

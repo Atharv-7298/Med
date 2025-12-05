@@ -1,0 +1,156 @@
+/* Sidebar Container */
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  background: #f8fafc;
+  border-right: 1px solid #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  transition: width 0.3s ease;
+}
+
+.sidebar.collapsed {
+  width: 70px;
+}
+
+/* Sidebar Header */
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  background: #fff;
+  border-bottom: 1px solid #e2e8f0;
+  height: 60px;
+}
+
+.logo {
+  color: #2563eb;
+}
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* Collapse Button */
+.collapse-btn {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Sidebar Content */
+.sidebar-content {
+  padding: 12px;
+  flex: 1;
+  overflow-y: auto;
+}
+
+/* Centered header in collapsed mode */
+.sidebar.collapsed .sidebar-header {
+  justify-content: center;
+}
+
+/* Section Labels */
+.nav-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #6b7280;
+  margin: 8px 0;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Menu List */
+.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Menu Item (NavLink + Button) */
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  text-decoration: none;
+  color: #374151;
+  border-radius: 8px;
+  transition: background 0.2s, color 0.2s;
+  width: 100%;
+}
+
+/* Hover Effect (Unified for all) */
+.menu-item:hover {
+  background: #e5f0ff; /* light blue */
+  color: #2563eb;      /* blue text */
+}
+
+/* Active Item */
+.menu-item.active {
+  background: #2563eb;
+  color: #fff;
+  font-weight: 500;
+}
+
+/* Icon */
+.icon {
+  font-size: 18px;
+}
+
+/* Title */
+.title {
+  font-size: 14px;
+}
+
+/* Buttons inside Menu */
+.menu button.menu-item {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  text-align: left;
+}
+
+.menu button.menu-item:focus {
+  outline: none;
+}
+
+/* Menu Item (NavLink + Button) */
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  text-decoration: none;
+  color: #374151;
+  border-radius: 8px;
+  transition: background 0.2s, color 0.2s;
+  width: 100%;
+}
+
+/* Hover Effect (Unified for all) */
+.menu-item:hover {
+  background: #e5f0ff; /* light blue */
+  color: #2563eb;      /* blue text */
+}
+
+/* Active Item (Same as hover, no dark background) */
+.menu-item.active {
+  background: #e5f0ff; /* same light blue */
+  color: #2563eb;      /* blue text */
+  font-weight: 500;
+}

@@ -1,0 +1,150 @@
+/* Dashboard.css */
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f9fafb;
+}
+
+.dashboard-header {
+  background-color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  position: relative;
+}
+
+.dashboard-content {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* Sidebar */
+.dashboard-sidebar {
+  width: 250px;
+  transition: width 0.3s ease;
+  background-color: #ffffff;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.05);
+  overflow-y: auto;
+  flex-shrink: 0;
+
+  /* Hide scrollbar */
+  scrollbar-width: none;       /* Firefox */
+  -ms-overflow-style: none;    /* IE & Edge */
+}
+
+.dashboard-sidebar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
+
+.dashboard-sidebar.collapsed {
+  width: 70px; /* wrapper collapses */
+}
+
+/* Main content */
+.dashboard-main {
+  flex: 1;
+  padding: 24px;
+  overflow-y: auto;
+  transition: all 0.3s ease;
+
+  /* Custom scrollbar */
+  scrollbar-width: thin;            /* Firefox */
+  scrollbar-color: #d1d5db #f9fafb; /* thumb | track */
+}
+
+.dashboard-main::-webkit-scrollbar {
+  width: 6px;
+}
+
+.dashboard-main::-webkit-scrollbar-track {
+  background: #f9fafb;
+}
+
+.dashboard-main::-webkit-scrollbar-thumb {
+  background-color: #d1d5db;
+  border-radius: 6px;
+}
+
+/* Welcome */
+.welcome-message {
+  margin-bottom: 32px;
+  text-align: left;
+  margin-top: -10px;
+}
+
+.welcome-message h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #595fff;
+  margin-bottom: 4px;
+  line-height: 1.3;
+  text-align: left;
+}
+
+.welcome-message p {
+  color: #595959;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  text-align: left;
+}
+/* Contact card */
+.contact-section {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 24px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.contact-section h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 12px;
+}
+
+.contact-stats {
+  display: flex;
+  align-items: center;
+}
+
+.percentage {
+  font-size: 24px;
+  font-weight: 700;
+  color: #1f2937;
+  margin-right: 12px;
+}
+
+.improvement {
+  display: flex;
+  align-items: center;
+  color: #10b981;
+  font-weight: 500;
+}
+
+.checkmark {
+  margin-right: 4px;
+}
+
+.stats{
+  margin: 10px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .dashboard-content {
+    flex-direction: column;
+  }
+  
+  .dashboard-sidebar {
+    width: 100%;
+    height: auto;
+  }
+
+  .dashboard-sidebar.collapsed {
+    width: 100%;
+  }
+}

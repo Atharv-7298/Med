@@ -1,0 +1,200 @@
+.patient-records-container {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin: 20px 0;
+}
+
+.patient-records-header {
+  margin-bottom: 1.5rem;
+}
+
+.patient-records-header h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1a202c;
+  margin-bottom: 0.5rem;
+}
+
+.patient-records-header p {
+  color: #718096;
+  font-size: 0.875rem;
+}
+
+.search-container {
+  margin-bottom: 1.5rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 0.875rem;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #4299e1;
+  box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.2);
+}
+
+.patient-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+.patient-table th {
+  background-color: #f7fafc;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #718096;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.patient-table td {
+  padding: 1rem;
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 0.875rem;
+  color: #4a5568;
+}
+
+.patient-table tr:last-child td {
+  border-bottom: none;
+}
+
+.patient-table tr:hover {
+  background-color: #f7fafc;
+}
+
+.disease-badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.375rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.badge-blue {
+  background: #ebf8ff;
+  color: #2b6cb0;
+}
+
+.badge-red {
+  background: #fff5f5;
+  color: #c53030;
+}
+
+.badge-green {
+  background: #f0fff4;
+  color: #2f855a;
+}
+
+.badge-purple {
+  background: #faf5ff;
+  color: #6b46c1;
+}
+
+.badge-orange {
+  background: #fffaf0;
+  color: #dd6b20;
+}
+
+.table-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.action-btn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 0.25rem;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.action-btn .icon {
+  width: 16px;
+  height: 16px;
+}
+
+.edit-btn:hover {
+  background: #ebf8ff;
+  color: #2b6cb0;
+}
+
+.delete-btn:hover {
+  background: #fff5f5;
+  color: #c53030;
+}
+
+.patient-table-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1rem;
+  border-top: 1px solid #e2e8f0;
+  font-size: 0.875rem;
+  color: #718096;
+}
+
+.pagination {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.pagination-btn {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #e2e8f0;
+  background: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  color: #4a5568;
+  transition: all 0.2s ease;
+}
+
+.pagination-btn:hover {
+  background: #edf2f7;
+  border-color: #cbd5e0;
+}
+
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.patient-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+  table-layout: fixed; /* Ensures equal column alignment */
+}
+
+.patient-table th,
+.patient-table td {
+  padding: 0.75rem 1rem;  /* same padding for both */
+  text-align: left;       /* keeps everything aligned */
+  font-size: 0.875rem;
+  border-bottom: 1px solid #e2e8f0;
+  vertical-align: middle; /* aligns text properly in rows */
+}
+
+.patient-table th {
+  background-color: #f7fafc;
+  font-weight: 600;
+  color: #718096;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.patient-table td {
+  color: #4a5568;
+}

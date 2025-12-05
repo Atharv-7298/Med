@@ -1,0 +1,185 @@
+/* PatientDetails.css */
+
+/* --- Overall Page Styling --- */
+body {
+    background-color: #eef2f8; /* Light grey background for the entire page, similar to dashboard */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Consistent font */
+    margin: 0;
+    padding: 0;
+}
+
+/* --- Patient Detail Container --- */
+.patient-detail-container {
+    max-width: 1100px; /* Maintains increased width */
+    margin: 40px auto; /* Centers the card horizontally */
+    background-color: white; /* White background for the main content card */
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08); /* More pronounced, but soft shadow for the card */
+    padding: 30px; /* Inner padding for content */
+    position: relative; /* Essential for positioning the back button relative to this container */
+    overflow: hidden; /* Ensures shadow/border doesn't get cut off */
+}
+
+/* --- Back Button Styling --- */
+.back-btn {
+    position: absolute; /* Positioned relative to .patient-detail-container */
+    top: 20px; /* Space from the top of the container */
+    left: 30px; /* Space from the left of the container (matches padding) */
+    
+    background-color: #007bff; /* Primary blue color */
+    color: white;
+    border: none;
+    padding: 10px 20px; /* Slightly more padding for a better look */
+    border-radius: 8px; /* Slightly more rounded corners */
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Space between arrow and text */
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 123, 255, 0.2);
+    z-index: 10; /* Ensures it's above other elements if they overlap */
+}
+
+.back-btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    transform: translateY(-2px); /* Slight lift effect */
+    box-shadow: 0 6px 15px rgba(0, 123, 255, 0.3); /* Enhanced shadow on hover */
+}
+
+.back-btn:active {
+    transform: translateY(0); /* Press effect */
+    box-shadow: 0 2px 5px rgba(0, 123, 255, 0.2);
+}
+
+/* --- Patient Details Title --- */
+h2 {
+    color: #333; /* Darker text for heading */
+    font-size: 2.2em; /* Slightly larger title */
+    font-weight: 600; /* Bolder title */
+    text-align: center; /* Centered */
+    margin-top: 20px; /* Give space from the top/button */
+    margin-bottom: 35px; /* Space below title before patient info starts */
+    padding-bottom: 15px; /* Padding for the bottom border */
+    border-bottom: 2px solid #e0e0e0; /* Subtle separator line */
+    position: relative; /* For aligning with button if needed, though button is absolute */
+}
+
+/* --- Patient Information Grid --- */
+.patient-info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 25px 50px; /* Increased gap for more breathing room */
+    padding: 20px 0; /* Vertical padding within the info section */
+}
+
+/* --- Individual Data Fields --- */
+.patient-info p {
+    display: flex;
+    flex-wrap: wrap; /* Allows text to wrap if it's too long */
+    align-items: baseline; /* Align key and value */
+    padding: 15px 0; /* More vertical padding for each field */
+    border-bottom: 1px dashed #e9ecef; /* Lighter, dashed separator */
+    font-size: 1.1em; /* Slightly larger text */
+    color: #495057; /* Slightly darker grey for values */
+    line-height: 1.5;
+}
+
+.patient-info p:last-child {
+    border-bottom: none; /* No border for the last item */
+}
+
+.patient-info strong {
+    color: #212529; /* Even darker for labels */
+    font-weight: 600;
+    min-width: 160px; /* Ensured space for labels */
+    margin-right: 20px; /* Increased gap between label and value */
+    flex-shrink: 0; /* Prevents label from shrinking */
+}
+
+/* Fields that span across both columns for readability */
+.patient-info p:nth-child(3), /* Summary */
+.patient-info p:nth-child(4), /* Disease */
+.patient-info p:nth-child(5), /* Symptoms */
+.patient-info p:nth-child(6) {  /* Medications */
+    grid-column: span 2;
+}
+
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 992px) {
+    .patient-detail-container {
+        margin: 30px 20px; /* Adjust margin for slightly smaller screens */
+        padding: 25px;
+    }
+    .back-btn {
+        top: 15px;
+        left: 20px;
+    }
+    h2 {
+        font-size: 2em;
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    .patient-info {
+        gap: 20px 30px;
+    }
+    .patient-info p {
+        font-size: 1em;
+        padding: 12px 0;
+    }
+    .patient-info strong {
+        min-width: 130px;
+        margin-right: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .patient-detail-container {
+        max-width: 100%; /* Full width on small screens */
+        margin: 20px 10px;
+        padding: 15px;
+    }
+    
+    .back-btn {
+        position: relative; /* Back to normal flow */
+        top: auto;
+        left: auto;
+        margin-bottom: 20px; /* Space below button when stacked */
+        display: inline-flex; /* Keep it flex for icon+text, but allow flow */
+        padding: 8px 15px;
+        font-size: 0.95em;
+    }
+
+    h2 {
+        font-size: 1.8em;
+        text-align: left; /* Align title left on small screens */
+        margin-top: 0; /* Remove top margin when button is above */
+        margin-bottom: 25px;
+        padding-bottom: 10px;
+    }
+
+    .patient-info {
+        grid-template-columns: 1fr; /* Single column layout */
+        gap: 0; /* Remove gap between rows */
+        padding: 10px 0;
+    }
+
+    .patient-info p {
+        flex-direction: column; /* Stack label and value vertically */
+        align-items: flex-start;
+        padding: 10px 0;
+    }
+
+    .patient-info strong {
+        margin-right: 0; /* Remove right margin when stacked */
+        margin-bottom: 5px; /* Space between label and value */
+        min-width: auto; /* Allow label to take natural width */
+    }
+
+    /* All fields take full width in single column mode */
+    .patient-info p:nth-child(n) {
+        grid-column: span 1;
+    }
+}

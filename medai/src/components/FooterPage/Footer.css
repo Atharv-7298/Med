@@ -1,0 +1,124 @@
+/* ✅ CTA Section */
+.footer-cta {
+  background: linear-gradient(to right, #0066ff, #00c853);
+  text-align: center;
+  color: #fff;
+  padding: 60px 20px;
+}
+
+.footer-cta h2 {
+  font-size: 28px;
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+
+.footer-cta p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.cta-btn {
+  padding: 10px 22px;
+  border-radius: 6px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.cta-btn.primary {
+  background: #fff;
+  color: #0066ff;
+  font-weight: bold;
+}
+
+.cta-btn.secondary {
+  background: #fff;
+  color: #333;
+}
+
+/* ✅ Dark Footer */
+.footer {
+  background-color: #0d1117;
+  color: #ffffff;
+  padding: 40px 80px;
+  font-family: Arial, sans-serif;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #2a2f36;
+  padding-bottom: 20px;
+  gap: 250px;
+}
+
+.footer-left {
+  max-width: 300px;
+  margin-left: 50px;
+}
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+
+.logo-icon {
+  font-size: 22px;
+  margin-right: 8px;
+}
+
+.footer-desc {
+  font-size: 14px;
+  color: #a0a0a0;
+  line-height: 1.5;
+}
+
+.footer-links {
+  display: flex;
+  gap: 100px;
+}
+
+.footer-column h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 8px;
+}
+
+.footer-column ul li a {
+  text-decoration: none;
+  color: #a0a0a0;
+  font-size: 14px;
+  transition: color 0.2s ease;
+}
+
+.footer-column ul li a:hover {
+  color: #ffffff;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 15px;
+  font-size: 14px;
+  color: #777;
+}
