@@ -1,0 +1,2671 @@
+symptom,treatment,bodypart,diagnosis,others
+headache,paracetamol,head,migraine,stress-related
+cough,cough syrup,throat,bronchitis,viral infection
+chest pain,aspirin,chest,angina,smoking history
+nausea,antiemetic,stomach,food poisoning,dehydration
+itching,antihistamine cream,arms,eczema,allergic reaction
+swelling,cold compress,ankle,sprain,sports injury
+redness,antibiotic ointment,eye,conjunctivitis,bacterial
+shortness of breath,inhaler,lungs,asthma,dust exposure
+dizziness,hydration therapy,inner ear,vertigo,motion sickness
+joint pain,ibuprofen,knees,arthritis,aging
+sore throat,warm salt gargle,throat,tonsillitis,viral
+burning urination,antibiotics,bladder,UTI,bacterial
+rash,calamine lotion,back,chickenpox,childhood disease
+hair loss,minoxidil,scalp,alopecia,stress
+cracked lips,lip balm,lips,dehydration,sun exposure
+fatigue,multivitamins,whole body,anemia,iron deficiency
+blurred vision,corrective lenses,eyes,myopia,hereditary
+sneezing,antihistamines,nose,allergic rhinitis,pollen
+vomiting,ORS,stomach,gastroenteritis,contaminated food
+yellow skin,antiviral drugs,skin,jaundice,hepatitis
+high fever,paracetamol,whole body,malaria,mosquito bite
+stiff neck,antibiotics,neck,meningitis,bacterial
+weight loss,insulin,pancreas,diabetes mellitus,family history
+frequent urination,metformin,bladder,diabetes,high sugar diet
+chest tightness,bronchodilators,chest,COPD,smoking
+swelling gums,mouthwash,gums,gingivitis,poor hygiene
+toothache,dental filling,teeth,cavity,sugar consumption
+pale skin,iron supplements,skin,anemia,malnutrition
+cracked heels,moisturizer,feet,dryness,winter season
+tremors,levodopa,hands,Parkinson’s disease,aging
+memory loss,cognitive therapy,brain,Alzheimer’s,old age
+ear pain,antibiotic drops,ear,ear infection,swimming
+nosebleed,nasal spray,nose,sinusitis,dry air
+yellow nails,antifungal cream,nails,fungal infection,damp environment
+cold hands,circulation therapy,hands,poor circulation,anemia
+ankle pain,physiotherapy,ankle,ligament injury,sports
+leg cramps,magnesium tablets,legs,deficiency,dehydration
+chest heaviness,nitroglycerin,chest,heart attack,obesity
+skin peeling,moisturizer,fingers,dermatitis,chemical exposure
+night sweats,antibiotics,whole body,tuberculosis,bacterial
+numbness,physiotherapy,arms,nerve compression,desk job
+swollen eyelids,antihistamines,eyelids,allergy,dust
+cracked voice,throat spray,throat,laryngitis,overuse
+back pain,hot pack,back,slipped disc,heavy lifting
+dark circles,under-eye cream,eyes,fatigue,lack of sleep
+shivering,antibiotics,whole body,pneumonia,cold weather
+swollen joints,steroids,knees,rheumatoid arthritis,autoimmune
+fainting,glucose,brain,hypoglycemia,skipped meals
+tooth sensitivity,desensitizing paste,teeth,enamel erosion,acidic food
+cracked nails,keratin supplement,nails,brittle nail syndrome,vitamin deficiency
+rash,antihistamine cream,arms,allergic reaction,itching
+redness,cooling gel,chest,heat rash,sweating
+cough,cough syrup,throat,bronchitis,wheezing
+congestion,nasal spray,nose,sinusitis,headache
+stiffness,physiotherapy,neck,cervical spondylosis,posture issue
+swelling,ice pack,ankle,sprain,twisted ligament
+cramps,electrolyte solution,calves,dehydration,fatigue
+bloating,probiotics,stomach,indigestion,gas
+tingling,vitamin B12 supplements,fingers,neuropathy,numbness
+dizziness,hydration therapy,head,vertigo,imbalance
+fever,paracetamol,whole body,viral infection,chills
+chills,warm fluids,whole body,flu,sore throat
+chest pain,aspirin,chest,angina,tightness
+palpitations,beta blockers,heart,arrhythmia,irregular heartbeat
+dry skin,moisturizer,legs,eczema,itching
+cracking,petroleum jelly,lips,cheilitis,dryness
+hair loss,minoxidil,scalp,alopecia,thinning
+dandruff,anti-dandruff shampoo,scalp,seborrheic dermatitis,flaking
+blurred vision,corrective lenses,eyes,myopia,strain
+watering eyes,lubricating drops,eyes,conjunctivitis,redness
+stiffness,heat therapy,lower back,lumbar strain,poor posture
+nausea,antiemetic tablets,stomach,gastritis,vomiting
+breathlessness,inhaler,lungs,asthma,wheezing
+yellowing,antiviral medication,eyes/skin,jaundice,fatigue
+sore throat,salt water gargle,throat,tonsillitis,hoarseness
+ulcer,antacid syrup,mouth,mouth ulcer,burning
+bleeding gums,medicated mouthwash,gums,gingivitis,swelling
+itching,antihistamine tablets,back,hives,rash
+joint pain,NSAIDs,knees,arthritis,stiffness
+numbness,nerve stimulation,arms,carpal tunnel,tingling
+cracked heels,foot cream,feet,fissures,dryness
+indigestion,digestive enzyme pills,stomach,acidity,bloating
+vomiting,ORS solution,stomach,food poisoning,diarrhea
+sneezing,antihistamine tablets,nose,allergy,congestion
+headache,pain reliever,head,migraine,nausea
+back pain,posture correction belt,spine,slipped disc,stiffness
+weight loss,nutritional supplements,body,hyperthyroidism,anxiety
+trembling,propranolol,hands,essential tremor,nervousness
+acne,benzoyl peroxide,chin,acne vulgaris,redness
+dark circles,under-eye cream,eyes,fatigue,stress
+brittle nails,biotin supplements,nails,vitamin deficiency,weakness
+ringing,ear drops,ears,tinnitus,buzzing
+frequent urination,insulin therapy,bladder,diabetes mellitus,thirst
+swelling,diuretics,feet,edema,puffiness
+yellow nails,antifungal tablets,nails,onychomycosis,brittleness
+loss of smell,steam inhalation,nose,sinus infection,headache
+night sweats,antibiotics,whole body,tuberculosis,fatigue
+skin patches,steroid cream,arms,psoriasis,scaling
+sore muscles,massage therapy,shoulders,muscle strain,stiffness
+redness,cooling gel,nose,rosacea,dermatologist visit
+itching,antihistamine cream,arms,allergic rash,patch test
+swelling,anti-inflammatory tablets,ankle,sprain,physiotherapy
+dryness,moisturizing lotion,hands,eczema,cotton gloves
+cracks,petroleum jelly,lips,cheilitis,avoid spicy food
+burning,soothing ointment,chest,acid reflux rash,dietary change
+numbness,vitamin B supplements,feet,neuropathy,neurologist consult
+tingling,acupuncture,fingers,nerve compression,wrist brace
+stiffness,hot compress,knee,arthritis,gentle yoga
+soreness,massage therapy,back,muscle strain,posture correction
+scaling,medicated shampoo,scalp,psoriasis,stress management
+discharge,antibiotic drops,ear,ear infection,ENT visit
+blurred vision,corrective lenses,eyes,refractive error,eye test
+watery eyes,antihistamine drops,eyes,seasonal allergy,air purifier
+congestion,nasal spray,nose,sinusitis,steam inhalation
+coughing,cough syrup,throat,bronchitis,warm fluids
+wheezing,inhaler,chest,asthma,avoid triggers
+breathlessness,oxygen therapy,lungs,COPD,spirometry
+palpitations,beta blockers,chest,arrhythmia,ECG
+fatigue,iron supplements,whole body,anemia,dietary iron intake
+fever,paracetamol,whole body,viral infection,hydration
+chills,warm blanket,whole body,flu,rest
+night sweats,hormone therapy,whole body,hyperthyroidism,thyroid test
+headache,painkillers,head,migraine,avoid caffeine
+dizziness,vestibular exercises,ear,vertigo,balance training
+nausea,antiemetic tablets,stomach,food poisoning,IV fluids
+vomiting,oral rehydration,stomach,gastritis,bland diet
+constipation,laxatives,intestine,IBS,fiber intake
+diarrhea,probiotics,intestine,gastroenteritis,avoid oily food
+bloating,digestive enzymes,abdomen,indigestion,small meals
+cramps,hot water bottle,abdomen,menstrual pain,relaxation
+irregular periods,hormone therapy,reproductive,PCOS,gynecologist consult
+heavy bleeding,iron tablets,uterus,menorrhagia,ultrasound
+infertility,IVF treatment,reproductive,hormonal imbalance,fertility clinic
+weak bones,calcium supplements,bones,osteoporosis,DEXA scan
+joint pain,glucosamine supplements,joints,rheumatoid arthritis,physiotherapy
+stiffness (neck),cervical collar,neck,cervical spondylosis,physiotherapy
+hearing loss,hearing aid,ears,presbycusis,audiometry
+ringing in ears,sound therapy,ears,tinnitus,ENT consult
+vision loss,laser surgery,eyes,cataract,eye specialist visit
+yellowing of eyes,antiviral meds,eyes,hepatitis,liver test
+swelling of feet,diuretics,feet,kidney disease,blood test
+skin rash,steroid cream,body,lupus,autoimmune test
+weight loss,nutritional supplements,body,hyperthyroidism,diet plan
+weight gain,lifestyle change,body,hypothyroidism,endocrinologist visit
+mood swings,counseling,brain,depression,therapy sessions
+memory loss,cognitive training,brain,dementia,neurologist consult
+seizures,antiepileptic drugs,brain,epilepsy,EEG
+tremors,dopamine therapy,hands,Parkinson’s disease,neurologist consult
+slurred speech,speech therapy,mouth,stroke,brain scan
+Itching,Antihistamine cream,Arms,Allergic reaction,Pollen exposure
+Redness,Cooling gel,Legs,Sunburn,Heat exposure
+Tingling sensation,Vitamin B supplement,Fingers,Nerve irritation,Keyboard overuse
+Hair loss,Minoxidil,Scalp,Alopecia,Family history
+Blurred vision,Corrective glasses,Eyes,Myopia,Screen strain
+Rash,Hydrocortisone ointment,Back,Contact dermatitis,New detergent
+Dry skin,Moisturizing lotion,Elbows,Eczema,Winter season
+Stiffness,Physiotherapy,Neck,Cervical spondylosis,Desk posture
+Cramping,Oral rehydration salts,Legs,Electrolyte imbalance,Excess exercise
+Swelling,Anti-inflammatory tablet,Ankles,Sprain,Sports injury
+Yellowing,Antibiotic course,Nails,Fungal infection,Swimming pool exposure
+Frequent urination,Insulin therapy,Bladder,Diabetes,High sugar intake
+Coughing,Cough syrup,Lungs,Bronchitis,Cold weather
+Numbness,Nerve pain medication,Toes,Neuropathy,Diabetes history
+Wheezing,Inhaler,Chest,Asthma,Dust exposure
+Difficulty swallowing,Proton pump inhibitor,Throat,Acid reflux,Late-night eating
+Fever,Paracetamol,Whole body,Viral infection,Flu season
+Dizziness,Hydration therapy,Head,Vertigo,Sudden movement
+Fatigue,Iron supplements,Whole body,Anemia,Poor diet
+Tremors,Beta blockers,Hands,Parkinson’s disease,Aging
+Nausea,Antiemetic tablet,Stomach,Food poisoning,Street food
+Difficulty breathing,Oxygen support,Lungs,Pneumonia,Cold infection
+Yellow eyes,Liver detox medicine,Eyes,Jaundice,Alcohol consumption
+Vomiting,IV fluids,Stomach,Gastroenteritis,Contaminated water
+Rapid heartbeat,Beta blockers,Heart,Tachycardia,Stress
+Excessive sweating,Antiperspirant,Underarms,Hyperhidrosis,Hot climate
+Joint pain,Pain relievers,Knees,Osteoarthritis,Old age
+Muscle weakness,Physiotherapy,Arms,Muscular dystrophy,Genetic disorder
+Back pain,Heat therapy,Back,Muscle strain,Heavy lifting
+Pale skin,Iron supplements,Face,Iron deficiency,Malnutrition
+Shortness of breath,Nebulizer,Lungs,COPD,Smoking
+Skin peeling,Moisturizer,Feet,Athlete’s foot,Public showers
+Loss of appetite,Appetite stimulant,Stomach,Gastritis,Stress
+Chills,Antiviral medication,Whole body,Influenza,Seasonal change
+Nosebleed,Nasal spray,Nose,Hypertension,Hot dry weather
+Swollen glands,Antibiotics,Neck,Tonsillitis,Bacterial infection
+Persistent cough,Steroid inhaler,Lungs,Tuberculosis,Long exposure
+Irregular heartbeat,Pacemaker,Heart,Arrhythmia,Genetic predisposition
+Ear pain,Ear drops,Ears,Otitis media,Water entry
+Yellow skin,Herbal liver tonic,Skin,Hepatitis,Contaminated food
+Loss of balance,Vestibular rehab,Inner ear,Labyrinthitis,Viral infection
+Hoarseness,Voice rest,Throat,Laryngitis,Overuse of voice
+Swollen feet,Diuretics,Feet,Edema,Kidney issue
+Chest tightness,Nitroglycerin,Chest,Angina,Stressful activity
+Slow healing wounds,Antibiotics,Skin,Diabetes complication,High sugar level
+Weight loss,Nutritional therapy,Whole body,Hyperthyroidism,Overactive thyroid
+Cold hands,Warm compress,Hands,Raynaud’s disease,Winter season
+Loss of smell,Nasal spray,Nose,Sinusitis,Cold infection
+Eye strain,Eye drops,Eyes,Computer vision syndrome,Excess screen time
+Difficulty sleeping,Melatonin supplements,Brain,Insomnia,Anxiety
+tion,Fingers,Neuropathy,Deficiency,
+Red rash,Topical antifungal,Neck,Ringworm,Fungal infection
+Chills,Antiviral tablets,Whole body,Influenza,Seasonal outbreak
+Itchy scalp,Anti-dandruff shampoo,Scalp,Seborrheic dermatitis,Flaking
+Loss of balance,Physiotherapy,Legs,Vertigo,Inner ear disorder
+Wheezing,Inhaler,Chest,Asthma,Allergic trigger
+Fatigue,Iron supplements,Whole body,Anemia,Blood deficiency
+Cold feet,Thermal socks,Feet,Poor circulation,Diabetes risk
+Yellow skin,Antiviral,Skin,Jaundice,Liver issue
+Blurred vision,Corrective glasses,Eyes,Myopia,Refractive error
+Ear discharge,Antibiotic drops,Ear,Ear infection,Otitis media
+Nosebleed,Nasal spray,Nose,Sinusitis,Allergic rhinitis
+Back stiffness,Physiotherapy exercises,Back,Spondylitis,Poor posture
+Burning sensation,Cooling gel,Hands,Contact dermatitis,Chemical exposure
+Shortness of breath,Bronchodilator,Lungs,COPD,Smoking history
+Swollen gums,Antibacterial mouthwash,Mouth,Gingivitis,Poor oral hygiene
+Dry eyes,Lubricating drops,Eyes,Dry eye syndrome,Screen exposure
+White patches,Antifungal cream,Skin,Tinea versicolor,Fungal infection
+Cramping,Electrolyte solution,Stomach,Gastritis,Dehydration
+Discolored nails,Antifungal tablets,Nails,Onychomycosis,Nail fungus
+Hoarseness,Voice rest,Throat,Laryngitis,Vocal strain
+Night sweats,Hormone therapy,Whole body,Tuberculosis,Chronic infection
+Cold hands,Gloves,Hands,Raynaud’s disease,Stress trigger
+Frequent urination,Insulin therapy,Bladder,Diabetes,High glucose
+Sudden weight loss,Nutritional supplements,Whole body,Hyperthyroidism,Hormonal imbalance
+Difficulty swallowing,Proton pump inhibitors,Esophagus,GERD,Acid reflux
+Oily skin,Retinoid cream,Face,Acne vulgaris,Cosmetic concern
+Pale skin,Iron-rich diet,Skin,Anemia,Low hemoglobin
+Tingling sensation,Neuropathic pain meds,Feet,Peripheral neuropathy,Vitamin deficiency
+Yellow eyes,Hepatitis antivirals,Eyes,Hepatitis B,Liver infection
+Burning urine,Antibiotics,Urinary tract,UTI,Bacterial infection
+Cold sores,Antiviral cream,Lips,Herpes simplex,Viral outbreak
+Skin peeling,Moisturizer,Hands,Eczema,Dry weather
+Head pressure,Decongestant tablets,Head,Sinus headache,Nasal congestion
+Swollen eyelids,Antihistamines,Eyes,Allergic conjunctivitis,Pollen exposure
+Constant thirst,Insulin injection,Whole body,Diabetes mellitus,High sugar intake
+Hair loss,Minoxidil solution,Scalp,Alopecia areata,Stress-related
+Yellow nails,Antifungal lotion,Nails,Nail psoriasis,Chronic skin condition
+Skin bruising,Vitamin C supplements,Arms,Purpura,Weak blood vessels
+Tremors,Beta-blockers,Hands,Parkinson’s disease,Neurological disorder
+Hiccups,Baclofen,Diaphragm,Persistent hiccups,Nerve irritation
+Blue lips,Oxygen therapy,Lips,Cyanosis,Oxygen deficiency
+Eye twitching,Magnesium supplements,Eyes,Blepharospasm,Stress
+Jaw pain,Dental treatment,Jaw,TMJ disorder,Teeth grinding
+Sudden fainting,Cardiac evaluation,Whole body,Syncope,Low blood pressure
+Abdominal lump,Surgery,Abdomen,Hernia,Strained muscles
+Voice loss,Steroid inhaler,Throat,Acute laryngitis,Viral infection
+Chronic cough,Cough syrup,Lungs,Bronchitis,Smoking habit
+Burning chest,Antacids,Chest,Acid reflux,GERD
+white patches,antifungal cream,neck,fungal infection,skin specialist
+scaling,moisturizing lotion,scalp,seborrheic dermatitis,dandruff shampoo
+swelling,ice pack,ankle,sprain,physiotherapy
+lumps,biopsy,breast,benign tumor,mammogram
+stiffness,heat therapy,knee,arthritis,physiotherapy
+bleeding gums,mouthwash,gums,gingivitis,dentist consult
+pus discharge,antibiotics,ear,ear infection,ENT referral
+yellow eyes,antiviral drugs,eyes,jaundice,liver test
+weight loss,nutrition plan,whole body,hyperthyroidism,thyroid test
+cough,cough syrup,throat,bronchitis,steam inhalation
+runny nose,antihistamines,nose,allergic rhinitis,nasal spray
+difficulty walking,physiotherapy,leg,muscular dystrophy,genetic testing
+night sweats,antibiotics,chest,tuberculosis,chest x-ray
+excessive thirst,insulin therapy,whole body,diabetes mellitus,blood sugar test
+itchy scalp,medicated shampoo,scalp,psoriasis,dermatologist visit
+hair thinning,minoxidil,scalp,alopecia,scalp massage
+brittle nails,vitamin supplements,nails,vitamin deficiency,diet modification
+hearing loss,hearing aid,ear,sensorineural deafness,audiometry test
+double vision,corrective lenses,eyes,strabismus,eye exercises
+red spots,calamine lotion,arms,measles,vaccination
+ulcers,antacids,stomach,peptic ulcer,endoscopy
+blood in urine,antibiotics,bladder,urinary infection,urine culture
+chest pain,nitroglycerin,chest,angina,ECG
+irregular heartbeat,pacemaker,heart,arrhythmia,cardiology consult
+dizziness,hydration,head,vertigo,ENT examination
+tingling,vitamin B12 injection,hands,neuropathy,blood test
+constipation,laxatives,stomach,irritable bowel syndrome,diet fiber intake
+diarrhea,ORS,stomach,gastroenteritis,hydration therapy
+blurred vision,corrective lenses,eyes,cataract,eye surgery
+rash,antihistamine cream,back,allergic reaction,patch test
+swollen tonsils,antibiotics,throat,tonsillitis,ENT check
+tooth decay,filling,teeth,dental caries,oral hygiene
+shortness of breath,inhaler,lungs,asthma,pulmonary function
+frequent urination,insulin therapy,bladder,diabetes,urine sugar test
+cracked lips,lip balm,lips,dehydration,fluid intake
+itchy eyes,antihistamine drops,eyes,conjunctivitis,eye wash
+pale skin,iron supplements,skin,anemia,hemoglobin test
+nosebleed,nasal cream,nose,dry nasal mucosa,ENT consult
+fainting,glucose tablet,whole body,hypoglycemia,blood glucose test
+tremors,beta blockers,hands,Parkinson’s disease,neurology consult
+high fever,paracetamol,whole body,viral fever,CBC test
+swollen joints,anti-inflammatory,knee,rheumatoid arthritis,joint x-ray
+cracked heels,heel cream,feet,dry skin,foot care
+loss of appetite,nutritional support,whole body,depression,psychiatric therapy
+back stiffness,physiotherapy,back,slipped disc,MRI scan
+itchy rash,topical steroids,abdomen,eczema,allergy test
+difficulty swallowing,proton pump inhibitors,throat,acid reflux,endoscopy
+yellow nails,antifungal tablets,nails,fungal infection,nail care
+brittle hair,protein supplements,scalp,malnutrition,dietician consult
+rashes,antihistamine cream,arms,allergic dermatitis,itching
+pus-filled bump,antibiotic ointment,thigh,folliculitis,redness
+cracked skin,moisturizing cream,hands,eczema,dryness
+warts,cryotherapy,fingers,viral wart,contagious
+fungal patches,antifungal cream,back,ringworm,circular spots
+hair loss,minoxidil solution,scalp,alopecia,thinning hair
+oily skin,salicylic acid wash,face,seborrheic dermatitis,flakiness
+cold sore,antiviral cream,lips,herpes simplex,burning
+ulcer,medicated mouth gel,tongue,oral ulcer,painful
+red eyes,lubricating drops,eyes,conjunctivitis,watery discharge
+swelling,ice compress,ankle,sprain,bruising
+muscle stiffness,physiotherapy,neck,cervical spondylosis,numbness
+cough,cough syrup,throat,bronchitis,mucus
+shortness of breath,inhaler,lungs,asthma,wheezing
+high fever,paracetamol,whole body,viral infection,fatigue
+yellowing skin,vitamin supplements,eyes,jaundice,nausea
+joint swelling,anti-inflammatory drug,knees,arthritis,stiffness
+brittle nails,keratin supplements,nails,nail dystrophy,discoloration
+severe headache,painkiller,head,migraine,sensitivity to light
+toothache,dental filling,teeth,cavity,sensitivity
+gum bleeding,antiseptic mouthwash,gums,gingivitis,swelling
+sore throat,warm salt water gargle,throat,pharyngitis,hoarseness
+ear pain,antibiotic drops,ears,otitis media,hearing loss
+dizziness,balance therapy,head,vertigo,nausea
+blurry vision,corrective glasses,eyes,refractive error,strain
+chest heaviness,beta blockers,chest,hypertension,dizziness
+irregular heartbeat,ECG monitoring,chest,arrhythmia,palpitations
+stomach cramps,antacid,stomach,gastritis,bloating
+indigestion,digestive enzyme tablets,stomach,dyspepsia,belching
+constipation,laxatives,intestine,IBS,discomfort
+diarrhea,oral rehydration salts,intestine,gastroenteritis,dehydration
+skin redness,hydrocortisone cream,face,rosacea,flushing
+patchy skin,phototherapy,arms,vitiligo,discoloration
+scaly skin,coal tar shampoo,scalp,psoriasis,itching
+bleeding nose,nasal spray,nose,epistaxis,dryness
+cracked heels,petroleum jelly,feet,fissures,rough skin
+weak bones,calcium supplements,bones,osteoporosis,fractures
+chest tightness,bronchodilator,chest,COPD,cough
+sudden weight gain,lifestyle modification,abdomen,hypothyroidism,swelling
+burning urination,antibiotics,urethra,UTI,fever
+pelvic pain,ultrasound checkup,pelvis,ovarian cyst,bloating
+irregular periods,hormonal pills,uterus,PCOS,acne
+breast lump,biopsy,breast,fibroadenoma,pain
+excessive sweating,antiperspirant,underarms,hyperhidrosis,odor
+trembling hands,beta blockers,hands,essential tremor,anxiety
+confusion,vitamin B12 injection,brain,dementia,memory loss
+back stiffness,heat therapy,lower back,slipped disc,numbness
+leg cramps,magnesium supplements,legs,muscle strain,tingling
+redness,soothing gel,nose,mild rosacea,itching
+flaky skin,hydrating lotion,cheeks,seborrheic dermatitis,dandruff
+white patches,antifungal cream,arms,vitiligo,discoloration
+burning sensation,cooling ointment,scalp,eczema,hair thinning
+scaly skin,steroid cream,elbows,psoriasis,cracking
+boils,antibiotic ointment,back,bacterial infection,pus discharge
+small blisters,antiviral cream,lips,cold sore,tingling
+yellow nails,antifungal drops,toenails,fungal infection,brittleness
+warts,cryotherapy,fingers,HPV infection,rough texture
+peeling skin,moisturizer,palms,contact dermatitis,irritation
+swollen lumps,warm compress,armpits,lymphadenitis,tenderness
+blackheads,salicylic acid cleanser,forehead,acne vulgaris,oily skin
+deep nodules,isotretinoin,chin,severe acne,scarring
+swollen eyelid,antibiotic drops,eyes,stye,redness
+crusty patches,medicated shampoo,scalp,dandruff,itching
+cracked heels,heel balm,feet,xerosis,roughness
+small ulcers,numbing gel,mouth,aphthous stomatitis,burning
+yellowish skin,herbal tonic,face,jaundice,fatigue
+ring-shaped rash,antifungal cream,thigh,ringworm,spreading
+purple patches,corticosteroids,legs,purpura,bleeding tendency
+hives,antihistamines,arms,urticaria,allergy
+raised bumps,benzoyl peroxide,back,folliculitis,pus-filled spots
+painful sores,acyclovir,genitals,herpes simplex,burning
+sunburn,aloe vera gel,shoulders,acute sunburn,peeling
+thick plaques,coal tar ointment,knees,psoriasis,scaling
+pus-filled cysts,incision & drainage,buttocks,abscess,fever
+persistent itch,antihistamine cream,neck,eczema,redness
+blue lips,oxygen therapy,lips,cyanosis,shortness of breath
+thickened skin,retinoid cream,hands,keratoderma,stiffness
+goosebumps,warm compress,arms,piloerection,chills
+nail ridges,biotin supplements,fingernails,brittle nails,weakness
+whiteheads,glycolic peel,face,comedonal acne,clogged pores
+fluid-filled blister,sterile dressing,heel,friction blister,pain
+lump under skin,surgical removal,shoulder,lipoma,movable
+itchy scalp,medicated oil,scalp,seborrhea,flaking
+dry eyes,lubricating drops,eyes,dry eye syndrome,irritation
+bleeding gums,mouthwash,gums,gingivitis,swelling
+metallic taste,zinc supplements,tongue,dysgeusia,nausea
+red streaks,antibiotics,leg,cellulitis,fever
+scarring,silicone gel,chest,keloid,raised tissue
+itchy rash,calamine lotion,waist,contact allergy,redness
+thick toenails,antifungal tablets,toes,onychomycosis,brittleness
+painful lump,hot compress,jaw,abscess,pus
+rough patches,emollient cream,arms,eczema,dryness
+open sores,silver dressing,foot,diabetic ulcer,poor healing
+swollen tongue,steroid tablets,tongue,angioedema,difficulty breathing
+cracked lips,petroleum jelly,lips,cheilitis,burning
+white coating,antifungal drops,tongue,oral thrush,soreness
+nail discoloration,antifungal lacquer,nails,fungal infection,brittleness
+darkened skin,hydroquinone cream,face,hyperpigmentation,uneven tone
+open blisters,bandage,toes,athlete’s foot,itchiness
+purplish veins,compression stockings,legs,varicose veins,pain
+pus pimples,clindamycin gel,chest,acne,redness
+yellow eyes,liver medication,eyes,jaundice,fatigue
+peeling lips,vitamin B supplements,lips,cheilitis,cracks
+skin tags,cryotherapy,neck,benign growth,irritation
+red scaly patches,coal tar shampoo,scalp,psoriasis,dandruff
+tender gums,dental cleaning,gums,periodontitis,bleeding
+brittle hair,protein treatment,scalp,malnutrition,hair fall
+swollen knees,anti-inflammatory gel,knees,arthritis,stiffness
+blue nails,oxygen therapy,nails,cyanosis,cold extremities
+itchy blisters,steroid ointment,arms,dermatitis herpetiformis,gluten sensitivity
+yellow crusts,antibiotic ointment,nose,impetigo,contagious
+swollen jaw,warm compress,jaw,mumps,fever
+discolored patches,herbal cream,back,pityriasis versicolor,scaling
+cracked nails,keratin treatment,nails,brittle nail syndrome,splitting
+painful gums,antiseptic rinse,gums,gingivitis,bad breath
+drooping eyelid,surgery,eyelid,ptosis,blurred vision
+sore throat,throat lozenges,throat,pharyngitis,hoarseness
+swollen ankles,diuretics,ankles,edema,water retention
+bulging eyes,thyroid treatment,eyes,hyperthyroidism,weight loss
+scabby scalp,medicated shampoo,scalp,scalp psoriasis,itching
+tingling hands,vitamin supplements,hands,neuropathy,numbness
+pale skin,iron tablets,face,anemia,fatigue
+swollen fingers,anti-inflammatory meds,fingers,arthritis,pain
+thick scars,laser therapy,chest,hypertrophic scar,raised skin
+tiny red spots,corticosteroid cream,torso,petechiae,bleeding
+swollen lips,antihistamine tablets,lips,allergy,itching
+brittle teeth,fluoride treatment,teeth,dental caries,pain
+skin cracking,emollient balm,heels,xerosis,dryness
+itchy eyelids,antihistamine drops,eyelids,blepharitis,swelling
+discolored nails,antifungal ointment,nails,nail fungus,fragility
+rashes,topical cream,abdomen,allergic dermatitis,redness
+jaw stiffness,pain relievers,jaw,tetanus,muscle spasms
+itchy palms,soothing lotion,palms,eczema,redness
+thick hair patches,laser therapy,face,hirsutism,hormonal imbalance
+swollen neck,antibiotics,neck,tonsillitis,fever
+rash with blisters,calamine lotion,torso,chickenpox,fever
+burning eyes,cooling drops,eyes,conjunctivitis,watery discharge
+painful heel,heel pad,heel,plantar fasciitis,stiffness
+yellowish nails,antifungal solution,nails,onychomycosis,fragility
+brown patches,bleaching cream,arms,melasma,hormonal cause
+pus boils,antibiotics,thigh,furunculosis,pain
+itchy patches,steroid cream,groin,eczema,redness
+swollen wrist,brace support,wrist,carpal tunnel,numbness
+redness in eyes,lubricating drops,eyes,conjunctivitis,itching
+painful toe,surgical removal,toe,ingrown toenail,swelling
+constant sneezing,antihistamine tablets,nose,allergic rhinitis,pollen allergy
+eye redness,lubricating eye drops,eyes,conjunctivitis,dust exposure
+cracked lips,moisturizing lip balm,lips,cheilitis,vitamin deficiency
+severe cough,cough syrup,throat,bronchitis,smoking history
+rapid heartbeat,beta-blockers,chest,tachycardia,stress related
+joint stiffness,physiotherapy,knees,osteoarthritis,old age
+brittle nails,biotin supplements,fingers,nutritional deficiency,low iron
+difficulty swallowing,proton pump inhibitors,throat,acid reflux,obesity
+blurred vision,corrective lenses,eyes,refractive error,myopia
+muscle cramps,magnesium supplements,calves,electrolyte imbalance,dehydration
+sore gums,antiseptic mouthwash,gums,gingivitis,poor oral hygiene
+swollen eyelids,antihistamine drops,eyes,blepharitis,bacterial infection
+toothache,root canal,molars,dental caries,sweet consumption
+excessive sweating,antiperspirant,underarms,hyperhidrosis,anxiety
+hair thinning,minoxidil solution,scalp,alopecia,hormonal imbalance
+weak grip,hand therapy,hands,carpal tunnel syndrome,repetitive work
+chest pain,nitroglycerin tablets,chest,angina,coronary artery disease
+fainting spells,pacemaker,heart,arrhythmia,low blood pressure
+wheezing,inhaler,lungs,asthma,dust allergy
+high fever,paracetamol,whole body,viral fever,seasonal flu
+yellow eyes,antiviral drugs,eyes,hepatitis,liver infection
+swollen ankles,diuretics,legs,edema,kidney disorder
+cold feet,warming therapy,feet,poor circulation,diabetes
+itchy scalp,medicated shampoo,scalp,dandruff,fungal infection
+ringing ears,hearing aids,ears,tinnitus,loud noise exposure
+black stool,endoscopy,intestines,gastrointestinal bleed,ulcer
+stiff neck,neck collar,neck,cervical spondylosis,computer strain
+dry skin,hydrating lotion,skin,eczema,cold climate
+slow healing wounds,antibiotics,skin,diabetes complication,high sugar
+hand tremors,levodopa,hands,Parkinson’s disease,elderly
+sudden weight gain,hormone therapy,whole body,hypothyroidism,thyroid disorder
+rapid weight loss,insulin therapy,body,type 1 diabetes,pancreas issue
+frequent urination,antibiotics,bladder,UTI,bacterial infection
+sleepiness,CPAP machine,airway,sleep apnea,obesity
+swollen glands,antibiotics,neck,lymphadenitis,throat infection
+shortness of breath,bronchodilators,lungs,COPD,smoking history
+itchy throat,lozenges,throat,pharyngitis,viral infection
+red patches,topical steroids,skin,psoriasis,genetic
+vomiting,rehydration solution,stomach,gastritis,food poisoning
+pale skin,vitamin B12 injections,skin,pernicious anemia,malnutrition
+cracked heels,urea cream,feet,xerosis,winter dryness
+nosebleeds,nasal spray,nose,epistaxis,dry climate
+back stiffness,exercise therapy,spine,ankylosing spondylitis,autoimmune
+sudden dizziness,balance therapy,ear,vertigo,inner ear disorder
+swollen fingers,pain relievers,fingers,rheumatoid arthritis,autoimmune disorder
+bluish lips,oxygen therapy,lips,cyanosis,lung disease
+itchy eyes,antihistamine drops,eyes,allergic conjunctivitis,pollen allergy
+bleeding gums,scaling,gums,periodontitis,tartar buildup
+tooth sensitivity,fluoride toothpaste,teeth,enamel erosion,acidic foods
+sore tongue,vitamin supplements,tongue,glossitis,iron deficiency
+swollen tonsils,antibiotics,throat,tonsillitis,bacterial infection
+voice hoarseness,vocal rest,throat,laryngitis,overuse of voice
+acne scars,chemical peel,cheeks,post-acne scarring,cosmetic
+dry cough,expectorant,lungs,viral bronchitis,cold weather
+indigestion,antacids,stomach,dyspepsia,spicy food
+swollen lips,antihistamines,lips,angioedema,allergic reaction
+itching rash,calamine lotion,arms,contact dermatitis,chemical exposure
+cloudy urine,antibiotics,bladder,urinary infection,dehydration
+irregular heartbeat,antiarrhythmic drugs,chest,arrhythmia,heart condition
+frequent headaches,analgesics,head,migraine,stress
+chest tightness,bronchodilator,lungs,asthma attack,allergy
+bluish nails,oxygen therapy,nails,hypoxia,heart condition
+excessive thirst,insulin,whole body,diabetes,high sugar
+swollen feet,compression stockings,feet,varicose veins,long standing
+itchy hands,steroid cream,hands,eczema,detergent allergy
+skin peeling,moisturizer,palms,dermatitis,chemical exposure
+stiff joints,heat therapy,elbows,rheumatoid arthritis,autoimmune disorder
+low energy,vitamin D supplements,body,deficiency,lack of sunlight
+drooping eyelid,surgery,eyes,ptosis,nerve damage
+swollen abdomen,diuretics,stomach,ascites,liver cirrhosis
+rash with fever,antibiotics,body,measles,viral infection
+watery stool,ORS,intestines,diarrhea,food poisoning
+chest heaviness,aspirin,chest,myocardial infarction,smoking
+swollen wrist,splint,wrist,sprain,injury
+pus discharge,antibiotics,ear,ear infection,bacterial
+hardened skin,steroid cream,legs,scleroderma,autoimmune
+burning urination,antibiotics,urethra,UTI,bacterial infection
+stiff lower back,physiotherapy,spine,lumbar spondylosis,aging
+jaw pain,dental treatment,jaw,TMJ disorder,stress
+dry cough with blood,bronchoscopy,lungs,tuberculosis,infection
+cracked tongue,vitamin B complex,tongue,fissured tongue,dehydration
+pale lips,iron therapy,lips,anemia,low hemoglobin
+swollen cheeks,cold compress,cheeks,mumps,viral
+drooping shoulder,physiotherapy,shoulder,nerve palsy,trauma
+itchy ankles,antifungal cream,ankles,athlete’s foot,fungal
+nausea,antiemetic,stomach,food poisoning,viral infection
+hand weakness,nerve therapy,hands,neuropathy,diabetes
+frequent burping,antacids,stomach,gastritis,spicy food
+cracked nails,keratin treatment,nails,onychoschizia,deficiency
+eye twitching,magnesium supplements,eyelids,fatigue,stress
+facial swelling,corticosteroids,face,angioedema,allergy
+muscle stiffness,muscle relaxants,back,fibromyalgia,stress
+swollen eyelids in morning,cold compress,eyes,fluid retention,kidney issues
+shaking hands,propranolol,hands,tremor,anxiety
+burning chest,antacids,chest,GERD,reflux
+swollen scalp,medicated shampoo,scalp,folliculitis,bacterial infection
+itchy elbows,calamine lotion,elbows,eczema,allergic rash
+cracked heels,moisturizing cream,feet,dry skin,fungal risk
+toothache,dental filling,molars,cavity,dentist visit
+blurry vision,corrective lenses,eyes,myopia,optometrist consult
+stiff neck,hot compress,neck,cervical strain,posture correction
+brittle nails,biotin supplement,nails,vitamin deficiency,nail care
+cough,cough syrup,throat,bronchitis,avoid dust
+dizziness,rest,head,vertigo,ENT consult
+nausea,antiemetic,stomach,food poisoning,bland diet
+itchy scalp,medicated shampoo,scalp,dandruff,scalp hygiene
+bloating,probiotics,abdomen,indigestion,dietary change
+fatigue,iron tablets,whole body,anemia,blood test
+swollen gums,antiseptic mouthwash,gums,gingivitis,dental hygiene
+hair fall,hair serum,scalp,alopecia,nutrition check
+sneezing,antihistamine,nose,allergy,pollen exposure
+rash,calamine lotion,arms,eczema,skin patch test
+cracked lips,lip balm,lips,dehydration,vitamin check
+joint pain,pain reliever,knees,arthritis,physiotherapy
+yellow teeth,whitening paste,teeth,enamel stain,dental cleaning
+sore throat,warm salt water,throat,tonsillitis,avoid cold drinks
+night sweats,hormone therapy,whole body,menopause,checkups
+leg cramps,magnesium supplement,legs,electrolyte imbalance,hydration
+swollen eyelids,antihistamine drops,eyes,eye allergy,avoid irritants
+back stiffness,stretching exercises,back,lumbar strain,ergonomic chair
+chest tightness,bronchodilator,chest,asthma,inhaler prescribed
+runny nose,saline spray,nose,rhinitis,humidifier
+ear pain,antibiotic drops,ear,otitis media,ENT consult
+hiccups,sipping water,diaphragm,irritation,relax breathing
+cracked skin,petroleum jelly,hands,dermatitis,gloves recommended
+indigestion,digestive enzyme,stomach,gastritis,diet change
+swollen ankle,cold compress,ankle,sprain,rest
+tooth sensitivity,desensitizing paste,teeth,enamel erosion,dental visit
+red eyes,lubricating drops,eyes,conjunctivitis,hygiene care
+swollen tonsils,antibiotics,throat,throat infection,gargling
+dry cough,herbal tea,chest,seasonal flu,steam inhalation
+cracked toenails,antifungal ointment,toenails,fungal infection,foot hygiene
+skin peeling,aloe vera gel,palms,contact dermatitis,patch test
+numb fingers,physiotherapy,fingers,nerve compression,ergonomic tools
+excessive thirst,insulin therapy,whole body,diabetes,sugar monitoring
+palpitations,beta-blocker,heart,arrhythmia,ECG scan
+dry eyes,lubricating drops,eyes,eye strain,computer break
+swollen lips,antihistamine,lips,allergic reaction,avoid triggers
+swollen abdomen,diuretic,abdomen,fluid retention,ultrasound
+fainting,glucose tablets,whole body,hypoglycemia,blood sugar test
+excessive yawning,rest,face,sleep disorder,sleep hygiene
+cracked teeth,dental crown,teeth,tooth fracture,dental X-ray
+swollen wrist,wrist brace,wrist,sprain,ice therapy
+stomach cramps,antispasmodic,abdomen,IBS,food log
+brittle hair,protein shampoo,hair,malnutrition,diet check
+swollen foot,elevation,foot,edema,compression socks
+frequent urination,medication,bladder,UTI,urinalysis
+pale skin,iron supplements,skin,anemia,blood work
+stammering,speech therapy,mouth,speech disorder,practice sessions
+excessive sweating,antiperspirant,underarms,hyperhidrosis,botox therapy
+light sensitivity,sunglasses,eyes,photophobia,eye checkup
+stiff elbow,physiotherapy,elbow,tendonitis,rest
+swollen knee,ice pack,knee,ligament injury,MRI scan
+sore muscles,massage therapy,muscles,muscle strain,relaxation
+cracked voice,voice rest,throat,laryngitis,hydration
+chest pain,nitroglycerin,chest,angina,ECG monitoring
+hearing loss,hearing aid,ear,sensorineural loss,ENT care
+ulcers,antacid,mouth,mouth ulcers,avoid spicy food
+swollen finger,splint,finger,fracture,X-ray scan
+watery eyes,eye drops,eyes,eye infection,hygiene check
+blurred speech,neuro therapy,tongue,stroke,CT scan
+hair thinning,minoxidil,scalp,androgenic alopecia,hormonal check
+vomiting,oral rehydration,stomach,gastroenteritis,fluids
+swollen neck,antibiotics,neck,lymphadenitis,biopsy
+cold hands,warm compress,hands,poor circulation,checkup
+wheezing,inhaler,chest,COPD,lung function test
+cracked ankle,ankle support,ankle,ligament tear,MRI scan
+swollen gums,scaling treatment,gums,periodontitis,oral hygiene
+nosebleeds,nasal pack,nose,epistaxis,ENT care
+swollen finger joint,painkillers,finger joint,rheumatoid arthritis,rheumatology visit
+coughing blood,antibiotics,lungs,tuberculosis,chest X-ray
+shortness of breath,oxygen therapy,lungs,pneumonia,spirometry
+crooked teeth,braces,teeth,malocclusion,orthodontist care
+swollen eyelid,antibiotic ointment,eyelid,stye,warm compress
+brittle bones,calcium tablets,bones,osteoporosis,DEXA scan
+high fever,antibiotics,whole body,typhoid,blood test
+cracked wrist,cast,wrist,fracture,X-ray
+mouth dryness,saliva substitute,mouth,dehydration,fluid intake
+itchy eyes,antihistamine drops,eyes,hay fever,pollen avoidance
+swollen chest,biopsy,chest,tumor,oncologist consult
+loss of appetite,appetite stimulant,stomach,anorexia,nutrition therapy
+swollen thumb,cold compress,thumb,sprain,rest
+trembling hands,medication,hands,Parkinson’s disease,neurologist visit
+cracked elbow skin,moisturizing lotion,elbow,eczema,skin care routine
+low blood pressure,IV fluids,whole body,hypotension,monitoring
+swollen face,antihistamine,face,allergic edema,allergist care
+bleeding gums,vitamin C tablets,gums,scurvy,dental hygiene
+loss of memory,cognitive therapy,brain,dementia,MRI brain scan
+swollen tongue,steroid injection,tongue,glossitis,ENT consult
+insomnia,melatonin,brain,sleep disorder,sleep study
+cracked lips,lip balm,lips,cheilitis,dryness
+yellow nails,antifungal cream,nails,onychomycosis,brittle
+watery eyes,antihistamine drops,eyes,allergic conjunctivitis,itching
+swollen ankles,compression stockings,ankles,edema,mild swelling
+pale skin,iron supplements,skin,anemia,fatigue
+persistent hiccups,muscle relaxants,diaphragm,diaphragmatic spasm,continuous
+brittle hair,biotin tablets,scalp,nutritional deficiency,hair thinning
+ringing in ears,ear drops,ears,tinnitus,buzzing
+jaw pain,dental splint,jaw,TMJ disorder,stiffness
+frequent sneezing,nasal spray,nose,allergic rhinitis,dust allergy
+blurred vision,corrective glasses,eyes,refractive error,headaches
+chest tightness,inhaler,chest,asthma,wheezing
+peeling skin,moisturizing lotion,hands,eczema,redness
+cracked heels,foot cream,heels,fissures,pain while walking
+white patches,antifungal ointment,skin,tinea versicolor,itching
+purple lips,oxygen therapy,lips,cyanosis,breathlessness
+darkened gums,antiseptic mouthwash,gums,gingivitis,swelling
+swollen fingers,anti-inflammatory gel,fingers,arthritis,morning stiffness
+eye twitching,magnesium supplements,eyelid,blepharospasm,stress related
+runny nose,saline drops,nose,common cold,sneezing
+cold hands,thermal gloves,hands,poor circulation,numbness
+facial drooping,physiotherapy,face,Bell’s palsy,difficulty smiling
+hair loss patches,corticosteroid cream,scalp,alopecia areata,circular bald spots
+joint swelling,methotrexate,knee,rheumatoid arthritis,stiffness
+eye dryness,artificial tears,eyes,dry eye syndrome,irritation
+drooping eyelids,eyelid surgery,eyelids,ptosis,vision obstruction
+flaky scalp,anti-dandruff shampoo,scalp,seborrheic dermatitis,itching
+persistent cough,cough syrup,throat,bronchitis,sore chest
+cracked tongue,vitamin B complex,tongue,glossitis,pain while eating
+swollen throat,antibiotics,throat,tonsillitis,fever
+finger stiffness,paraffin wax therapy,fingers,osteoarthritis,morning pain
+skin blisters,antibiotic ointment,feet,impetigo,pus-filled
+yellow eyes,liver detox medication,eyes,jaundice,nausea
+crooked teeth,braces,teeth,malocclusion,speech issues
+drooping shoulders,physiotherapy,shoulders,muscle weakness,posture issue
+cracking joints,calcium supplements,joints,osteoporosis,frequent pain
+swollen eyelids,antihistamine tablets,eyelids,allergic reaction,redness
+burning urination,antibiotics,bladder,UTI,frequent urination
+nail ridges,multivitamins,nails,nutritional deficiency,weakness
+ear fullness,ear irrigation,ears,wax buildup,mild hearing loss
+itchy scalp,medicated shampoo,scalp,lice infestation,scratching
+red eyes,eye drops,eyes,conjunctivitis,discharge
+crooked nose,surgery,nose,deviated septum,breathing difficulty
+swollen gums,dental cleaning,gums,periodontal disease,bleeding
+cracked voice,voice therapy,throat,laryngitis,hoarseness
+drooping mouth corner,physiotherapy,mouth,facial paralysis,difficulty speaking
+weak grip,hand exercises,hand,carpal tunnel syndrome,numbness
+finger nodules,anti-inflammatory tablets,fingers,gout,sharp pain
+painful urination,antibiotics,urinary tract,cystitis,urgency
+nosebleeds,nasal cauterization,nose,epistaxis,dizziness
+swollen abdomen,diuretics,abdomen,ascites,bloating
+dry cracked skin,emollient cream,elbows,psoriasis,scaling
+finger deformity,physiotherapy,fingers,rheumatoid arthritis,pain
+wheezing,bronchodilators,chest,asthma,shortness of breath
+irregular heartbeat,beta-blockers,heart,arrhythmia,palpitations
+puffy eyes,cold compress,eyes,fluid retention,morning swelling
+weak bones,calcium & vitamin D,bones,osteoporosis,fractures
+cracked nails,keratin supplements,nails,brittle nail syndrome,splitting
+abdominal cramps,antispasmodics,abdomen,IBS,bloating
+numb toes,warm socks,toes,neuropathy,tingling
+facial swelling,steroids,face,angioedema,sudden onset
+shoulder stiffness,stretching exercises,shoulders,frozen shoulder,pain on movement
+itchy palms,soothing cream,palms,eczema,redness
+painful knee cap,knee brace,knee,patellofemoral syndrome,swelling
+yellow tongue,antifungal tablets,tongue,oral thrush,coating
+difficulty swallowing,antibiotics,throat,strep throat,fever
+stiff back,heat therapy,back,lumbar spondylosis,restricted movement
+flaky eyebrows,antifungal cream,eyebrows,seborrheic dermatitis,itching
+popping ears,decongestants,ears,eustachian tube dysfunction,pressure sensation
+cracked fingertips,moisturizing ointment,fingers,eczema,winter flare-up
+dry cracked lips,petroleum jelly,lips,chapped lips,bleeding
+swollen eyelid glands,warm compress,eyelids,stye,tenderness
+itchy rash,corticosteroid ointment,arms,dermatitis,redness
+sharp chest pain,nitroglycerin,chest,angina,tightness
+swollen wrist,wrist brace,wrist,carpal tunnel,tingling
+weak legs,physiotherapy,legs,neuropathy,instability
+chest burning,antacids,chest,acid reflux,sour taste
+cracked heels severe,urea cream,heels,deep fissures,pain
+swollen tongue,antihistamines,tongue,allergic reaction,breathing issue
+night sweats,herbal tea,body,tuberculosis,cough
+peeling nails,nail strengthener,nails,nail psoriasis,brittle
+dry throat,lozenges,throat,pharyngitis,irritation
+shaking hands,beta-blockers,hands,essential tremor,tremors
+watery blisters,antiviral cream,lips,herpes simplex,painful sores
+stiff fingers,paraffin therapy,fingers,arthritis,cracking joints
+chest congestion,expectorant,chest,pneumonia,fever
+facial rash,antibiotic cream,cheeks,bacterial infection,swelling
+swollen legs,diuretics,legs,venous insufficiency,heaviness
+itchy ears,ear drops,ears,eczema,scaling
+jaw clicking,dental guard,jaw,TMJ dysfunction,pain chewing
+cracked elbows,healing ointment,elbows,dermatitis,itchiness
+swollen throat nodes,antibiotics,neck,lymphadenitis,tenderness
+painful shoulder,physiotherapy,shoulder,bursitis,limited movement
+dry itchy scalp,herbal oil,scalp,dandruff,flakes
+burning chest,proton pump inhibitors,chest,GERD,sour burps
+stiff ankle,ankle brace,ankle,sprain,swelling
+High fever,Antimalarial tablets,Whole body,Malaria,Mosquito bite history
+Severe chills,Intravenous fluids,Whole body,Dengue,Low platelet count
+Joint pain,Pain relievers,Joints,Chikungunya,Swelling
+Persistent cough,Antibiotics,Lungs,Tuberculosis,Night sweats
+Abdominal cramps,ORS solution,Stomach,Cholera,Dehydration
+Yellow eyes,Liver tonics,Eyes,Jaundice,Weakness
+Headache,Antipyretic syrup,Head,Typhoid,Rose spots on abdomen
+Vomiting,Oral hydration salts,Stomach,Food Poisoning,Contaminated food
+Rabid dog bite,Rabies vaccine,Hand,Rabies,Agitation
+Sneezing,Antihistamine tablet,Nose,Seasonal Allergy,Itchy eyes
+Runny nose,Decongestant drops,Nose,Common Cold,Sore throat
+Muscle weakness,Vitamin supplements,Muscles,Anemia,Pale skin
+Severe diarrhea,IV hydration,Stomach,Gastroenteritis,Abdominal pain
+Persistent sore throat,Lozenges,Throat,Strep Throat,Fever
+Burning urination,Antibiotics,Urinary tract,UTI,Frequent urination
+Rashes,Antihistamine cream,Skin,Chickenpox,Fluid-filled blisters
+Pain behind eyes,Painkillers,Eyes,Dengue,High fever
+Severe headache,Antimalarial injection,Head,Malaria,Sweating
+Loss of appetite,Antibiotics,Stomach,Typhoid,Fatigue
+Red eyes,Eye drops,Eyes,Conjunctivitis,Irritation
+Swollen lymph nodes,Antiviral medication,Neck,Measles,Cough
+Nausea,Rehydration solution,Stomach,Cholera,Rice-water stools
+Severe itching,Ointment,Skin,Scabies,Rash
+Night sweats,Strong antibiotics,Lungs,Tuberculosis,Persistent cough
+Shivering,Paracetamol,Whole body,Influenza,Muscle ache
+Fatigue,Iron supplements,Whole body,Anemia,Brittle nails
+Ulcers in mouth,Antifungal gel,Mouth,Candidiasis,White patches
+Painful urination,Antibiotics,Bladder,UTI,Fever
+Severe body ache,Pain relievers,Whole body,Chikungunya,Rash
+High fever,Intravenous fluids,Whole body,Dengue,Weakness
+Rash with fever,Antiviral syrup,Skin,Measles,Dry cough
+Weakness,Electrolyte powder,Whole body,Typhoid,Diarrhea
+Cough with blood,Antibiotics,Lungs,Tuberculosis,Chest pain
+Dog bite wound,Rabies vaccine,Leg,Rabies,Anxiety
+Itchy rash,Antihistamine cream,Skin,Chickenpox,Fever
+Swelling in joints,Pain relief ointment,Knees,Chikungunya,Fatigue
+Stomach pain,Antibiotics,Abdomen,Typhoid,High fever
+Watery stool,ORS,Abdomen,Cholera,Vomiting
+Fever with jaundice,Liver support drugs,Liver,Hepatitis A,Loss of appetite
+Severe cough,Antiviral syrup,Chest,Influenza,Headache
+Rash,Herbal lotion,Skin,Scabies,Redness
+Cough & fever,Cough syrup,Lungs,Bronchitis,Chest congestion
+Persistent fever,Strong antibiotics,Whole body,Typhoid,Stomach cramps
+Fever & chills,Antimalarial tablets,Whole body,Malaria,Weakness
+Skin ulcers,Antifungal cream,Skin,Leprosy,Numb patches
+Dark urine,Antiviral medicines,Liver,Hepatitis B,Jaundice
+Fever with rash,Herbal remedies,Skin,Dengue,Joint pain
+Chest tightness,Inhaler,Chest,Asthma,Breathlessness
+Night sweats,Antibiotics,Lungs,Tuberculosis,Weight loss
+Constant headache,Malaria injection,Head,Malaria,Shivering
+Muscle pain,Painkillers,Body,Influenza,Weakness
+Red rashes,Antihistamine,Skin,Chickenpox,Fever
+Abdominal bloating,Antacids,Stomach,Gastritis,Heartburn
+Yellow skin,Liver medication,Skin,Jaundice,Fatigue
+Severe dehydration,IV fluids,Body,Cholera,Sunken eyes
+Throat pain,Antibiotics,Throat,Tonsillitis,Swelling
+Nose congestion,Steam inhalation,Nose,Sinusitis,Headache
+Cough with phlegm,Antibiotics,Chest,Pneumonia,Fever
+Loss of consciousness,Emergency injection,Brain,Cerebral Malaria,High fever
+Rash with itching,Antihistamine cream,Skin,Measles,Fever
+Severe fatigue,Energy boosters,Whole body,Dengue,Joint pain
+Persistent fever,Herbal tea,Body,Influenza,Cold sweats
+Swelling in throat,Gargles,Throat,Diphtheria,Difficulty swallowing
+Black stools,Iron supplements,Stomach,Gastric Ulcer,Pain
+Severe diarrhea,ORS,Abdomen,Gastroenteritis,Vomiting
+Breathlessness,Oxygen therapy,Lungs,Pneumonia,Chest pain
+Burning eyes,Eye drops,Eyes,Conjunctivitis,Redness
+Severe itching,Anti-parasitic cream,Skin,Scabies,Red bumps
+Throat swelling,Antitoxin injection,Throat,Diphtheria,Grey coating in throat
+Cold & sneezing,Herbal steam,Nose,Common Cold,Sore throat
+Persistent fever,Antimalarial drugs,Body,Malaria,Vomiting
+Jaundice signs,Antiviral,Liver,Hepatitis E,Nausea
+Severe cough,Cough syrup,Lungs,Whooping Cough,Vomiting
+Leg weakness,Physiotherapy,Legs,Polio,Muscle stiffness
+Pain with fever,Antibiotics,Chest,Pneumonia,Cough
+High fever,IV fluids,Body,Dengue,Rash
+Rash on chest,Calamine lotion,Chest,Measles,High fever
+Yellow urine,Liver tonics,Abdomen,Hepatitis A,Loss of appetite
+Shivering,Antipyretics,Whole body,Influenza,Body ache
+Severe pain,Pain relief spray,Joints,Chikungunya,Fatigue
+Vomiting & diarrhea,IV hydration,Stomach,Gastroenteritis,Weakness
+Swollen face,Antibiotics,Face,Mumps,Painful salivary gland
+Headache with nausea,Antimalarial injection,Head,Malaria,Chills
+Fatigue,Herbal remedies,Whole body,Dengue,Low platelet count
+Breathing issues,Inhaler,Chest,Asthma,Wheezing
+Severe rash,Antiviral,Skin,Chickenpox,Fever
+High fever,IV antibiotics,Whole body,Typhoid,Diarrhea
+Red swollen eyes,Eye ointment,Eyes,Conjunctivitis,Watering eyes
+Rash with blisters,Antihistamine cream,Skin,Chickenpox,Fever
+Fatigue with fever,ORS,Whole body,Cholera,Vomiting
+Dog scratch,Rabies injection,Arm,Rabies,Hydrophobia
+Stomach cramps,Antibiotics,Abdomen,Typhoid,Fever
+Cough with wheeze,Inhaler,Lungs,Bronchitis,Chest tightness
+Night sweats,Antitubercular therapy,Lungs,Tuberculosis,Fatigue
+Severe headache,Antipyretics,Head,Dengue,Rash
+Shivering with fever,Antimalarial tablets,Whole body,Malaria,Sweating
+Pain in throat,Lozenges,Throat,Tonsillitis,Fever
+Body weakness,Vitamin supplements,Whole body,Anemia,Dizziness
+high fever,antimalarial tablets,whole body,malaria,mosquito bite
+chills and sweating,IV fluids,whole body,dengue,platelet monitoring
+severe headache,paracetamol,head,chikungunya,joint pain
+skin rash,antiviral medication,skin,measles,vaccination history
+cough,antibiotics,lungs,tuberculosis,weight loss
+muscle pain,hydration therapy,muscles,swine flu,influenza virus
+sore throat,antiviral syrup,throat,H1N1 flu,nasal congestion
+breathing difficulty,oxygen therapy,lungs,covid-19,positive PCR test
+loss of smell,zinc supplements,nose,coronavirus infection,isolation advised
+diarrhea,oral rehydration solution,stomach,cholera,contaminated water
+vomiting,IV saline,stomach,food poisoning,bacterial infection
+jaundice,liver support medicine,liver,hepatitis A,viral infection
+fatigue,antiviral therapy,liver,hepatitis B,blood test
+stomach cramps,antibiotics,intestines,typhoid,Salmonella bacteria
+painful blisters,antiviral cream,skin,chickenpox,varicella virus
+swollen glands,antiviral tablets,neck,mumps,contagious disease
+itchy rash,antihistamine tablets,skin,scabies,parasite infection
+chest pain,antibiotics,chest,pneumonia,X-ray required
+bloody cough,strong antibiotics,lungs,severe pneumonia,ICU care
+rabid behavior,rabies vaccine,nerves,rabies,dog bite history
+paralysis,polio drops,legs,polio,childhood disease
+joint swelling,painkillers,joints,chikungunya,mosquito-borne
+shivering,quinine injection,whole body,severe malaria,ICU observation
+runny nose,nasal spray,nose,seasonal flu,viral infection
+itchy eyes,eye drops,eyes,conjunctivitis,red eye
+dehydration,IV fluids,whole body,gastroenteritis,vomiting + diarrhea
+rash with fever,antiviral injection,skin,rubella,childhood disease
+breathlessness,nebulizer therapy,lungs,asthma attack,allergy trigger
+severe diarrhea,antibiotics,intestines,dysentery,contaminated food
+skin ulcers,antifungal ointment,skin,fungal infection,hygiene issue
+wheezing,inhaler therapy,lungs,bronchitis,smoking history
+nausea,anti-nausea medicine,stomach,stomach flu,viral cause
+headache,pain reliever,head,dengue,mosquito season
+bleeding gums,vitamin C supplements,mouth,scurvy,nutritional deficiency
+leg pain,iron supplements,legs,anemia,low hemoglobin
+eye pain,antibiotic drops,eyes,eye infection,bacterial cause
+burning urination,antibiotics,urinary tract,UTI,bacterial infection
+sneezing,antihistamines,nose,allergic rhinitis,pollen allergy
+fever with chills,antiviral drugs,whole body,viral fever,seasonal outbreak
+weight loss,antibiotics,lungs,TB (tuberculosis),chronic cough
+loss of appetite,IV fluids,stomach,stomach infection,vomiting
+dizziness,oral rehydration,brain,dehydration,heat exposure
+swollen feet,diuretics,legs,kidney disease,urine retention
+body ache,antiviral syrup,whole body,influenza,flu virus
+rashes and fever,antipyretics,skin,Zika virus,mosquito-borne
+black stool,endoscopy + medicine,stomach,gastric ulcer,H. pylori infection
+shortness of breath,oxygen cylinder,lungs,covid pneumonia,ICU case
+chest tightness,inhaler,lungs,asthma,allergy season
+weakness,nutritional supplements,whole body,dengue recovery,vitamin deficiency
+dog bite wound,rabies shots,arm,rabies suspected,wound care
+night sweats,anti-TB medicine,lungs,tuberculosis relapse,MDR-TB check
+swollen abdomen,antiviral drugs,abdomen,hepatitis C,chronic condition
+itchy scalp,medicated shampoo,scalp,lice infestation,contagious
+blood vomiting,emergency surgery,stomach,gastric bleeding,ulcer complications
+cough with phlegm,antibiotics,lungs,bronchitis,smoker history
+yellow eyes,liver tonic,liver,jaundice,hepatitis check
+loss of consciousness,ventilator support,brain,covid severe,ICU admitted
+painful joints,painkillers,joints,chikungunya,seasonal outbreak
+cracked lips,hydration therapy,lips,dehydration,hot climate
+rash with itching,antifungal cream,skin,ringworm,fungal cause
+ear pain,antibiotic ear drops,ear,ear infection,bacterial cause
+persistent cough,anti-TB drugs,lungs,tuberculosis,MDR risk
+high temperature,antiviral drugs,whole body,covid,positive RAT test
+leg swelling,dialysis support,legs,kidney failure,urea high
+nasal blockage,steam inhalation,nose,sinusitis,allergy or cold
+watery stools,ORS solution,stomach,cholera outbreak,flood season
+muscle cramps,electrolyte drinks,muscles,dehydration,heat stroke
+vomiting blood,endoscopy + treatment,stomach,stomach ulcer,gastritis
+fainting,glucose injection,whole body,hypoglycemia,diabetic patient
+dry cough,cough syrup,throat,seasonal flu,viral infection
+painful throat,antibiotics,throat,strep throat,bacterial infection
+chest congestion,nebulizer,lungs,bronchitis,asthma overlap
+weak immune response,multivitamins,whole body,covid recovery,post-virus fatigue
+swollen throat,pain reliever + antibiotics,throat,tonsillitis,bacterial cause
+loss of taste,zinc tablets,tongue,covid,mild case
+rashes with blisters,antiviral tablets,skin,monkeypox,contagious outbreak
+uncontrollable fever,IV paracetamol,whole body,dengue hemorrhagic,severe case
+coughing blood,antibiotics,lungs,lung TB,MDR possible
+difficulty swallowing,antifungal tablets,throat,oral thrush,fungal infection
+night blindness,vitamin A supplements,eyes,vitamin A deficiency,nutrition-related
+high pulse rate,electrolyte monitoring,heart,dehydration,heat exhaustion
+severe weakness,rest + fluids,whole body,malaria recovery,post-treatment fatigue
+stomach bloating,probiotics,intestines,gut infection,poor diet
+itchy skin,anti-allergy lotion,skin,eczema,dry skin
+swollen red eye,antibiotic eye drops,eyes,pink eye,viral infection
+watery nose,antihistamines,nose,hay fever,pollen allergy
+stiff neck,antibiotics,neck,meningitis,lumbar puncture
+high blood sugar,insulin injection,body,diabetes,glucose monitoring
+sore muscles,pain relief ointment,muscles,chikungunya recovery,mosquito disease
+sneezing fits,antihistamine spray,nose,common cold,seasonal trigger
+fever with rashes,antiviral syrup,skin,hand-foot-mouth disease,child infection
+chest heaviness,oxygen therapy,lungs,covid severe,ICU admitted
+back pain,hot compress + tablets,back,dengue recovery,post-viral weakness
+Severe headache,Paracetamol,Head,Dengue fever,Platelet drop
+Joint pain,Pain reliever,Knees,Chikungunya,Mosquito-borne
+Persistent cough,Antiviral drugs,Lungs,COVID-19,Positive test
+Shortness of breath,Oxygen therapy,Chest,Severe COVID-19,ICU admission
+Loss of smell,Home isolation,Nose,Mild COVID-19,RTPCR confirmed
+Rash on skin,Hydrocortisone cream,Arms,Measles,Viral infection
+Swelling of glands,Antibiotics,Neck,Mumps,Childhood disease
+Sore throat,Lozenges,Throat,Influenza (Flu),Seasonal infection
+Stiff neck,Lumbar puncture treatment,Neck,Meningitis,Emergency case
+Burning urination,Antibiotics,Urinary tract,Urinary Tract Infection,Bacterial infection
+Foamy urine,Dialysis,Kidneys,Chronic Kidney Disease,Long-term illness
+Yellowing of eyes,Hepatitis medication,Liver,Hepatitis B,Viral infection
+Severe stomach ache,Oral rehydration salts,Abdomen,Cholera,Contaminated water
+Dehydration,IV fluids,Whole body,Diarrhea,Foodborne disease
+Muscle cramps,Magnesium supplements,Legs,Typhoid fever,Salmonella bacteria
+Cold chills,Antiviral injection,Whole body,Swine Flu (H1N1),Pandemic outbreak
+Open wound,Rabies vaccine,Hand,Rabies,Dog bite
+Fatigue,Rest & nutrition,Whole body,Seasonal Flu,Winter illness
+Skin peeling,Antifungal cream,Feet,Athlete’s foot,Fungal infection
+Grey patches,Skin ointment,Back,Psoriasis,Autoimmune disease
+Itchy scalp,Anti-dandruff shampoo,Scalp,Dandruff,Fungal growth
+Severe bleeding,Blood transfusion,Whole body,Dengue hemorrhagic fever,Emergency
+Blurred vision,Insulin therapy,Eyes,Diabetic Retinopathy,Diabetes-related
+Chest pain,Nitroglycerin,Chest,Heart Attack (MI),Cardiac emergency
+Irregular heartbeat,Beta-blockers,Heart,Arrhythmia,ECG abnormality
+Paralysis,Physiotherapy,Left side body,Stroke,Blood clot
+Tremors,Levodopa,Hands,Parkinson’s disease,Nervous disorder
+Memory loss,Cholinesterase inhibitors,Brain,Alzheimer’s disease,Dementia
+Seizures,Antiepileptic drugs,Brain,Epilepsy,Neurological issue
+Weight loss,Chemotherapy,Lungs,Lung Cancer,Malignant tumor
+Lump in breast,Surgery,Breast,Breast Cancer,Biopsy confirmed
+Dark stools,Endoscopy,Stomach,Stomach Ulcer,Gastro issue
+Vomiting blood,Proton pump inhibitors,Stomach,Gastric Bleeding,Emergency
+Jaundice,Hepatitis vaccine,Liver,Hepatitis A,Viral outbreak
+Cough with blood,Anti-TB drugs,Lungs,Tuberculosis,Bacterial infection
+Frequent sneezing,Antihistamines,Nose,Allergic Rhinitis,Dust allergy
+Dry eyes,Artificial tears,Eyes,Conjunctivitis,Viral/Bacterial
+White patches,Antifungal tablets,Tongue,Oral Thrush,Yeast infection
+Persistent fever,Blood test + antibiotics,Whole body,Leptospirosis,Flood-related
+Night sweats,Anti-TB therapy,Chest,Pulmonary Tuberculosis,Infectious disease
+Black fungus,Amphotericin B injection,Nose/Brain,Mucormycosis,Post-COVID
+Pain in joints,DMARDs,Knees,Rheumatoid Arthritis,Autoimmune
+Swelling in legs,Diuretics,Legs,Kidney Failure,Chronic condition
+Rapid heartbeat,Antivirals,Whole body,Zika Virus,Mosquito infection
+Bone fractures,Cast immobilization,Arm,Osteoporosis,Weak bones
+Difficulty walking,Physiotherapy,Legs,Polio,Childhood paralysis
+Severe thirst,Insulin,Whole body,Diabetes Mellitus,High sugar
+Night blindness,Vitamin A supplements,Eyes,Vitamin A Deficiency,Nutritional
+Red eyes,Eye drops,Eyes,Trachoma,Bacterial infection
+Dry cough,Isolation + supportive care,Lungs,SARS,Coronavirus family
+Severe headache,Ribavirin,Whole body,Nipah Virus,Zoonotic infection
+Bleeding under skin,Platelet transfusion,Skin,Dengue Shock Syndrome,Severe complication
+Dizziness,IV fluids,Whole body,Heat Stroke,Summer illness
+Red rash,Antihistamine,Skin,Chickenpox,Viral infection
+Blisters,Acyclovir,Skin,Shingles (Herpes Zoster),Viral
+Ulcer in mouth,Mouth gel,Tongue,Canker sores,Minor infection
+Stomach bloating,Probiotics,Abdomen,Irritable Bowel Syndrome,Digestive issue
+Runny nose,Nasal spray,Nose,Common Cold,Seasonal
+Ring-shaped rash,Antifungal cream,Arm,Ringworm,Fungal infection
+Worms in stool,Deworming tablets,Stomach,Intestinal Worms,Parasitic infection
+Skin ulcers,Antibiotic ointment,Feet,Leprosy,Chronic infection
+Difficulty breathing,Inhaler,Lungs,Asthma,Respiratory
+Severe fatigue,Antiviral,Whole body,Ebola Virus Disease,Outbreak
+Sudden weakness,Emergency care,Body,Snakebite,Venom toxin
+Eye redness,Antibiotic eye drops,Eyes,Pink Eye,Contagious
+Body rashes,Antihistamine tablets,Skin,Scarlet Fever,Bacterial
+Cough with mucus,Antibiotics,Lungs,Pneumonia,Respiratory infection
+Fever with chills,Antimalarial,Body,Blackwater Fever,Severe malaria
+Lymph node swelling,Antivirals,Neck,Monkeypox,Viral zoonosis
+Bleeding nose,Cold compress,Nose,Heat-related Epistaxis,Summer condition
+Severe dehydration,ORS & IV fluids,Whole body,Gastroenteritis,Stomach infection
+Pain in chest,Antifungal,Lungs,Histoplasmosis,Fungal infection
+Loss of appetite,Antibiotics,Abdomen,Typhoid fever,Bacterial
+Hand tremors,Physiotherapy,Hands,Essential Tremor,Neurological
+Swollen joints,Anti-inflammatory drugs,Ankles,Gout,Uric acid buildup
+Dry throat,Warm salt gargle,Throat,Tonsillitis,Infection
+Severe chills,Quinine therapy,Whole body,Severe Malaria,Mosquito bite
+Swelling around eyes,Allergy tablets,Eyes,Hay Fever,Seasonal allergy
+Persistent diarrhea,Antibiotics + fluids,Stomach,Dysentery,Amoebic infection
+Black stools,Endoscopy + medication,Intestine,Colon Cancer,Tumor growth
+Red patches,Topical steroid,Skin,Eczema,Skin inflammation
+Burning chest pain,Antacids,Chest,Acid Reflux (GERD),Digestive issue
+Sharp ear pain,Antibiotics,Ear,Otitis Media,Middle ear infection
+Extreme fatigue,Vitamin supplements,Whole body,Chronic Fatigue Syndrome,Post-viral
+Swelling of ankles,Diuretics,Legs,Heart Failure,Fluid retention
+White discharge,Antifungal tablets,Genitals,Vaginal Candidiasis,Yeast infection
+Sudden fainting,ECG monitoring,Heart,Cardiac Arrest,Emergency
+Cracked lips,Hydration,Lips,Dehydration,Heat exposure
+Swollen face,Corticosteroids,Face,Angioedema,Allergy reaction
+fatigue,paracetamol + rest,whole body,influenza (flu),viral infection
+headache,ibuprofen,head,migraine,stress-related
+cough,antibiotics + cough syrup,throat,bronchitis,bacterial infection
+shortness of breath,inhaler + oxygen therapy,lungs,asthma,dust exposure
+joint pain,analgesic + physiotherapy,knees,arthritis,age-related
+sore throat,warm saline gargle + lozenges,throat,tonsillitis,viral infection
+frequent urination,insulin therapy,pancreas,diabetes mellitus type 2,obesity
+dizziness,iron supplements,whole body,anemia,nutritional deficiency
+nausea,oral rehydration + rest,stomach,gastroenteritis,contaminated food
+fever,paracetamol + fluids,whole body,typhoid fever,bacterial infection
+skin rash,antihistamine + topical cream,skin,urticaria,allergic reaction
+breathlessness,bronchodilator inhaler,lungs,COPD,chronic smoker
+back pain,painkillers + physiotherapy,back,slipped disc,prolonged sitting
+chest tightness,nitroglycerin,chest,coronary artery disease,exertion
+trembling hands,beta blockers,hands,hyperthyroidism,hormonal imbalance
+swelling in feet,diuretics,legs,congestive heart failure,salt retention
+tingling sensation,vitamin B12 supplements,legs,vitamin B12 deficiency,malnutrition
+dry cough,steam inhalation + syrup,throat,common cold,viral infection
+persistent cough,antibiotics + rest,lungs,pneumonia,bacterial infection
+weight loss,insulin + diet plan,pancreas,diabetes mellitus type 1,high sugar
+hair loss,multivitamins + minoxidil,scalp,hypothyroidism,hormonal imbalance
+blurred vision,blood sugar control,eyes,diabetes mellitus type 2,uncontrolled glucose
+itchy scalp,medicated shampoo,scalp,dandruff (seborrheic dermatitis),oily skin
+runny nose,antihistamine + nasal spray,nose,allergic rhinitis,pollen allergy
+burning urination,antibiotics,urinary tract,UTI (urinary tract infection),dehydration
+abdominal cramps,antispasmodic + fluids,abdomen,irritable bowel syndrome,stress
+muscle stiffness,warm compress + relaxants,legs,fibromyalgia,chronic fatigue
+chest heaviness,aspirin + rest,chest,myocardial infarction,high cholesterol
+joint stiffness,anti-inflammatory drugs,joints,rheumatoid arthritis,autoimmune
+itchy patches,antifungal cream,skin,ringworm,fungal infection
+mood swings,antidepressants,brain,depression,emotional stress
+excessive worry,counseling + anxiolytics,brain,anxiety disorder,work pressure
+sneezing,antihistamine,nose,sinusitis,dust allergy
+vomiting,antiemetic + fluids,stomach,food poisoning,contaminated food
+throat irritation,warm saline gargle,throat,pharyngitis,viral infection
+loss of appetite,diet therapy,stomach,gastritis,irregular meals
+shoulder pain,physiotherapy + analgesic,shoulder,frozen shoulder,poor posture
+fatigue,vitamin D supplements,whole body,vitamin D deficiency,lack of sunlight
+numbness in feet,blood sugar control,legs,diabetic neuropathy,long-term diabetes
+confusion,rehydration + rest,brain,dehydration,excessive heat
+palpitations,beta blockers,heart,arrhythmia,anxiety
+dry skin,moisturizer + hydration,skin,eczema,winter dryness
+pain while walking,blood thinners,legs,peripheral artery disease,poor circulation
+burning eyes,lubricating drops,eyes,conjunctivitis,infection
+swelling of joints,anti-inflammatory drugs,knees,gout,uric acid buildup
+sneezing fits,antihistamines,nose,allergic rhinitis,pet dander
+bloating,probiotics + fiber diet,abdomen,irritable bowel syndrome,poor digestion
+high fever,antipyretic + fluids,whole body,dengue fever,mosquito bite
+yellowing of eyes,antiviral + rest,liver,hepatitis B,contaminated water
+skin discoloration,topical cream,face,melasma,sun exposure
+trembling,medication adjustment,hands,Parkinson’s disease,old age
+loss of memory,cognitive therapy,brain,Alzheimer’s disease,age-related
+severe headache,rest + painkillers,head,tension headache,stress
+constipation,laxatives + fiber diet,stomach,IBS (irritable bowel syndrome),low fiber intake
+sore muscles,warm bath + rest,arms,muscle cramps,overexertion
+chest pain,aspirin + ECG,chest,myocardial infarction,emergency case
+wheezing,bronchodilator,lungs,asthma,dust exposure
+rash on body,antifungal ointment,skin,fungal infection,sweat and humidity
+burning sensation while urinating,antibiotics + hydration,urinary tract,UTI,bacterial infection
+yellow urine,increased fluids,kidneys,dehydration,heat exposure
+swelling in legs,compression stockings + diuretics,legs,varicose veins,prolonged standing
+persistent fever,antiviral + fluids,whole body,malaria,mosquito-borne infection
+itchy scalp with flakes,medicated shampoo,scalp,seborrheic dermatitis,oily skin
+bleeding gums,vitamin C supplements,mouth,scurvy,poor nutrition
+numbness in hands,nerve vitamins,hands,carpal tunnel syndrome,repetitive strain
+dark stools,proton pump inhibitors,stomach,peptic ulcer,internal bleeding
+night sweats,anti-TB medication,chest,tuberculosis,chronic infection
+difficulty breathing,inhaler + oxygen,lungs,pneumonia,bacterial infection
+rapid heartbeat,beta blockers,heart,tachycardia,anxiety
+frequent headaches,stress management + hydration,head,tension headache,eye strain
+itchy red eyes,eye drops + rest,eyes,conjunctivitis,dust exposure
+dizziness upon standing,hydration + salt intake,whole body,hypotension,dehydration
+pain during urination,antibiotics + fluids,urinary tract,cystitis,bacterial infection
+cold hands and feet,circulation therapy,limbs,Raynaud’s phenomenon,cold weather
+yellow skin,antiviral therapy,liver,hepatitis C,chronic infection
+fainting spells,rest + hydration,brain,low blood pressure,heat exhaustion
+abdominal bloating,probiotics + diet change,abdomen,gastritis,overeating
+muscle weakness,physiotherapy + supplements,arms,myasthenia gravis,autoimmune
+sore eyes,antibiotic drops,eyes,eye infection,hygiene issue
+cracked lips,lip balm + hydration,mouth,dehydration,vitamin deficiency
+lower back pain,hot compress + rest,back,sciatica,nerve compression
+shortness of breath at night,diuretics,lungs,congestive heart failure,fluid retention
+pain in calf,anticoagulants,leg,deep vein thrombosis,prolonged travel
+tiredness,iron supplements,whole body,anemia,low hemoglobin
+bloating after meals,antacids,stomach,GERD (acid reflux),spicy food
+itchy rash on hands,steroid cream,hands,contact dermatitis,detergent exposure
+frequent sneezing,nasal spray,nose,sinusitis,dust allergy
+irregular heartbeat,medication + monitoring,heart,arrhythmia,caffeine intake
+excessive sweating,antiperspirant + hydration,skin,hyperthyroidism,hormonal imbalance
+dry mouth,saliva substitutes,mouth,diabetes mellitus,dehydration
+dark circles under eyes,rest + hydration,face,insomnia,stress
+nausea and vomiting,antiemetic,stomach,gastritis,overeating
+chest congestion,steam inhalation + expectorant,chest,bronchitis,viral infection
+back stiffness,physiotherapy,back,lumbar spondylosis,poor posture
+difficulty swallowing,antibiotics,throat,pharyngitis,bacterial infection
+itchy feet,antifungal cream,feet,athlete’s foot,sweating
+red patches on skin,steroid cream,skin,psoriasis,autoimmune
+excessive thirst,insulin therapy,pancreas,diabetes mellitus type 2,uncontrolled sugar
+wheezing and cough,inhaler,lungs,asthma,pollen allergy
+mild fever,fluids + rest,whole body,common cold,viral
+loss of sleep,relaxation therapy,brain,insomnia,anxiety
+burning in chest,antacid,chest,GERD,spicy food
+painful urination,antibiotics,urinary tract,UTI,poor hygiene
+persistent fatigue,thyroid medication,whole body,hypothyroidism,hormonal disorder
+joint swelling,NSAIDs,joints,gout,uric acid buildup
+loss of coordination,physiotherapy,legs,stroke,poor circulation
+trembling at rest,dopamine therapy,hands,Parkinson’s disease,neurological disorder
+ear pain,antibiotic drops,ear,ear infection (otitis media),water exposure
+itchy ears,antifungal drops,ear,fungal ear infection,humidity
+hearing loss,hearing aid,ear,age-related hearing loss,old age
+ringing in ears,sound therapy,ear,tinnitus,loud noise exposure
+blurred vision,corrective glasses,eyes,refractive error,screen fatigue
+red eye,antibiotic drops,eyes,conjunctivitis,dust exposure
+eye strain,rest + eye drops,eyes,computer vision syndrome,prolonged screen time
+double vision,neurological evaluation,eyes,stroke,brain lesion
+headache with nausea,painkillers + rest,head,migraine,dehydration
+stiff neck,painkillers + physiotherapy,neck,cervical spondylosis,poor posture
+tingling in hands,nerve vitamins,hands,peripheral neuropathy,diabetes
+weak grip,physical therapy,hand,carpal tunnel syndrome,repetitive strain
+swollen fingers,anti-inflammatory drugs,fingers,rheumatoid arthritis,autoimmune
+facial drooping,corticosteroids,face,Bell’s palsy,viral infection
+memory loss,cognitive therapy,brain,dementia,aging
+tremors,dopamine therapy,hands,Parkinson’s disease,old age
+anxiety attacks,psychotherapy + medication,brain,panic disorder,emotional stress
+persistent sadness,antidepressants,brain,major depression,social isolation
+overthinking,counseling,brain,anxiety disorder,work stress
+fear and nightmares,therapy + medication,brain,PTSD,trauma history
+poor sleep,melatonin,brain,insomnia,lifestyle
+restlessness,relaxation therapy,brain,ADHD,attention issues
+fever and chills,antibiotics,whole body,typhoid,contaminated food
+cough with phlegm,expectorant + antibiotics,lungs,bronchitis,bacterial infection
+night cough,inhaler,lungs,asthma,dust exposure
+chest tightness,oxygen + bronchodilator,lungs,COPD,smoking
+shoulder stiffness,physiotherapy,shoulder,frozen shoulder,repetitive strain
+pain on movement,analgesics,joints,bursitis,overuse
+foot pain,orthotic support,foot,plantar fasciitis,prolonged standing
+muscle cramp,hydration + salt intake,legs,electrolyte imbalance,dehydration
+knee pain,anti-inflammatory drugs,knees,osteoarthritis,aging
+swelling in joints,uric acid control,joints,gout,red meat intake
+pain in heel,cold compress,heel,heel spur,overuse
+tingling in toes,vitamin supplements,toes,peripheral neuropathy,diabetes
+calf tightness,stretching + hydration,legs,muscle fatigue,exercise
+shoulder pain,pain relief spray,shoulder,rotator cuff strain,heavy lifting
+stiff back,physiotherapy + rest,back,muscle strain,long hours sitting
+lower limb weakness,physiotherapy,legs,multiple sclerosis,nerve disorder
+burning pain in legs,nerve pain medication,legs,diabetic neuropathy,uncontrolled diabetes
+difficulty walking,physiotherapy,legs,Parkinson’s disease,age-related
+shortness of breath,bronchodilator,chest,bronchitis,pollution exposure
+swelling around eyes,antihistamine,eyes,allergic reaction,pollen
+dry itchy skin,moisturizer,skin,eczema,winter dryness
+small boils,antibiotic ointment,skin,folliculitis,sweat and friction
+white patches,topical steroids,skin,vitiligo,autoimmune
+red scaly patches,coal tar ointment,skin,psoriasis,stress
+fluid-filled blisters,antiviral cream,skin,herpes zoster (shingles),viral
+rough dry skin,emollient cream,skin,xerosis,dehydration
+nail discoloration,antifungal lotion,nails,nail fungus,moisture
+rashes after sun exposure,sunscreen + cream,face,photodermatitis,UV exposure
+sore tongue,antifungal mouthwash,mouth,oral thrush,poor oral hygiene
+cracked corners of mouth,vitamin B complex,mouth,angular cheilitis,deficiency
+ulcers in mouth,topical gel,mouth,aphthous ulcer,stress
+toothache,antibiotics + analgesic,teeth,dental abscess,bacterial infection
+bleeding gums,scaling + vitamin C,mouth,gingivitis,plaque buildup
+swollen jaw,antibiotics,jaw,dental infection,poor dental care
+pain after meals,antacids,stomach,gastritis,spicy food
+indigestion,digestive enzymes,stomach,dyspepsia,overeating
+acid reflux,PPI + diet control,chest,GERD,lying down after meals
+nausea after eating,antiemetic,stomach,gastritis,irregular eating
+burning in stomach,proton pump inhibitor,stomach,peptic ulcer,spicy food
+frequent belching,antacids,stomach,acid reflux,overeating
+lower abdominal pain,antibiotics,pelvis,pelvic inflammatory disease,bacterial infection
+irregular menstruation,hormonal therapy,pelvis,PCOS,hormonal imbalance
+painful periods,painkillers + heat pad,abdomen,dysmenorrhea,stress
+pelvic pain,antibiotics,pelvis,PID,infection
+excessive hair growth,hormone therapy,face,PCOS,endocrine disorder
+breast tenderness,pain relief gel,chest,fibrocystic breast,hormonal changes
+nipple discharge,diagnostic evaluation,breast,galactorrhea,prolactin imbalance
+lower back ache,physiotherapy,back,lumbar strain,heavy lifting
+urinary leakage,bladder training,pelvis,urinary incontinence,post childbirth
+difficulty urinating,medication,prostate,benign prostatic hyperplasia,aging
+pain in perineum,antibiotics,pelvis,prostatitis,bacterial infection
+erectile difficulty,counseling + meds,genital,erectile dysfunction,stress
+testicular swelling,antibiotics,testicle,epididymitis,infection
+vaginal itching,antifungal cream,genital,yeast infection,humidity
+thick white discharge,antifungal tablets,genital,vaginal candidiasis,poor hygiene
+foul-smelling discharge,antibiotics,vagina,bacterial vaginosis,infection
+groin pain,rest + warm compress,groin,hernia,strain
+sharp abdominal pain,surgical evaluation,abdomen,appendicitis,acute inflammation
+yellow eyes,antiviral + rest,liver,hepatitis A,contaminated water
+fluid in abdomen,diuretics,abdomen,liver cirrhosis,alcohol use
+abdominal swelling,low salt diet,abdomen,ascites,liver disease
+loss of appetite,nutritional supplements,stomach,chronic liver disease,fatigue
+black stools,proton pump inhibitor,stomach,GI bleed,peptic ulcer
+rectal pain,ointment + sitz bath,rectum,hemorrhoids,constipation
+bloody stool,surgery + meds,rectum,colorectal cancer,chronic bleeding
+anal itching,topical cream,anus,pinworm infection,poor hygiene
+yellow stool,dietary control,liver,gallbladder disease,fatty diet
+right upper abdominal pain,surgery,abdomen,gallstones,fatty food
+sudden abdominal pain,surgical removal,abdomen,appendicitis,acute condition
+vomiting blood,emergency care,stomach,peptic ulcer bleed,chronic gastritis
+dark urine,hydration + medication,kidneys,jaundice,hepatitis
+ankle swelling,salt restriction,legs,kidney disease,fluid retention
+reduced urine output,dialysis,kidneys,renal failure,chronic condition
+frequent urination at night,diuretics adjustment,kidneys,nocturia,heart failure
+burning sensation in soles,vitamin therapy,feet,peripheral neuropathy,diabetes
+cold feet,circulation therapy,legs,peripheral artery disease,poor blood flow
+bluish fingers,warming + medication,fingers,Raynaud’s syndrome,cold exposure
+hand tremor,dopamine therapy,hands,Parkinson’s disease,aging
+loss of balance,physiotherapy,brain,cerebellar ataxia,neurological
+slurred speech,rehabilitation therapy,brain,stroke,old age
+sudden vision loss,emergency care,eyes,retinal detachment,trauma
+drooping eyelid,steroid therapy,eyes,myasthenia gravis,autoimmune
+tingling on one side,clot dissolvers,body,transient ischemic attack,hypertension
+facial numbness,physiotherapy,face,Bell’s palsy,viral infection
+loss of smell,nasal drops,nose,sinusitis,nasal blockage
+nasal congestion,decongestant spray,nose,allergic rhinitis,dust
+cough with fever,antibiotics + steam,chest,pneumonia,bacterial
+productive cough,expectorant,lungs,bronchitis,smoking
+night sweats,anti-TB therapy,chest,tuberculosis,chronic infection
+pain while breathing,rest + antibiotics,chest,pleurisy,infection
+high blood pressure,antihypertensive,heart,hypertension,stress
+palpitations,beta blockers,chest,arrhythmia,anxiety
+swelling in ankles,diuretics,legs,congestive heart failure,fluid overload
+fatigue + breathlessness,oxygen therapy,lungs,COPD,chronic smoker
+chest heaviness,nitroglycerin,chest,angina,exertion
+pain radiating to arm,emergency treatment,chest,myocardial infarction,acute episode
+shortness of breath on exertion,oxygen + meds,lungs,pulmonary embolism,clot
+dry mouth,hydration + saliva stimulant,mouth,dehydration,medication side effect
+pale skin,iron supplements,skin,anemia,chronic blood loss
+excessive sweating,medication adjustment,whole body,hyperthyroidism,hormonal imbalance
+slow heart rate,thyroid replacement,neck,hypothyroidism,endocrine disorder
+weight gain,thyroid medication,neck,hypothyroidism,hormonal imbalance
+weight loss,insulin therapy,pancreas,diabetes mellitus type 1,uncontrolled sugar
+heat intolerance,beta blockers,body,hyperthyroidism,overactive thyroid
+cold intolerance,thyroid hormone,body,hypothyroidism,metabolic disorder
+excessive urination,insulin therapy,pancreas,diabetes mellitus type 2,hyperglycemia
+confusion + thirst,IV fluids,brain,dehydration,heat stroke
+loss of interest,therapy + antidepressants,brain,depression,emotional burnout
+panic episodes,relaxation therapy,brain,anxiety disorder,overthinking
+excessive fear,counseling + medication,brain,phobia,trauma
+irritability,lifestyle therapy,brain,bipolar disorder,mood swing
+flashbacks,trauma counseling,brain,PTSD,past trauma
+poor focus,behavioral therapy,brain,ADHD,attention deficit
+poor coordination,rehabilitation,limbs,multiple sclerosis,nerve damage
+unsteady gait,physiotherapy,legs,Parkinson’s disease,neurological disorder
+leg stiffness,physiotherapy,legs,spasticity,nerve lesion
+painful joints,anti-inflammatory drugs,joints,osteoarthritis,aging
+finger stiffness,warm compress,fingers,trigger finger,tendon inflammation
+swollen wrist,brace + rest,wrist,tendonitis,repetitive motion
+hand numbness,splint + vitamins,hand,carpal tunnel,prolonged typing
+elbow pain,rest + physiotherapy,elbow,tennis elbow,overuse
+shoulder swelling,cold compress,shoulder,bursitis,repetitive strain
+pain in heel,heel pads,heel,plantar fasciitis,long standing hours
+calf swelling,compression + rest,legs,deep vein thrombosis,immobility
+tingling in feet,vitamin B complex,feet,neuropathy,diabetes
+runny nose,antihistamine + nasal drops,nose,allergic rhinitis,pollen allergy
+fever,paracetamol + fluids,whole body,common cold,viral infection
+cough,cough syrup + rest,throat,bronchitis,bacterial infection
+chest pain,aspirin + rest,chest,angina,smoking history
+shortness of breath,inhaler + oxygen,lungs,asthma,dust exposure
+joint pain,analgesics + physiotherapy,knees,arthritis,age-related
+itching,antihistamine cream,skin,eczema,allergic reaction
+nausea,oral rehydration + rest,stomach,gastroenteritis,food poisoning
+fatigue,iron supplements,whole body,anemia,nutritional deficiency
+headache,ibuprofen + rest,head,migraine,stress
+dizziness,vitamin B12 supplements,whole body,vitamin B12 deficiency,malnutrition
+body ache,paracetamol + rest,whole body,influenza (flu),seasonal infection
+itchy eyes,antihistamine drops,eyes,conjunctivitis,allergy
+burning urination,antibiotics + fluids,urinary tract,UTI,poor hygiene
+constipation,laxatives + fiber diet,stomach,irritable bowel syndrome,low fiber intake
+vomiting,antiemetic + hydration,stomach,food poisoning,contaminated food
+runny eyes,lubricating drops,eyes,allergic conjunctivitis,dust exposure
+loss of appetite,antacids + diet control,stomach,gastritis,irregular meals
+sore muscles,warm bath + rest,arms,muscle strain,overexertion
+nasal congestion,decongestant spray + steam,nose,sinusitis,cold weather
+ear pain,antibiotic drops,ear,ear infection,water exposure
+swollen neck,antibiotics,neck,tonsillitis,bacterial infection
+skin redness,soothing lotion,skin,dermatitis,detergent use
+sneezing,antihistamines,nose,allergic rhinitis,dust allergy
+watery eyes,lubricating drops,eyes,conjunctivitis,pollen exposure
+mild fever,rest + fluids,whole body,viral infection,seasonal change
+sore joints,anti-inflammatory drugs,joints,arthritis,aging
+heavy breathing,inhaler,chest,asthma,pollen allergy
+cracked lips,lip balm,mouth,dehydration,dry weather
+fatigue,vitamin supplements,whole body,vitamin deficiency,poor diet
+headache,paracetamol,head,tension headache,stress
+dry throat,warm water + honey,throat,sore throat,dehydration
+skin rash,antihistamine cream,skin,eczema,allergic reaction
+nausea,antiemetic,stomach,gastritis,spicy food
+loss of taste,hydration + rest,mouth,common cold,viral
+stomach cramps,antispasmodic,abdomen,food poisoning,contaminated food
+burning chest,antacids,chest,GERD,heavy meal
+back stiffness,physiotherapy,back,muscle strain,long sitting hours
+watery nose,nasal spray,nose,sinusitis,infection
+itchy skin,moisturizing lotion,skin,dry skin,winter
+tiredness,multivitamins,whole body,anemia,poor diet
+joint swelling,painkillers,knees,gout,high uric acid
+shortness of breath,bronchodilator,lungs,bronchitis,smoking
+swelling in feet,diuretics,legs,edema,fluid retention
+dizziness,hydration,whole body,dehydration,heat
+chest heaviness,aspirin,chest,heart disease,hypertension
+throat irritation,lozenges + rest,throat,pharyngitis,cold weather
+burning eyes,lubricating drops,eyes,dry eye syndrome,long screen time
+cough with mucus,expectorant syrup,chest,bronchitis,bacterial infection
+dry skin,moisturizer,skin,eczema,cold weather
+tooth pain,antibiotics + analgesic,teeth,dental abscess,poor hygiene
+stomach bloating,antacids,abdomen,gastritis,overeating
+nasal blockage,steam inhalation,nose,sinusitis,infection
+skin peeling,moisturizing cream,skin,eczema,dryness
+weakness,rest + iron supplements,whole body,anemia,fatigue
+tingling feet,vitamin B complex,legs,neuropathy,diabetes
+ear ringing,sound therapy,ears,tinnitus,loud noise exposure
+muscle cramps,hydration + salt,legs,dehydration,exercise
+pain in knee,physiotherapy,knees,osteoarthritis,old age
+swelling of hands,anti-inflammatory,hands,arthritis,repetitive motion
+cold hands,circulation therapy,hands,Raynaud’s phenomenon,cold exposure
+itchy scalp,medicated shampoo,scalp,dandruff,oily skin
+hair fall,minoxidil,scalp,alopecia,stress
+painful urination,antibiotics,urinary tract,UTI,infection
+burning tongue,antifungal mouthwash,mouth,oral thrush,poor hygiene
+chills,paracetamol + fluids,whole body,influenza,viral
+persistent cough,antibiotics,chest,pneumonia,bacterial
+eye redness,antibiotic drops,eyes,conjunctivitis,infection
+loss of appetite,antacids,stomach,gastritis,indigestion
+stiff neck,physiotherapy,neck,cervical spondylosis,bad posture
+itchy rash,steroid cream,skin,contact dermatitis,detergent exposure
+cracked heels,moisturizing cream,feet,dry skin,walking barefoot
+low back pain,analgesics,back,lumbar strain,lifting weight
+dry lips,lip balm + hydration,mouth,dehydration,summer heat
+cough,rest + syrup,chest,flu,viral infection
+mild headache,rest,head,migraine,stress
+sore gums,antiseptic rinse,mouth,gingivitis,plaque buildup
+joint stiffness,physiotherapy,knees,arthritis,age-related
+loss of sleep,melatonin,brain,insomnia,stress
+muscle weakness,vitamin therapy,arms,vitamin deficiency,poor nutrition
+stomach ache,rest + hydration,stomach,gastroenteritis,infection
+sneezing fits,antihistamines,nose,allergic rhinitis,dust
+itching after bath,moisturizer,skin,dry skin,winter
+breathlessness,inhaler,lungs,asthma,pollen
+dizziness,rest + fluids,brain,dehydration,heat
+nausea and vomiting,antiemetic,stomach,food poisoning,spoiled food
+chills and fever,paracetamol + rest,body,malaria,mosquito bite
+body ache,rest,body,viral fever,infection
+rash,topical cream,skin,urticaria,allergy
+blocked nose,saline drops,nose,sinusitis,congestion
+frequent headache,hydration + rest,head,tension headache,eye strain
+tired eyes,eye drops + rest,eyes,eye strain,screen use
+bloating,probiotics,stomach,IBS,poor digestion
+frequent thirst,insulin therapy,pancreas,diabetes mellitus,high sugar
+sore joints,anti-inflammatory drugs,joints,arthritis,obesity
+dry throat,warm water + rest,throat,common cold,viral infection
+leg pain,stretching,legs,muscle fatigue,exercise
+chest pressure,aspirin + ECG,chest,angina,exertion
+itchy rash,calamine lotion,skin,allergic dermatitis,contact allergy
+dry cough,steam inhalation,throat,flu,viral
+weakness and fatigue,supplements,body,anemia,low iron
+nausea after eating,antacids,stomach,gastritis,overeating
+heavy breathing,oxygen therapy,lungs,COPD,smoking
+numbness in fingers,vitamin B12 supplements,hands,neuropathy,diabetes
+burning chest,PPI + rest,chest,GERD,spicy food
+sore mouth,antifungal gel,mouth,oral thrush,infection
+watery nose,antihistamine,nose,rhinitis,pollen
+dry cough,honey + warm water,throat,flu,cold air
+swelling of ankles,diuretics,legs,edema,heart failure
+tiredness after meals,insulin,pancreas,diabetes mellitus type 2,sugar spike
+skin bumps,topical antibiotic,skin,folliculitis,shaving irritation
+dry eyes,eye drops,eyes,dry eye syndrome,dehydration
+fever and cough,antibiotics,lungs,pneumonia,bacterial infection
+itchy scalp,ketoconazole shampoo,scalp,dandruff,fungal infection
+joint pain,warm compress,knees,arthritis,aging
+headache,pain relief + hydration,head,migraine,stress
+stomach upset,probiotics + fluids,stomach,gastroenteritis,bad food
+sore throat,antibiotic + lozenges,throat,pharyngitis,cold exposure
+chest congestion,bronchodilator + steam,lungs,bronchitis,pollution
+fatigue,iron supplement + rest,whole body,anemia,blood loss
+dry cough,cough suppressant + rest,throat,common cold,viral
+wheezing,bronchodilator + oxygen,lungs,asthma,dust allergy
+joint stiffness,NSAID + physiotherapy,knees,arthritis,aging
+muscle pain,muscle relaxant + rest,arms,strain,overwork
+itchy skin,antihistamine + moisturizer,skin,eczema,allergy
+abdominal cramps,antispasmodic + fluids,abdomen,IBS,stress
+heartburn,antacid + diet modification,chest,GERD,spicy food
+bloating,antifoaming agent + probiotics,stomach,indigestion,overeating
+burning urination,antibiotic + fluids,urinary tract,UTI,infection
+sore gums,antiseptic mouthwash,mouth,gingivitis,poor hygiene
+headache,NSAID + hydration,head,migraine,tension
+fever,antipyretic + rest,whole body,viral fever,infection
+runny nose,antihistamine + nasal spray,nose,allergic rhinitis,dust
+nausea,antiemetic + fluids,stomach,gastritis,overeating
+loss of appetite,antacid + rest,stomach,gastritis,irregular meals
+breathlessness,bronchodilator + steroids,lungs,COPD,smoking
+chest pain,antiplatelet + rest,chest,angina,exertion
+insomnia,sedative + counseling,brain,sleep disorder,anxiety
+sore joints,NSAID + physiotherapy,knees,osteoarthritis,old age
+dry eyes,lubricating drops,eyes,dry eye syndrome,screen use
+hair fall,topical therapy + vitamins,scalp,alopecia,stress
+rash,steroid cream,skin,dermatitis,contact allergy
+dizziness,hydration + rest,whole body,dehydration,heat
+cold hands,vasodilator + warm therapy,hands,Raynaud’s,cold weather
+tiredness,vitamin supplement,whole body,fatigue,poor diet
+ear pain,antibiotic drops,ear,otitis media,infection
+itchy ears,antifungal drops,ear,fungal infection,humidity
+eye redness,antibiotic drops,eyes,conjunctivitis,dust
+blurred vision,corrective lenses,eyes,myopia,screen time
+constipation,laxative + fiber diet,stomach,IBS,low fiber intake
+nausea and vomiting,antiemetic + rest,stomach,food poisoning,contaminated food
+chills,antipyretic + rest,whole body,malaria,mosquito bite
+leg pain,analgesic + physiotherapy,legs,muscle cramp,exercise
+nasal congestion,decongestant spray + steam,nose,sinusitis,infection
+sneezing fits,antihistamine,nose,allergic rhinitis,pollen
+itching after bath,emollient + moisturizer,skin,dry skin,winter
+toothache,analgesic + antibiotics,teeth,dental abscess,poor hygiene
+cracked heels,emollient + rest,feet,dry skin,barefoot walking
+numbness in feet,vitamin B complex,feet,neuropathy,diabetes
+chest tightness,bronchodilator + oxygen,chest,asthma,exertion
+swollen ankles,diuretics + rest,legs,edema,fluid retention
+throat pain,gargle + antibiotic,throat,tonsillitis,infection
+headache,NSAID + rest,head,tension headache,dehydration
+back stiffness,analgesic + physiotherapy,back,strain,poor posture
+joint swelling,anti-inflammatory + rest,joints,gout,high uric acid
+dry mouth,saliva substitute + fluids,mouth,dehydration,medication side effect
+burning sensation,topical anesthetic,skin,dermatitis,allergy
+skin redness,soothing lotion + rest,skin,urticaria,allergic reaction
+wheezing at night,bronchodilator inhaler,lungs,asthma,cold weather
+swollen throat,antibiotic + lozenges,throat,tonsillitis,bacterial infection
+weakness,vitamin supplement,whole body,fatigue,poor sleep
+dry lips,balm + hydration,mouth,dehydration,heat
+chest heaviness,nitrate + rest,chest,heart disease,hypertension
+rash on arms,antihistamine + cream,skin,eczema,allergy
+fatigue and dizziness,iron supplement,whole body,anemia,malnutrition
+pain after meal,antacid + diet change,abdomen,gastritis,spicy food
+nausea after travel,antiemetic,stomach,motion sickness,long travel
+dry cough,expectorant + rest,throat,flu,viral infection
+sore neck,analgesic + physiotherapy,neck,muscle strain,bad posture
+watery eyes,antihistamine drops,eyes,allergy,dust
+pain in joints,NSAID + rest,joints,arthritis,obesity
+itching on feet,antifungal cream,feet,athlete’s foot,sweating
+lower back pain,analgesic + rest,back,strain,lifting
+stiff joints,NSAID + exercise,knees,arthritis,old age
+eye strain,lubricating drops,eyes,fatigue,screen exposure
+frequent urination,antidiabetic drug + diet,pancreas,diabetes mellitus type 2,obesity
+loss of taste,rest + fluids,mouth,common cold,viral
+sore shoulders,pain relief cream,shoulders,muscle strain,repetitive work
+swelling on face,antihistamine,face,allergy,insect bite
+breathlessness on exertion,bronchodilator,lungs,asthma,activity
+tired eyes,lubricating drops + rest,eyes,eye strain,computer use
+heartburn,PPI + diet control,chest,GERD,spicy food
+sneezing and congestion,antihistamine + spray,nose,rhinitis,pollen
+heaviness in stomach,digestive enzyme + rest,stomach,indigestion,overeating
+pain during swallowing,antibiotic + gargle,throat,pharyngitis,cold drink
+painful urination,antibiotic + fluids,urinary tract,UTI,poor hygiene
+lightheadedness,rest + fluids,brain,low blood pressure,dehydration
+stiffness in shoulders,physiotherapy,shoulders,frozen shoulder,strain
+cold feet,circulation therapy,legs,poor circulation,cold weather
+dry skin,moisturizer,skin,eczema,winter dryness
+chest pain,antiplatelet + rest,chest,angina,physical exertion
+fever with chills,antipyretic + fluids,body,malaria,mosquito bite
+abdominal discomfort,antacid + diet change,stomach,gastritis,spicy food
+sore tongue,antifungal mouthwash,mouth,oral thrush,poor hygiene
+bloating and cramps,probiotics + rest,abdomen,IBS,stress
+ear fullness,antibiotic drops,ear,ear infection,swimming
+watery discharge from nose,decongestant + rest,nose,sinusitis,infection
+weakness after exertion,rest + hydration,body,fatigue,overwork
+painful wrist,analgesic + rest,wrist,tendonitis,repetitive motion
+swelling in joints,anti-inflammatory,knees,arthritis,aging
+skin itching,antihistamine + cream,skin,dermatitis,allergic reaction
+vomiting,antiemetic + fluids,stomach,gastroenteritis,infection
+mild fever,antipyretic + fluids,whole body,viral infection,seasonal flu
+cough with phlegm,expectorant + rest,chest,bronchitis,cold weather
+sore throat,lozenges + antibiotic,throat,tonsillitis,infection
+nasal congestion,decongestant spray,nose,sinusitis,dust exposure
+fatigue,vitamin supplement + rest,whole body,anemia,low hemoglobin
+nausea,antiemetic + hydration,stomach,gastritis,spicy food
+bloating,antacid + diet change,stomach,indigestion,overeating
+headache,NSAID + rest,head,migraine,stress
+body ache,antipyretic + rest,whole body,flu,viral infection
+dry cough,cough suppressant,throat,common cold,infection
+itchy rash,antihistamine + cream,skin,eczema,allergy
+breathlessness,bronchodilator,lungs,asthma,dust exposure
+loss of appetite,digestive enzyme,stomach,gastritis,irregular meals
+dizziness,rest + fluids,whole body,dehydration,heat
+constipation,laxative + fiber diet,stomach,IBS,poor diet
+back pain,analgesic + rest,back,muscle strain,lifting
+sore eyes,lubricating drops,eyes,conjunctivitis,screen use
+muscle cramps,electrolyte solution,legs,dehydration,exercise
+swelling in legs,diuretic + rest,legs,edema,heart failure
+chest tightness,bronchodilator,chest,asthma,pollution
+weakness,vitamin supplement,whole body,fatigue,malnutrition
+runny nose,nasal spray,nose,sinusitis,cold air
+vomiting,antiemetic + rest,stomach,food poisoning,contaminated food
+back stiffness,physiotherapy,back,strain,posture issue
+leg pain,analgesic + rest,legs,muscle fatigue,overexertion
+joint swelling,anti-inflammatory,joints,arthritis,aging
+tooth pain,antibiotic + painkiller,teeth,dental abscess,poor hygiene
+throat irritation,gargle + lozenges,throat,pharyngitis,cold exposure
+skin redness,soothing lotion,skin,dermatitis,allergic reaction
+hair loss,vitamin supplement,scalp,alopecia,stress
+chest heaviness,nitrate + rest,chest,angina,exertion
+persistent cough,bronchodilator,chest,COPD,smoking
+tiredness,multivitamin + rest,whole body,anemia,iron deficiency
+sore tongue,antifungal mouthwash,mouth,oral thrush,infection
+blurred vision,corrective glasses,eyes,myopia,long screen time
+fever with chills,antipyretic + fluids,whole body,malaria,mosquito bite
+swelling in ankles,diuretic + rest,legs,edema,kidney issue
+rash on arms,steroid cream,skin,eczema,allergy
+sore joints,NSAID + physiotherapy,joints,arthritis,age-related
+nausea after eating,antacid,stomach,gastritis,overeating
+dry mouth,saliva substitute,mouth,dehydration,medication side effect
+skin peeling,emollient,skin,dry skin,cold weather
+itchy hands,antihistamine cream,hands,dermatitis,soap allergy
+eye strain,lubricating drops,eyes,fatigue,prolonged screen time
+shortness of breath,bronchodilator,lungs,asthma,dust exposure
+chest pressure,antiplatelet + rest,chest,angina,hypertension
+mild headache,NSAID,head,tension headache,stress
+sore neck,physiotherapy,neck,cervical strain,posture
+burning chest,antacid,chest,GERD,spicy food
+watery discharge nose,nasal spray,nose,rhinitis,infection
+painful swallowing,antibiotic + gargle,throat,tonsillitis,bacterial
+itchy feet,antifungal cream,feet,athlete’s foot,humidity
+cold hands,circulation therapy,hands,Raynaud’s,cold weather
+sneezing and congestion,antihistamine + decongestant,nose,allergic rhinitis,pollen
+cracked heels,moisturizer,feet,dry skin,barefoot walking
+swollen throat,antibiotic + rest,throat,pharyngitis,bacterial infection
+tired legs,physiotherapy + rest,legs,fatigue,overuse
+sore mouth,antifungal gel,mouth,oral thrush,poor hygiene
+pain in calf,rest + warm compress,legs,muscle strain,walking
+rash on neck,steroid cream,neck,dermatitis,perfume allergy
+dry cough at night,cough syrup,throat,flu,viral
+heavy breathing,bronchodilator,chest,COPD,pollution
+itching on arms,antihistamine,arms,eczema,allergy
+joint pain,NSAID,knees,osteoarthritis,aging
+bloating after eating,antacid,stomach,indigestion,overeating
+red itchy eyes,antihistamine drops,eyes,allergy,pollen
+swelling under eyes,cold compress,eyes,allergy,lack of sleep
+nausea and dizziness,hydration + rest,whole body,dehydration,heat
+fatigue after work,rest + vitamins,whole body,tiredness,overwork
+sore shoulder,physiotherapy,shoulder,muscle strain,posture
+low back pain,analgesic + rest,back,muscle strain,lifting
+painful urination,antibiotic,urinary tract,UTI,poor hygiene
+joint stiffness,warm compress,knees,arthritis,aging
+muscle weakness,vitamin therapy,arms,deficiency,poor diet
+sneezing,antihistamine,nose,common cold,weather change
+heavy chest,bronchodilator + oxygen,chest,asthma,exertion
+nausea,antiemetic + fluids,stomach,gastritis,food irritation
+weakness,multivitamins,whole body,anemia,poor diet
+fatigue and headache,hydration + rest,whole body,dehydration,summer heat
+eye irritation,antibiotic drops,eyes,conjunctivitis,dust exposure
+chest pain,nitrate + rest,chest,angina,physical stress
+fever,paracetamol + fluids,whole body,viral infection,mild cold
+sore throat,lozenges + warm saline gargle,throat,pharyngitis,cold weather
+headache,NSAID + hydration,head,migraine,stress
+fatigue,vitamin supplement + rest,whole body,anemia,poor nutrition
+chest pain,nitrate + rest,chest,angina,exertion
+cough with mucus,expectorant + rest,chest,bronchitis,cold exposure
+runny nose,antihistamine + nasal drops,nose,allergic rhinitis,dust
+fever,antipyretic + fluids,whole body,viral infection,mild flu
+bloating,antacid + diet control,abdomen,indigestion,overeating
+breathlessness,bronchodilator + oxygen,lungs,asthma,pollen exposure
+eye redness,antibiotic drops,eyes,conjunctivitis,dust exposure
+ear pain,antibiotic drops,ear,otitis media,swimming
+dry cough,cough suppressant,throat,common cold,viral
+rash,antihistamine cream,skin,dermatitis,contact allergy
+dizziness,hydration + rest,whole body,dehydration,heat exposure
+sore joints,NSAID + physiotherapy,joints,arthritis,obesity
+tiredness,vitamin supplement,whole body,fatigue,lack of sleep
+stiff back,analgesic + physiotherapy,back,muscle strain,poor posture
+eye irritation,lubricating drops,eyes,dry eye syndrome,prolonged screen use
+tooth pain,antibiotic + analgesic,teeth,dental abscess,poor hygiene
+runny eyes,antihistamine drops,eyes,allergy,dust
+chest heaviness,antiplatelet + rest,chest,angina,hypertension
+pain during urination,antibiotic + hydration,urinary tract,UTI,poor hygiene
+weakness,multivitamin supplement,whole body,fatigue,malnutrition
+swollen feet,diuretics + rest,legs,edema,fluid retention
+nasal blockage,steam inhalation,nose,sinusitis,cold weather
+mild fever,antipyretic + fluids,whole body,flu,viral infection
+itchy skin,antihistamine + cream,skin,eczema,detergent reaction
+chest congestion,bronchodilator + steam,lungs,bronchitis,cold weather
+loss of sleep,sedative + relaxation,brain,insomnia,anxiety
+breathlessness,oxygen therapy,lungs,COPD,smoking
+tingling feet,vitamin B complex,feet,neuropathy,diabetes
+pain after walking,rest + warm compress,legs,muscle fatigue,overuse
+bloating after meals,digestive enzyme,stomach,indigestion,heavy food
+red eyes,antibiotic drops,eyes,conjunctivitis,allergy
+sore neck,analgesic + rest,neck,muscle strain,posture
+cough,expectorant + rest,throat,cold,infection
+fatigue after exertion,rest + fluids,whole body,exhaustion,overwork
+swelling in joints,anti-inflammatory + rest,joints,gout,high uric acid
+dryness on hands,emollient cream,hands,dry skin,winter
+muscle cramps,electrolyte supplement,legs,dehydration,exercise
+lightheadedness,hydration,head,dehydration,heat
+itchy rash,antihistamine cream,skin,urticaria,insect bite
+nausea and dizziness,rest + fluids,whole body,dehydration,heat
+dry lips,lip balm,mouth,dehydration,sun exposure
+back stiffness,physiotherapy,back,muscle strain,bad posture
+eye swelling,cold compress,eyes,allergy,insect bite
+leg pain,analgesic + rest,legs,muscle cramp,exertion
+dry eyes,lubricating drops,eyes,eye strain,computer use
+shortness of breath,bronchodilator + rest,chest,asthma,exertion
+sore shoulder,physiotherapy,shoulder,frozen shoulder,strain
+runny nose,decongestant + rest,nose,sinusitis,infection
+burning urination,antibiotic,urinary tract,UTI,bacterial
+weakness after meals,rest + hydration,whole body,fatigue,overeating
+chest pain,nitrate + monitoring,chest,angina,exertion
+sneezing,antihistamine,nose,rhinitis,pollen
+swelling in ankles,diuretics,legs,edema,heart condition
+sore eyes,antibiotic + lubricating drops,eyes,conjunctivitis,dust exposure
+nausea,antiemetic,stomach,gastritis,food poisoning
+dry mouth,hydration + saliva stimulant,mouth,dehydration,medication effect
+fever with chills,antipyretic,whole body,malaria,mosquito bite
+back pain,physiotherapy,back,lumbar strain,lifting
+itchy palms,antihistamine,hands,allergy,contact irritation
+cough at night,cough suppressant,throat,flu,cold air
+shortness of breath,bronchodilator,lungs,asthma,pollen
+fatigue,vitamin D supplement,whole body,vitamin D deficiency,lack of sunlight
+pain in calf,rest + hydration,legs,muscle cramp,walking
+nasal congestion,nasal spray + steam,nose,sinusitis,infection
+hair fall,vitamin supplement,scalp,alopecia,stress
+body ache,rest + fluids,whole body,viral fever,infection
+sore joints,pain relief + physiotherapy,knees,arthritis,aging
+bloating,probiotic + rest,stomach,indigestion,diet
+stiff neck,analgesic + rest,neck,cervical strain,poor posture
+loss of appetite,antacid,stomach,gastritis,irregular eating
+chest heaviness,bronchodilator + rest,lungs,asthma,pollution
+fatigue and headache,rest + fluids,whole body,exhaustion,overwork
+rash on face,soothing cream,face,dermatitis,cosmetic reaction
+itchy arms,antihistamine cream,arms,eczema,allergy
+mild fever,antipyretic + fluids,body,viral infection,weather change
+sore throat,lozenges + warm salt water gargle,throat,tonsillitis,cold exposure
+cough with sputum,expectorant + hydration,chest,bronchitis,pollution
+mild fever,antipyretic + rest,whole body,viral infection,seasonal change
+runny nose,antihistamine + nasal spray,nose,allergic rhinitis,pollen exposure
+chest pain,antiplatelet + oxygen therapy,chest,angina,stress
+fatigue,iron supplement + diet change,whole body,anemia,low hemoglobin
+stomach ache,antacid + fluids,abdomen,gastritis,spicy food
+bloating,digestive enzyme + probiotics,stomach,indigestion,overeating
+dry cough,cough suppressant + steam,throat,common cold,viral infection
+itching,antihistamine + cream,skin,eczema,allergic reaction
+burning urination,antibiotic + hydration,urinary tract,UTI,infection
+shortness of breath,bronchodilator + rest,lungs,asthma,dust exposure
+headache,NSAID + rest,head,tension headache,stress
+nasal congestion,decongestant spray + steam,nose,sinusitis,cold air
+sore eyes,lubricating drops + antibiotic,eyes,conjunctivitis,dust irritation
+joint pain,NSAID + physiotherapy,knees,arthritis,aging
+body ache,analgesic + rest,whole body,flu,viral infection
+chest tightness,bronchodilator inhaler,lungs,asthma,physical exertion
+ear pain,antibiotic drops,ear,otitis media,water exposure
+fatigue and weakness,vitamin supplement,whole body,fatigue,poor diet
+swollen ankles,diuretic + salt restriction,legs,edema,kidney issue
+pain in legs,rest + analgesic,legs,muscle cramp,overexertion
+dry mouth,hydration + oral rinse,mouth,dehydration,medication side effect
+back pain,physiotherapy + analgesic,back,lumbar strain,poor posture
+burning chest,antacid + diet modification,chest,GERD,spicy food
+sneezing fits,antihistamine,nose,allergic rhinitis,dust
+joint stiffness,NSAID + warm compress,knees,arthritis,aging
+rash,steroid cream,skin,dermatitis,chemical exposure
+constipation,laxative + high-fiber diet,stomach,IBS,poor diet
+lightheadedness,hydration + rest,head,hypotension,heat exhaustion
+burning eyes,lubricating drops,eyes,dry eye syndrome,screen use
+shortness of breath at night,bronchodilator,lungs,COPD,smoking
+bloating after meals,antacid + enzyme,stomach,indigestion,overeating
+tooth sensitivity,desensitizing toothpaste,teeth,enamel erosion,cold drinks
+muscle stiffness,physiotherapy + rest,arms,strain,overuse
+watery eyes,antihistamine drops,eyes,allergic conjunctivitis,dust
+nausea,antiemetic + rest,stomach,gastritis,overeating
+skin peeling,emollient + moisturizer,skin,dry skin,cold weather
+sore joints,NSAID + rest,joints,osteoarthritis,aging
+dry throat,honey + warm water,throat,pharyngitis,dehydration
+numbness in hands,vitamin B supplement,hands,neuropathy,repetitive strain
+itchy arms,antihistamine lotion,arms,eczema,detergent use
+cold feet,circulation therapy,feet,poor circulation,cold exposure
+runny eyes,lubricating drops,eyes,allergy,dust
+weakness,multivitamin + rest,whole body,fatigue,lack of sleep
+sore neck,analgesic + physiotherapy,neck,cervical spondylosis,bad posture
+sneezing,antihistamine + nasal spray,nose,rhinitis,pollen exposure
+nausea after travel,antiemetic,stomach,motion sickness,long journey
+swelling in hands,anti-inflammatory + rest,hands,arthritis,repetitive strain
+mild headache,rest + fluids,head,migraine,tension
+itchy palms,antihistamine cream,hands,allergy,contact irritation
+stiffness in back,physiotherapy,back,muscle strain,lifting
+sore shoulder,rest + heat therapy,shoulder,frozen shoulder,repetitive motion
+cold hands,circulation therapy,hands,Raynaud’s,low temperature
+fatigue after work,rest + hydration,whole body,tiredness,overexertion
+dryness on legs,moisturizing cream,legs,eczema,winter
+itchy rash,antihistamine + cream,skin,urticaria,insect bite
+pain on swallowing,gargle + antibiotic,throat,pharyngitis,bacterial infection
+blurred vision,corrective lenses,eyes,myopia,screen use
+frequent thirst,hydration + rest,whole body,dehydration,heat
+rash on face,soothing cream,face,dermatitis,cosmetic allergy
+sore muscles,rest + warm compress,arms,muscle fatigue,gym activity
+swollen neck,antibiotic + rest,neck,lymphadenitis,bacterial infection
+heavy breathing,bronchodilator + oxygen,chest,asthma,physical exertion
+blocked nose,decongestant + steam,nose,sinusitis,infection
+dry cough at night,cough suppressant,throat,flu,cold weather
+swelling of feet,diuretic + rest,legs,edema,prolonged standing
+back stiffness,physiotherapy + rest,back,muscle strain,sitting posture
+weakness in legs,rest + vitamins,legs,fatigue,overuse
+headache with nausea,NSAID + rest,head,migraine,dehydration
+eye strain,lubricating drops,eyes,fatigue,long screen time
+chest pressure,bronchodilator + rest,chest,asthma,pollution exposure
+dry eyes,lubricating drops,eyes,dry eye syndrome,low humidity
+loss of taste,rest + hydration,mouth,viral infection,cold
+swollen joints,anti-inflammatory,joints,gout,uric acid buildup
+shortness of breath,oxygen + bronchodilator,lungs,COPD,smoking
+dizziness,hydration + rest,whole body,low blood pressure,hot weather
+itchy legs,antihistamine + lotion,legs,eczema,dryness
+pain in shoulder,physiotherapy,shoulder,strain,heavy lifting
+sore wrist,cold compress,wrist,tendonitis,repetitive motion
+stomach cramps,antispasmodic + fluids,abdomen,gastritis,indigestion
+nasal discharge,decongestant,nose,sinusitis,cold
+tiredness after meals,hydration + rest,whole body,fatigue,overeating
+eye burning,lubricating drops,eyes,dry eye,prolonged screen use
+red patches,steroid cream,skin,psoriasis,stress
+stiffness in joints,NSAID + exercise,knees,arthritis,old age
+ear itching,antifungal drops,ear,fungal infection,moisture
+mild fever,antipyretic + fluids,whole body,viral infection,weather change
+chest heaviness,nitrate + rest,chest,angina,overexertion
+fatigue,vitamin supplement + diet,whole body,anemia,low iron
+cough,expectorant + rest,throat,bronchitis,dust exposure
+sore throat,lozenges + warm water gargle,throat,pharyngitis,cold
+body ache,rest + paracetamol,whole body,flu,viral
+runny nose,nasal drops + antihistamine,nose,sinusitis,pollen
+nausea,antiemetic + hydration,stomach,gastritis,overeating
+bloating,probiotic + antacid,stomach,indigestion,heavy meal
+burning urination,antibiotic + fluids,urinary tract,UTI,poor hygiene
+shortness of breath,bronchodilator,lungs,asthma,physical exertion
+sore eyes,lubricating drops + antibiotic,eyes,conjunctivitis,dust exposure
+dry skin,moisturizer + rest,skin,eczema,cold weather
+fatigue after exercise,rest + fluids,whole body,exhaustion,overexertion
+itchy scalp,medicated shampoo,scalp,dandruff,oily hair
+nasal congestion,steam inhalation + decongestant,nose,sinusitis,cold
+chest tightness,bronchodilator + rest,chest,asthma,dust allergy
+burning chest,antacid + rest,chest,GERD,spicy food
+itching on hands,antihistamine cream,hands,eczema,detergent exposure
+mild cough,cough syrup + rest,throat,common cold,viral
+weakness,vitamin supplement + hydration,whole body,fatigue,poor diet
+rash,steroid cream,skin,dermatitis,allergy
+swollen throat,antibiotic + rest,throat,tonsillitis,infection
+pain in shoulder,physiotherapy,shoulder,strain,overuse
+swollen ankles,diuretic + rest,legs,edema,standing long hours
+blurred vision,corrective glasses,eyes,myopia,eye strain
+nausea and vomiting,antiemetic + hydration,stomach,food poisoning,contaminated food
+runny eyes,antihistamine drops,eyes,allergy,pollen exposure
+dry lips,lip balm + hydration,mouth,dehydration,heat
+red itchy eyes,lubricating drops,eyes,conjunctivitis,allergy
+sore joints,NSAID + physiotherapy,joints,osteoarthritis,age-related
+stiffness in back,warm compress + rest,back,muscle strain,lifting
+cough with mucus,expectorant,chest,bronchitis,cold exposure
+itchy rash,antihistamine lotion,skin,urticaria,insect bite
+pain in legs,rest + warm compress,legs,muscle fatigue,walking
+nasal blockage,decongestant + steam,nose,sinusitis,cold
+burning sensation in eyes,lubricating drops,eyes,dry eye syndrome,prolonged screen use
+fatigue and headache,rest + hydration,whole body,dehydration,sun exposure
+chest congestion,bronchodilator + steam,chest,bronchitis,pollution
+flank pain,hydration + analgesic,abdomen,kidney stone,dehydration
+burning urination,lithotripsy + antibiotic,urinary tract,bladder stone,stone formation
+lower back pain,analgesic + rest,back,herniated disc,heavy lifting
+joint swelling,anti-inflammatory + diet change,joints,gout,high uric acid
+abdominal discomfort,surgical removal,gallbladder,gallstones,fatty food intake
+dry scaly skin,topical steroids,skin,psoriasis,autoimmune reaction
+numbness on one side,physiotherapy,face,Bell’s palsy,viral infection
+burning skin patch,antiviral + pain relief,skin,shingles,post-viral reaction
+swelling in fingers,corticosteroids,hands,rheumatoid arthritis,autoimmune disorder
+abdominal pain,antibiotics,abdomen,diverticulitis,infection
+frequent urination,alpha blocker,bladder,bladder stone,obstruction
+side pain,hydration + analgesic,flank,ureteric stone,low water intake
+fatigue,thyroid replacement,neck,hypothyroidism,hormonal imbalance
+weight loss,hormone therapy,thyroid,hyperthyroidism,overactive gland
+persistent cough,inhaler + steroid,lungs,pulmonary fibrosis,long-term inflammation
+skin rash,immunosuppressant,skin,lupus,autoimmune disease
+numbness in legs,vitamin B12 supplement,spine,neuropathy,deficiency
+swelling of legs,diuretic + compression,legs,varicose veins,poor circulation
+back pain after bending,physiotherapy,spine,slipped disc,posture strain
+blood in urine,surgical intervention,kidneys,kidney stone,urinary blockage
+joint pain,uric acid control drugs,knees,gout,purine-rich diet
+sudden chest pain,anticoagulant,chest,pulmonary embolism,blood clot
+shortness of breath,bronchodilator + oxygen,lungs,emphysema,smoking history
+skin thickening,topical steroid,skin,eczema,chronic irritation
+neck swelling,thyroid medication,neck,goiter,iodine deficiency
+leg cramp,electrolyte replacement,legs,peripheral neuropathy,circulation issue
+hand tremor,beta blocker,hands,essential tremor,aging
+pain after urination,antibiotic + hydration,bladder,cystitis,infection
+dry patchy scalp,medicated shampoo,scalp,seborrheic dermatitis,stress
+itchy red patch,antifungal cream,skin,ringworm,fungal infection
+brittle nails,supplement + cream,fingers,nail psoriasis,chronic skin issue
+tingling in fingers,nerve supplement,hands,carpal tunnel syndrome,repetitive motion
+fatigue + swelling,diuretics + low-salt diet,legs,heart failure,poor circulation
+abdominal bloating,diet modification,stomach,irritable bowel syndrome,stress
+light sensitivity,antiviral drops,eyes,viral keratitis,infection
+pain in joints,corticosteroid injection,joints,bursitis,inflammation
+leg stiffness,physiotherapy,legs,sciatica,nerve compression
+pelvic pain,antibiotics,pelvis,pelvic inflammatory disease,bacterial infection
+frequent urination at night,fluid restriction,bladder,nocturia,enlarged prostate
+burning sensation in chest,proton pump inhibitor,chest,peptic ulcer,spicy food
+hair thinning,nutritional supplements,scalp,androgenic alopecia,hormonal imbalance
+itchy rash on face,topical antibiotic,face,rosacea,sensitive skin
+red scaly elbows,topical steroid,arms,psoriasis,autoimmune
+yellow eyes,rest + fluids,liver,hepatitis,viral infection
+sharp flank pain,hydration + rest,flank,kidney stone,low fluid intake
+cloudy urine,antibiotics,urinary tract,infection,bacterial cause
+severe back pain,physiotherapy,back,slipped disc,lifting injury
+leg swelling,compression stockings,legs,varicose veins,prolonged standing
+mild fever + joint pain,antipyretic + rest,whole body,dengue fever,mosquito bite
+itchy patches on scalp,medicated shampoo,scalp,psoriasis,stress-related
+abdominal swelling,low-salt diet + diuretics,abdomen,liver cirrhosis,chronic alcohol use
+joint pain with stiffness,immunosuppressant,joints,rheumatoid arthritis,autoimmune
+chronic cough,inhaled corticosteroid,lungs,chronic bronchitis,smoking
+itchy red scalp,medicated shampoo,scalp,seborrheic dermatitis,stress
+flank tenderness,hydration + analgesic,flank,renal calculi,stone obstruction
+nausea + upper pain,proton pump inhibitor,stomach,peptic ulcer disease,H. pylori infection
+yellow skin,antiviral + rest,liver,hepatitis B,viral exposure
+swelling in hands,corticosteroid,fingers,lupus erythematosus,autoimmune response
+abdominal cramping,anti-inflammatory,colon,ulcerative colitis,chronic inflammation
+persistent diarrhea,hydration + probiotics,intestines,Crohn’s disease,bowel inflammation
+neck lump,thyroid hormone therapy,neck,goiter,iodine deficiency
+sudden facial weakness,corticosteroid + physiotherapy,face,Bell’s palsy,viral infection
+weakness in legs,physiotherapy + rest,spine,sciatica,nerve compression
+pain on urination,antibiotic + hydration,bladder,cystitis,infection
+red patchy rash,steroid ointment,skin,psoriasis,immune disorder
+burning while eating,antifungal mouthwash,mouth,oral candidiasis,antibiotic side effect
+muscle weakness,electrolyte correction,limbs,hypokalemia,potassium loss
+pain under ribs,rest + fluids,abdomen,spleen enlargement,infection
+itching all over,antihistamine + lotion,skin,cholestasis,bile retention
+joint swelling,uric acid-lowering agent,toes,gout,red meat intake
+pain during urination,antibiotic + rest,urinary tract,prostatitis,infection
+light-headedness,hydration + rest,whole body,postural hypotension,dehydration
+night sweats,anti-tuberculosis therapy,lungs,tuberculosis,bacterial infection
+back stiffness,stretching + rest,spine,ankylosing spondylitis,inflammatory arthritis
+pelvic pain,antibiotics,pelvis,endometriosis,hormonal cause
+abdominal tenderness,antispasmodic,abdomen,diverticulitis,inflammation
+itchy ears,antifungal drops,ear,otomycosis,moisture
+persistent sore throat,antibiotic + gargle,throat,chronic tonsillitis,bacterial infection
+pain on chewing,anti-inflammatory,jaw,temporomandibular disorder,muscle strain
+rash with fever,antiviral + rest,skin,chickenpox,viral infection
+heel pain,physiotherapy + rest,heel,plantar fasciitis,long standing hours
+yellow nails,topical antifungal,nails,onychomycosis,fungal growth
+numbness in toes,vitamin therapy,feet,peripheral neuropathy,diabetes
+puffiness under eyes,antihistamine,face,allergy,dust exposure
+abdominal bloating,dietary fiber + rest,stomach,irritable bowel syndrome,stress
+chest pain after meal,PPI + small meals,chest,GERD,overeating
+finger stiffness,warm compress,fingers,trigger finger,repetitive motion
+fatigue with weight gain,thyroid hormone replacement,body,hypothyroidism,metabolic slowdown
+tender skin nodules,NSAID + rest,legs,erythema nodosum,inflammation
+shoulder pain,physiotherapy,shoulder,bursitis,overuse
+excessive sweating,topical antiperspirant,skin,hyperhidrosis,anxiety
+knee swelling,steroid injection,knees,gout,uric acid accumulation
+numbness on face,physiotherapy,face,Bell’s palsy,viral reactivation
+side pain,hydration,flank,ureteric stone,stone migration
+hand tremor,beta blocker,hands,essential tremor,stress trigger
+rash on scalp,medicated shampoo,scalp,psoriasis,stress-related
+burning tongue,antifungal gel,mouth,oral thrush,poor hygiene
+leg heaviness,compression stockings,legs,varicose veins,long standing
+back pain + stiffness,physiotherapy,spine,lumbar spondylosis,posture issue
+abdominal fullness,digestive enzyme + rest,abdomen,fatty liver disease,high cholesterol
+persistent itching,antihistamine,skin,eczema,dryness
+abdominal tenderness,rest + antibiotics,abdomen,appendicitis,infection
+flank pain,hydration + pain relief,flank,kidney stone,dehydration
+joint stiffness,NSAID + light exercise,joints,rheumatoid arthritis,autoimmune
+pale skin,iron supplement,whole body,iron deficiency anemia,low hemoglobin
+abdominal bloating,low-fat diet + medication,abdomen,gallbladder disease,fatty food
+yellowish skin,antiviral therapy,liver,hepatitis C,viral infection
+neck lump,hormone replacement,neck,thyroiditis,autoimmune inflammation
+tingling sensation in fingers,vitamin B complex,hands,peripheral neuropathy,diabetes
+sharp side pain,hydration,abdomen,ureteric stone,stone passage
+swelling in legs,diuretic + rest,legs,lymphedema,circulation issue
+recurring cough,inhaled steroid,lungs,asthma,environmental trigger
+burning chest pain,proton pump inhibitor,chest,acid reflux,spicy diet
+facial rash,topical corticosteroid,face,rosacea,sunlight exposure
+weight loss + fatigue,glucose control,whole body,diabetes mellitus,high blood sugar
+frequent urination,antibiotic + hydration,bladder,cystitis,bacterial infection
+itchy scalp patches,medicated shampoo,scalp,psoriasis,chronic condition
+abdominal cramps,antispasmodic + diet control,stomach,irritable bowel syndrome,stress
+muscle weakness,electrolyte replacement,limbs,hypokalemia,low potassium
+neck stiffness,physiotherapy,neck,cervical spondylosis,poor posture
+swelling in ankles,low-salt diet + diuretic,legs,heart failure,fluid retention
+mild fever + rash,antiviral medication,skin,measles,viral infection
+chronic diarrhea,anti-inflammatory + probiotics,colon,ulcerative colitis,bowel inflammation
+back stiffness,physiotherapy + heat pack,spine,ankylosing spondylitis,inflammation
+leg numbness,nerve supplements,legs,neuropathy,diabetes-related
+jaw pain,rest + warm compress,jaw,TMJ dysfunction,stress clenching
+scalp flakes,medicated lotion,scalp,seborrheic dermatitis,oily scalp
+joint redness,uric acid control therapy,joints,gout,diet rich in meat
+abdominal tenderness,antibiotics,abdomen,diverticulitis,infection
+eye irritation,lubricating drops,eyes,keratitis,contact lens use
+excessive thirst,insulin therapy,body,diabetes,blood sugar imbalance
+yellow nails,antifungal tablets,nails,fungal infection,moisture retention
+finger stiffness,stretching exercises,hands,trigger finger,repetitive use
+cough with blood,antibiotics,lungs,tuberculosis,chronic infection
+facial numbness,physiotherapy,face,Bell’s palsy,viral cause
+upper abdominal pain,enzyme supplements,abdomen,pancreatitis,alcohol intake
+loss of hair patches,steroid cream,scalp,alopecia areata,autoimmune
+chest pressure,nitrate + rest,chest,angina,heart condition
+persistent sore throat,antibiotics,throat,chronic pharyngitis,irritation
+rash with scaling,topical ointment,skin,eczema,dryness
+itching with swelling,antihistamine,skin,angioedema,allergic reaction
+lower limb swelling,compression bandage,legs,deep vein thrombosis,prolonged sitting
+lower back ache,physiotherapy,spine,lumbar strain,posture issue
+fatigue + low mood,antidepressant + rest,brain,mild depression,stress
+swollen glands,antibiotic + rest,neck,lymphadenitis,infection
+painful urination,antibiotic,urinary tract,UTI,hygiene issue
+morning joint pain,steroid therapy,joints,lupus,autoimmune flare
+eye redness + pain,steroid drops,eyes,uveitis,autoimmune inflammation
+itching after shower,antihistamine,skin,cholinergic urticaria,temperature change
+severe leg cramp,hydration + massage,legs,dehydration,heat exhaustion
+abdominal bloating,enzyme + light diet,stomach,dyspepsia,overeating
+chest tightness on exertion,oxygen + nitrate,lungs,pulmonary hypertension,chronic condition
+dizziness after standing,salt tablets + rest,whole body,orthostatic hypotension,low BP
+skin yellowing,rest + fluids,liver,jaundice,viral hepatitis
+swollen joints,NSAID + physiotherapy,knees,psoriatic arthritis,skin condition link
+back pain with stiffness,physical therapy,spine,spondyloarthritis,chronic inflammation
+hand tingling,nerve vitamins,hands,carpal tunnel syndrome,repetitive strain
+burning while urinating,hydration + antibiotic,bladder,cystitis,bacterial infection
+difficulty swallowing,PPI + soft diet,throat,esophagitis,acid reflux
+abdominal fullness,diet control,abdomen,fatty liver,obesity
+eye dryness,lubricating drops,eyes,dry eye syndrome,low humidity
+swelling in thyroid area,thyroid hormone,neck,goiter,iodine deficiency
+lower abdominal pain,surgical removal,pelvis,ovarian cyst,hormonal imbalance
+skin thickening,steroid cream,skin,scleroderma,autoimmune disorder
+breathlessness at night,oxygen therapy,lungs,sleep apnea,obesity
+arm pain,physiotherapy,arm,tendonitis,repetitive work
+itchy scalp,antifungal shampoo,scalp,fungal infection,sweating
+night-time cough,inhaler,lungs,bronchial asthma,allergy
+shoulder stiffness,physiotherapy + heat,shoulder,frozen shoulder,muscle adhesion
+cold extremities,circulation therapy,limbs,Raynaud’s disease,cold exposure
+swelling behind ear,antibiotic,ear,mastoiditis,bacterial cause
+irregular heartbeat,beta blocker,heart,arrhythmia,stress
+joint deformity,disease-modifying drugs,joints,rheumatoid arthritis,chronic inflammation
+persistent fatigue,thyroid supplement,whole body,hypothyroidism,hormonal cause
+side pain with fever,antibiotics,kidneys,pyelonephritis,infection
+heavy sweating,topical aluminum chloride,skin,hyperhidrosis,anxiety
+calf pain,rest + compression,legs,muscle strain,exercise
+red scaly rash,topical steroid,skin,psoriasis,chronic flare
+flank tenderness,hydration + pain relief,flank,renal colic,kidney stone
+chronic abdominal bloating,enzyme supplement + diet change,stomach,irritable bowel syndrome,stress trigger
+painful urination,antibiotic + rest,bladder,cystitis,bacterial cause
+itchy dry patches,steroid cream,skin,psoriasis,autoimmune condition
+sudden vision loss,ophthalmic steroid,eyes,optic neuritis,nerve inflammation
+pain in right lower abdomen,surgical removal,abdomen,appendicitis,acute pain
+yellowish eyes,antiviral + fluids,liver,jaundice,viral hepatitis
+swelling of thyroid,thyroid hormone,neck,goiter,iodine deficiency
+pain in toes,uric acid control,joints,gout,high protein diet
+itchy scalp,medicated shampoo,scalp,seborrheic dermatitis,stress
+tight chest on exertion,nitrate + oxygen,chest,angina,cardiac issue
+frequent night urination,alpha blocker,bladder,benign prostatic hypertrophy,enlarged prostate
+numb hands,physiotherapy + nerve vitamin,arms,carpal tunnel syndrome,repetitive strain
+swelling around ankles,diuretic + salt restriction,legs,edema,kidney dysfunction
+bloating after meals,probiotic + diet correction,stomach,dyspepsia,overeating
+dull flank pain,hydration therapy,kidneys,renal stone,low fluid intake
+red facial rash,topical antibiotic,face,rosacea,sun exposure
+tingling in feet,vitamin therapy,feet,peripheral neuropathy,diabetes
+chronic cough,bronchodilator inhaler,lungs,COPD,smoking
+back stiffness,physiotherapy,spine,spondylosis,poor posture
+pain after meals,PPI + rest,stomach,peptic ulcer,spicy food
+itchy feet,antifungal cream,feet,athlete’s foot,moist shoes
+finger joint pain,disease-modifying drugs,hands,rheumatoid arthritis,autoimmune
+loss of hair patches,topical steroid,scalp,alopecia areata,stress factor
+persistent sore throat,gargle + antibiotic,throat,chronic tonsillitis,bacterial
+tenderness under ribs,antispasmodic + rest,abdomen,splenomegaly,infection
+skin thickening,steroid ointment,skin,scleroderma,connective tissue disorder
+swollen eyelids,antihistamine + compress,eyes,allergic edema,dust exposure
+burning urination,antibiotic + fluids,urinary tract,bladder infection,dehydration
+sudden weakness on one side,physiotherapy + rest,face,Bell’s palsy,viral
+heel pain,rest + footwear modification,heel,plantar fasciitis,long standing
+chronic fatigue,iron + vitamin supplement,whole body,anemia,poor diet
+abdominal cramps,anti-inflammatory,colon,colitis,infection
+itchy palms,antihistamine cream,hands,dermatitis,soap irritation
+numb toes,nerve vitamin,feet,neuropathy,diabetes complication
+skin peeling,moisturizer,hands,eczema,winter dryness
+chest heaviness,nitrate + rest,chest,angina,stress
+swelling in neck,thyroid supplement,neck,thyroiditis,inflammation
+painful knees,physiotherapy + rest,knees,osteoarthritis,aging
+rash with fever,antiviral + rest,skin,chickenpox,viral
+eye irritation,lubricating drops,eyes,conjunctivitis,contact lens use
+stomach fullness,diet modification,abdomen,fatty liver,obesity
+red rash,steroid lotion,skin,eczema,allergic reaction
+backache,physiotherapy + massage,spine,muscle strain,poor posture
+pain after urination,antibiotic,urinary tract,prostatitis,infection
+abdominal tenderness,antibiotics,abdomen,diverticulitis,bowel inflammation
+swelling of limbs,compression stocking,legs,varicose veins,long standing
+sore joints,warm compress + medication,elbows,bursitis,repetitive motion
+loss of appetite,enzyme therapy,stomach,gastritis,irregular diet
+burning eyes,lubricating drops,eyes,dry eye,prolonged screen time
+excessive sweating,topical aluminum chloride,skin,hyperhidrosis,anxiety
+pain in lower back,physiotherapy,back,slipped disc,lifting injury
+thickened nails,antifungal tablets,nails,onychomycosis,infection
+abdominal pain with nausea,antacid + fluids,abdomen,peptic ulcer,irregular meals
+swelling of face,antihistamine,face,angioedema,allergic reaction
+dry patches on scalp,medicated lotion,scalp,psoriasis,chronic skin issue
+chest tightness,bronchodilator,lungs,asthma,dust exposure
+dizziness on standing,hydration + rest,whole body,orthostatic hypotension,low blood pressure
+skin redness,soothing cream,skin,dermatitis,irritation
+tenderness near joints,anti-inflammatory,elbows,gout,uric acid elevation
+numbness in legs,vitamin therapy,spine,neuropathy,long sitting hours
+painful shoulder,physiotherapy + rest,shoulder,frozen shoulder,overuse
+fatigue after meals,rest + hydration,whole body,hypoglycemia,low blood sugar
+swelling around jaw,antibiotic,mouth,salivary gland infection,bacterial
+cracked lips,lip balm + fluids,lips,dehydration,dry weather
+constant coughing,bronchodilator + steroid,chest,chronic bronchitis,pollution
+itchy rash on arms,antihistamine lotion,arms,eczema,detergent allergy
+night sweats,antibiotic + therapy,lungs,tuberculosis,chronic infection
+numb cheeks,physiotherapy,face,Bell’s palsy,viral inflammation
+swelling in abdomen,low-salt diet + rest,abdomen,ascites,liver disorder
+itchy throat,antihistamine + gargle,throat,allergic pharyngitis,dust
+mild fever + chills,antipyretic + hydration,body,malaria,mosquito bite
+pain under ribs,rest + medication,abdomen,splenic enlargement,infection
+persistent nausea,antacid + rest,stomach,gastritis,stress
+persistent back pain,physiotherapy + rest,spine,lumbar spondylosis,age-related wear
+swelling in abdomen,low-salt diet + diuretics,abdomen,ascites,liver disorder
+shortness of breath,bronchodilator inhaler,lungs,COPD,smoking history
+joint stiffness,disease-modifying therapy,joints,rheumatoid arthritis,autoimmune disease
+fatigue with weight gain,thyroid hormone replacement,whole body,hypothyroidism,hormonal imbalance
+burning chest,PPI + diet control,chest,peptic ulcer,irregular meals
+tingling in hands,vitamin supplement,arms,carpal tunnel syndrome,repetitive motion
+itchy skin rash,steroid cream,skin,eczema,detergent irritation
+loss of appetite,digestive enzyme + fluids,stomach,gastritis,poor diet
+lower abdominal pain,antibiotics,pelvis,pelvic inflammatory disease,infection
+swelling in fingers,corticosteroid,hands,lupus,autoimmune
+night cough,inhaler + rest,lungs,bronchial asthma,dust exposure
+burning urination,antibiotic + fluids,urinary tract,bladder infection,poor hygiene
+facial redness,topical antibiotic,face,rosacea,sunlight
+heel pain,rest + stretching,heel,plantar fasciitis,long standing
+red scaly rash,steroid cream,skin,psoriasis,chronic skin issue
+chest tightness,nitrate + rest,chest,angina,exertion
+dizziness on standing,fluids + salt tablets,whole body,postural hypotension,low BP
+stiffness in neck,physiotherapy,neck,cervical spondylosis,posture
+swelling in legs,diuretics + rest,legs,edema,kidney dysfunction
+itchy scalp,antifungal shampoo,scalp,seborrheic dermatitis,stress
+throat irritation,gargle + lozenges,throat,pharyngitis,infection
+sharp abdominal pain,surgery,abdomen,appendicitis,acute onset
+itchy rash,antihistamine lotion,skin,urticaria,allergic trigger
+joint pain,uric acid-lowering therapy,joints,gout,red meat intake
+tiredness,vitamin supplement,whole body,anemia,low iron
+rash on cheeks,topical steroid,face,lupus rash,autoimmune
+back stiffness,physiotherapy + rest,spine,ankylosing spondylitis,inflammation
+weakness,electrolyte therapy,whole body,dehydration,heat exhaustion
+hair loss,vitamin supplement,scalp,alopecia,hormonal imbalance
+jaw pain,pain relief gel,jaw,temporomandibular disorder,stress
+shortness of breath,oxygen + bronchodilator,lungs,emphysema,smoking
+abdominal cramp,antispasmodic,abdomen,colitis,inflammation
+pain on swallowing,antibiotics,throat,tonsillitis,bacterial
+fatigue with swelling,diuretic + rest,legs,heart failure,fluid buildup
+numb toes,nerve supplement,feet,peripheral neuropathy,diabetes
+joint swelling,corticosteroid injection,joints,psoriatic arthritis,skin condition
+abdominal bloating,enzyme supplement,stomach,IBS,stress
+ear pain,antibiotic drops,ear,otitis externa,swimming
+chest heaviness,nitrate + rest,chest,coronary artery disease,exertion
+abdominal fullness,diet modification,stomach,fatty liver,obesity
+swelling under eyes,antihistamine,eyes,allergy,pollen
+muscle cramps,hydration + electrolyte,legs,dehydration,exercise
+red eyes,antibiotic drops,eyes,conjunctivitis,infection
+fatigue after meals,rest + hydration,whole body,hypoglycemia,poor diet
+pain near ribs,analgesic,chest,costochondritis,inflammation
+skin rashes,steroid cream,skin,dermatitis,allergy
+dry cough,cough suppressant,throat,bronchitis,pollution
+abdominal tenderness,antibiotics,abdomen,diverticulitis,bowel infection
+loss of sensation,vitamin therapy,limbs,neuropathy,deficiency
+swelling in thyroid,thyroid supplement,neck,thyroiditis,hormonal
+yellow eyes,antiviral + fluids,liver,hepatitis,infection
+frequent urination,medication + rest,bladder,overactive bladder,nerve dysfunction
+mild fever,paracetamol + fluids,whole body,viral infection,seasonal
+shoulder stiffness,physiotherapy,shoulder,frozen shoulder,overuse
+tingling in fingers,vitamin supplement,hands,nerve compression,repetitive work
+nausea and vomiting,antiemetic,stomach,food poisoning,contaminated food
+skin discoloration,topical ointment,skin,vitiligo,pigment loss
+swelling of jaw,antibiotic,mouth,salivary gland infection,bacterial
+persistent cough,inhaler,lungs,COPD,smoking
+itchy scalp flakes,medicated shampoo,scalp,dandruff,fungal cause
+mild chest pain,nitrate + rest,chest,angina,stress
+loss of strength,vitamins + hydration,body,fatigue,lack of sleep
+wrist pain,physiotherapy + rest,wrist,tendonitis,repetitive motion
+nausea with upper pain,PPI + rest,stomach,ulcer,spicy food
+light-headedness,fluids + rest,whole body,dehydration,summer heat
+thickened nails,antifungal,nails,fungal infection,chronic moisture
+abdominal pain,antibiotic + rest,abdomen,diverticulitis,bowel inflammation
+joint swelling,anti-inflammatory,joints,gout,high uric acid
+yellow skin,antiviral + rest,liver,hepatitis,viral infection
+numbness in legs,vitamin B complex,spine,neuropathy,diabetes
+fatigue with depression,antidepressant + counseling,brain,mild depression,stress
+burning sensation in feet,vitamin therapy,feet,peripheral neuropathy,diabetes
+back stiffness,physiotherapy,spine,ankylosing spondylitis,chronic inflammation
+swelling in face,antihistamine + steroid,face,angioedema,allergy
+shoulder pain,physiotherapy + rest,shoulder,frozen shoulder,posture issue
+itchy rash,antifungal cream,skin,ringworm,humid weather
+chest tightness,bronchodilator inhaler,lungs,asthma,dust allergy
+flank pain,hydration + analgesic,flank,kidney stone,dehydration
+burning urination,antibiotic + fluids,urinary tract,cystitis,infection
+sore joints,NSAID + rest,knees,arthritis,age-related
+lower abdominal cramps,antispasmodic,abdomen,IBS,stress
+heaviness in chest,nitrate + rest,chest,angina,exertion
+persistent cough,inhaler + steroid,lungs,chronic bronchitis,pollution
+swelling in legs,diuretic + elevation,legs,edema,kidney issue
+facial rash,topical ointment,face,rosacea,sunlight
+weakness,vitamin D supplement,body,deficiency,lack of sunlight
+eye dryness,lubricating drops,eyes,dry eye,screen exposure
+itching,antihistamine + lotion,skin,eczema,soap allergy
+abdominal bloating,digestive enzyme,stomach,dyspepsia,overeating
+red eyes,antibiotic drops,eyes,conjunctivitis,bacterial infection
+hair thinning,vitamin supplement,scalp,alopecia,hormonal imbalance
+numb hands,nerve therapy,arms,carpal tunnel syndrome,repetitive strain
+dull flank pain,hydration + rest,kidneys,renal stone,low water intake
+swollen neck,thyroid hormone,neck,goiter,iodine deficiency
+sharp chest pain,nitrate,chest,angina,heart strain
+itching between toes,antifungal cream,feet,athlete’s foot,sweating
+sore throat,lozenges + warm gargle,throat,tonsillitis,infection
+stiffness in knees,physiotherapy,knees,osteoarthritis,aging
+fatigue with chills,antipyretic + fluids,whole body,viral infection,seasonal
+nausea,antiemetic,stomach,gastritis,irregular eating
+tingling in arms,physiotherapy,arms,nerve compression,posture issue
+burning mouth,antifungal rinse,mouth,oral thrush,medication side effect
+swollen joints,corticosteroid,joints,lupus,autoimmune
+dryness on skin,moisturizer,skin,xerosis,winter weather
+numb toes,vitamin supplement,feet,neuropathy,diabetes
+mild chest discomfort,nitrate + rest,chest,stable angina,exertion
+eye redness,antihistamine drops,eyes,allergic conjunctivitis,pollen
+pain while swallowing,antibiotic + gargle,throat,pharyngitis,bacterial
+swollen abdomen,low-salt diet + rest,abdomen,ascites,liver disorder
+facial numbness,physiotherapy,face,Bell’s palsy,viral
+itchy rash on scalp,medicated shampoo,scalp,psoriasis,autoimmune
+cough with mucus,expectorant + rest,lungs,bronchitis,cold
+neck stiffness,physiotherapy + rest,neck,cervical spondylosis,posture
+burning during urination,antibiotic + hydration,bladder,infection,bacterial
+pain after eating,PPI + diet change,stomach,ulcer,spicy food
+dizziness,rest + hydration,head,hypotension,dehydration
+joint pain with redness,uric acid control,toes,gout,purine intake
+sore gums,antiseptic rinse,mouth,gingivitis,poor hygiene
+yellow nails,antifungal tablets,nails,fungal infection,moisture
+swelling in hands,corticosteroid,fingers,rheumatoid arthritis,autoimmune
+back pain,physiotherapy,spine,lumbar strain,poor posture
+shortness of breath,oxygen therapy,lungs,COPD,smoking
+stomach fullness,diet adjustment,abdomen,fatty liver,obesity
+rash on arms,antihistamine cream,arms,dermatitis,allergy
+hand tremor,beta blocker,hands,essential tremor,stress
+fatigue with swelling,diuretic + rest,legs,heart failure,fluid overload
+skin thickening,steroid cream,skin,scleroderma,autoimmune
+soreness behind ear,antibiotic,ear,mastoiditis,bacterial infection
+lightheadedness,hydration,whole body,low blood pressure,hot climate
+rash with fever,antiviral + rest,skin,measles,viral infection
+tingling sensation,vitamin therapy,limbs,neuropathy,deficiency
+burning in chest,antacid,chest,GERD,fatty meal
+stiff shoulder,physiotherapy,shoulder,tendonitis,overuse
+cough at night,inhaler,lungs,asthma,allergy
+numb cheeks,physiotherapy,face,Bell’s palsy,nerve inflammation
+lower back pain,rest + physiotherapy,spine,herniated disc,posture issue
+itching on scalp,antifungal lotion,scalp,fungal dermatitis,oily scalp
+joint swelling,steroid therapy,knees,psoriatic arthritis,skin condition
+persistent fatigue,thyroid supplement,body,hypothyroidism,hormonal issue
+abdominal cramping,antispasmodic + fluids,abdomen,irritable bowel syndrome,stress-related
+joint swelling,corticosteroid + rest,joints,rheumatoid arthritis,autoimmune condition
+persistent cough,inhaled steroid,lungs,chronic bronchitis,pollution exposure
+facial redness,topical antibiotic,face,rosacea,heat exposure
+itchy scalp,medicated shampoo,scalp,psoriasis,autoimmune flare
+shortness of breath,bronchodilator,chest,COPD,smoking
+numbness in feet,vitamin supplement,feet,peripheral neuropathy,diabetes
+fatigue,iron and B12 supplements,whole body,anemia,nutritional deficiency
+abdominal pain,antibiotics,stomach,diverticulitis,bowel infection
+sore joints,physiotherapy,knees,osteoarthritis,aging
+dry flaky skin,moisturizing cream,skin,eczema,winter dryness
+chest pressure,nitrate + rest,chest,angina,overexertion
+eye irritation,lubricating drops,eyes,dry eye,prolonged screen time
+yellow eyes,antiviral + rest,liver,hepatitis,viral cause
+dizziness,rest + hydration,whole body,hypotension,dehydration
+throat pain,lozenges + antibiotics,throat,tonsillitis,bacterial
+swelling of ankles,diuretic + rest,legs,edema,heart condition
+burning urination,antibiotic + hydration,urinary tract,cystitis,infection
+numb hands,physiotherapy + vitamins,arms,carpal tunnel syndrome,repetitive motion
+red itchy rash,antihistamine cream,skin,dermatitis,allergic reaction
+heaviness after eating,PPI + diet change,stomach,gastritis,overeating
+pain in joints,uric acid control,toes,gout,purine-rich diet
+persistent fatigue,thyroid hormone,body,hypothyroidism,metabolic disorder
+rash on scalp,medicated shampoo,scalp,seborrheic dermatitis,stress
+back pain,physiotherapy,spine,lumbar spondylosis,poor posture
+light-headedness,rest + hydration,whole body,dehydration,heat exposure
+shortness of breath,oxygen + bronchodilator,lungs,emphysema,smoking damage
+swollen fingers,corticosteroid,hands,lupus,autoimmune inflammation
+nausea,antiemetic,stomach,gastritis,food irritation
+itchy feet,antifungal cream,feet,athlete’s foot,fungal infection
+chest heaviness,nitrate + rest,chest,coronary artery disease,hypertension
+rash with scaling,steroid ointment,skin,psoriasis,chronic condition
+numbness in legs,vitamin therapy,spine,neuropathy,prolonged sitting
+sore tongue,antifungal gel,mouth,oral thrush,antibiotic use
+painful urination,antibiotic,bladder,urinary tract infection,hygiene issue
+swelling in neck,thyroid supplement,neck,thyroiditis,autoimmune thyroid
+tingling sensation,vitamin supplement,limbs,nerve compression,deficiency
+itchy palms,antihistamine,hands,dermatitis,allergic contact
+abdominal fullness,enzyme therapy,abdomen,fatty liver,obesity
+burning sensation in chest,PPI,chest,GERD,irregular diet
+mild fever,antipyretic + rest,whole body,viral fever,weather change
+dryness on hands,moisturizer,skin,eczema,winter
+sore shoulder,physiotherapy,shoulder,tendonitis,overuse
+back stiffness,physical therapy,spine,ankylosing spondylitis,chronic inflammation
+abdominal bloating,diet modification,stomach,indigestion,overeating
+itchy rash,steroid cream,skin,urticaria,insect bite
+leg swelling,diuretics + salt control,legs,edema,kidney disorder
+chest discomfort,bronchodilator,lungs,asthma,dust exposure
+skin redness,topical ointment,skin,dermatitis,allergic trigger
+knee pain,physiotherapy,knees,osteoarthritis,aging
+persistent cough,antibiotic,lungs,pneumonia,bacterial infection
+shoulder pain,stretching exercises,shoulder,bursitis,repetitive motion
+itchy scalp,medicated lotion,scalp,dandruff,fungal growth
+throat irritation,salt gargle,throat,pharyngitis,infection
+abdominal pain with nausea,rest + PPI,stomach,peptic ulcer,spicy food
+fatigue with weakness,vitamin supplement,body,anemia,iron deficiency
+cracked lips,lip balm,mouth,dehydration,cold weather
+swollen legs,compression stockings,legs,varicose veins,prolonged standing
+nausea and vomiting,antiemetic + fluids,stomach,food poisoning,contamination
+chest pain,nitrate + rest,chest,stable angina,exertion
+rash with itching,antihistamine + cream,skin,eczema,detergent exposure
+fatigue after exertion,rest + hydration,whole body,exhaustion,heat
+joint stiffness,physiotherapy,joints,rheumatoid arthritis,autoimmune
+burning urination,hydration + antibiotic,urinary tract,cystitis,bacterial
+tingling in arms,vitamin therapy,arms,neuropathy,posture issue
+swelling of face,antihistamine,face,angioedema,allergy
+red scaly rash,steroid cream,skin,eczema,allergic
+swollen thyroid,hormone therapy,neck,goiter,iodine deficiency
+soreness in throat,lozenges + rest,throat,viral pharyngitis,cold air
+fatigue,vitamin D supplement,body,deficiency,lack of sunlight
+abdominal bloating,enzyme + rest,stomach,dyspepsia,heavy food
+flank tenderness,hydration + analgesic,flank,kidney stone,dehydration
+chronic cough,inhaled corticosteroid,lungs,COPD,smoking history
+joint stiffness,physiotherapy,joints,osteoarthritis,aging
+burning urination,antibiotic + rest,urinary tract,cystitis,infection
+numbness in feet,vitamin B complex,legs,neuropathy,diabetes
+lower back pain,physiotherapy,spine,lumbar strain,posture issue
+itchy scalp,medicated shampoo,scalp,dandruff,fungal growth
+red scaly skin,steroid cream,skin,psoriasis,autoimmune condition
+throat irritation,lozenges + warm water gargle,throat,pharyngitis,viral infection
+abdominal fullness,enzyme supplement,abdomen,fatty liver,high cholesterol
+sore joints,anti-inflammatory,joints,rheumatoid arthritis,autoimmune
+swelling of legs,diuretic + rest,legs,edema,kidney dysfunction
+nausea,antiemetic + fluids,stomach,gastritis,irregular eating
+tingling in fingers,vitamin therapy,arms,nerve compression,repetitive use
+swollen ankles,compression stockings,legs,varicose veins,prolonged standing
+numb hands,physiotherapy + vitamins,arms,carpal tunnel syndrome,desk work
+yellow eyes,antiviral + fluids,liver,hepatitis,viral cause
+chest pain,nitrate + rest,chest,angina,heart strain
+burning mouth,antifungal mouthwash,mouth,oral thrush,antibiotic use
+light-headedness,hydration + rest,whole body,hypotension,dehydration
+itchy rash,antihistamine lotion,skin,eczema,allergic trigger
+jaw pain,warm compress,jaw,TMJ disorder,clenching
+lower abdominal pain,antibiotic,abdomen,cystitis,bacterial cause
+eye irritation,lubricating drops,eyes,allergic conjunctivitis,pollen exposure
+chest heaviness,bronchodilator + rest,lungs,COPD,pollution
+mild fever,paracetamol + rest,body,viral infection,weather change
+weakness,iron supplement,whole body,anemia,low hemoglobin
+stiffness in neck,physiotherapy,neck,cervical spondylosis,posture issue
+itchy feet,antifungal cream,feet,athlete’s foot,sweat accumulation
+sore throat,lozenges + warm gargle,throat,tonsillitis,bacterial
+back stiffness,stretching exercise,spine,ankylosing spondylitis,inflammatory
+redness on skin,soothing cream,skin,dermatitis,allergy
+swelling around eyes,antihistamine,face,allergy,dust
+fatigue with swelling,diuretic + rest,legs,heart failure,fluid retention
+sore gums,antiseptic rinse,mouth,gingivitis,poor oral hygiene
+burning eyes,lubricating drops,eyes,eye strain,prolonged screen time
+pain in lower abdomen,surgical removal,abdomen,appendicitis,acute pain
+itchy scalp,medicated lotion,scalp,seborrheic dermatitis,oily skin
+tingling in arms,vitamin supplement,arms,neuropathy,nerve compression
+dry cough,cough suppressant,throat,bronchitis,viral
+swelling in fingers,steroid therapy,hands,lupus,autoimmune disorder
+shortness of breath on exertion,oxygen + rest,lungs,pulmonary fibrosis,long-term smoker
+redness in eyes,antibiotic drops,eyes,conjunctivitis,bacterial infection
+dull flank pain,hydration + rest,kidneys,renal stone,dehydration
+itching on skin,antihistamine,skin,urticaria,detergent exposure
+abdominal bloating,enzyme + diet correction,stomach,dyspepsia,overeating
+numb toes,vitamin therapy,feet,peripheral neuropathy,diabetes complication
+swelling in abdomen,low-salt diet + rest,abdomen,ascites,liver cirrhosis
+pain in joints,anti-inflammatory,knees,gout,uric acid buildup
+tingling in hands,physiotherapy,hands,carpal tunnel,repetitive work
+rash on face,topical antibiotic,face,acne rosacea,sun exposure
+sore tongue,antifungal gel,mouth,oral candidiasis,infection
+stiffness in lower back,physiotherapy,spine,herniated disc,lifting
+fatigue and headache,hydration + vitamins,whole body,dehydration,heat
+swollen neck,thyroid hormone,neck,thyroiditis,iodine deficiency
+dry lips,lip balm + hydration,lips,dehydration,cold air
+pain during urination,antibiotic + fluids,urinary tract,bladder infection,bacterial
+rash on arms,steroid cream,arms,eczema,allergic reaction
+weak legs,rest + vitamins,legs,muscle fatigue,overuse
+red spots on skin,antihistamine,skin,allergic rash,dust exposure
+bloating after meals,enzyme supplement,stomach,gastritis,heavy meal
+chest discomfort,nitrate + rest,chest,stable angina,exertion
+itchy ears,antifungal drops,ear,otomycosis,moisture exposure
+shoulder pain,heat therapy + rest,shoulder,tendonitis,lifting
+backache,physiotherapy + rest,spine,lumbar strain,prolonged sitting
+swollen thyroid,thyroid supplement,neck,goiter,hormonal issue
+soreness in jaw,warm compress,jaw,TMJ disorder,teeth grinding
+nausea and fatigue,hydration + rest,whole body,viral infection,mild flu
+painful swallowing,antibiotic + gargle,throat,pharyngitis,bacterial infection
+mild fever with cough,paracetamol + rest,whole body,flu,viral illness
+muscle weakness,corticosteroid + rest,limbs,myasthenia gravis,autoimmune neuromuscular
+chronic fatigue,hormone replacement,body,Addison’s disease,adrenal insufficiency
+numbness in legs,IV immunoglobulin,nerves,Guillain–Barré syndrome,post-infectious
+tremor in hands,dopamine agonist,brain,Parkinson’s disease,neurodegenerative
+weight loss with diarrhea,gluten-free diet,intestine,celiac disease,autoimmune
+dry mouth + dry eyes,artificial tears + hydration,glands,Sjögren’s syndrome,autoimmune
+facial twitching,anticonvulsant therapy,face,hemifacial spasm,nerve irritation
+double vision,corticosteroid + rest,eyes,multiple sclerosis,demyelinating disease
+severe fatigue,corticosteroid,muscles,polymyositis,autoimmune inflammation
+swollen joints,immunosuppressive therapy,joints,lupus erythematosus,autoimmune disorder
+muscle cramps,electrolyte correction,limbs,hypoparathyroidism,calcium deficiency
+darkening of skin,hormone therapy,body,Addison’s disease,adrenal issue
+slurred speech,physiotherapy,face,motor neuron disease,nerve degeneration
+severe weakness,plasma exchange,nerves,Guillain–Barré syndrome,viral trigger
+uncontrolled shaking,dopaminergic medication,limbs,Parkinson’s disease,movement disorder
+sensitivity to light,gluten-free diet,intestine,celiac disease,food intolerance
+burning sensation in feet,vitamin B therapy,nerves,peripheral neuropathy,chronic diabetes
+difficulty swallowing,physiotherapy,throat,myasthenia gravis,nerve-muscle junction
+joint swelling,corticosteroid + DMARD,joints,systemic lupus erythematosus,autoimmune
+numbness in arms,immunotherapy,spine,multiple sclerosis,nerve inflammation
+dry skin + fatigue,hormone therapy,thyroid,Hashimoto’s thyroiditis,autoimmune
+difficulty walking,physiotherapy,legs,muscular dystrophy,progressive weakness
+unsteady gait,physiotherapy + medication,limbs,cerebellar ataxia,balance disorder
+eye pain + blurred vision,steroid drops,eyes,uveitis,autoimmune
+swelling of salivary glands,immunosuppressant,mouth,Sjögren’s syndrome,dry gland disease
+muscle wasting,physiotherapy,limbs,amyotrophic lateral sclerosis,motor neuron loss
+weakness after infection,IV immunoglobulin,limbs,Guillain–Barré syndrome,viral aftermath
+shaking hands,dopaminergic therapy,arms,Parkinson’s disease,chronic condition
+chronic cough,antifibrotic therapy,lungs,pulmonary fibrosis,scarring tissue
+numbness + tingling,corticosteroid,nerves,multiple sclerosis,autoimmune demyelination
+difficulty chewing,immunotherapy,face,myasthenia gravis,neuromuscular issue
+brittle bones,calcium + vitamin D,bones,osteogenesis imperfecta,fragile bones
+poor balance,physiotherapy,brain,cerebellar ataxia,neuro issue
+hair loss + fatigue,steroid therapy,scalp,alopecia areata,autoimmune
+yellow eyes + pain,steroid drops,eyes,autoimmune uveitis,inflammation
+muscle stiffness,physiotherapy + relaxant,limbs,stiff person syndrome,neurological
+difficulty breathing,oxygen + medication,lungs,pulmonary hypertension,rare vascular
+dry mouth,artificial saliva,glands,Sjögren’s syndrome,autoimmune dryness
+leg weakness,corticosteroid,spine,transverse myelitis,spinal inflammation
+slurred speech,neurorehabilitation,brain,multiple sclerosis,demyelinating lesion
+fatigue + joint pain,corticosteroid,joints,lupus erythematosus,systemic autoimmune
+weight loss + nausea,hormone therapy,body,Addison’s disease,adrenal disorder
+dizziness,salt tablet + medication,heart,postural orthostatic tachycardia syndrome,rare dysautonomia
+tremor + rigidity,dopamine therapy,brain,Parkinson’s disease,motor control loss
+tingling + weakness,immunotherapy,nerves,Guillain–Barré syndrome,infection aftermath
+bloating + diarrhea,gluten-free diet,intestine,celiac disease,malabsorption
+muscle tenderness,corticosteroid,body,polymyalgia rheumatica,inflammatory condition
+numbness in feet,vitamin therapy,nerves,peripheral neuropathy,nerve damage
+breathlessness,antifibrotic,lungs,pulmonary fibrosis,idiopathic
+loss of coordination,physiotherapy,limbs,cerebellar ataxia,hereditary
+face pain,anticonvulsant,face,trigeminal neuralgia,nerve disorder
+dry eyes,lubricating drops,eyes,Sjögren’s syndrome,chronic dryness
+pain in muscles,immunotherapy,muscles,dermatomyositis,autoimmune
+double vision + droopy eyelids,corticosteroid,eyes,myasthenia gravis,neuromuscular junction
+constant shaking,dopamine agonist,brain,Parkinson’s disease,chronic
+burning sensation in limbs,immunosuppressant,nerves,small fiber neuropathy,rare nerve damage
+balance issues,rehabilitation,brain,spinocerebellar ataxia,genetic disorder
+fatigue + rash,immunosuppressive drugs,skin,lupus erythematosus,systemic flare
+muscle stiffness,physiotherapy,legs,stiff person syndrome,neurological disorder
+numbness in fingers,corticosteroid,spine,multiple sclerosis,relapse episode
+difficulty swallowing,immunotherapy,throat,myasthenia gravis,nerve transmission failure
+hand tremor,dopamine therapy,arms,Parkinson’s disease,slow movement
+diarrhea + weight loss,gluten-free diet,intestine,celiac disease,autoimmune intolerance
+dry skin + eye pain,lubricating drops,eyes,Sjögren’s syndrome,gland dysfunction
+muscle pain + weakness,corticosteroid,body,polymyositis,autoimmune
+dark skin pigmentation,hormone therapy,body,Addison’s disease,adrenal insufficiency
+unsteady steps,physiotherapy,legs,ataxia,coordination loss
+arm numbness,IV therapy,spine,transverse myelitis,nerve inflammation
+muscle cramp + fatigue,vitamin therapy,muscles,hypokalemic periodic paralysis,electrolyte issue
+difficulty speaking,physiotherapy,face,ALS,motor neuron degeneration
+droopy eyelid,steroid therapy,eyes,myasthenia gravis,autoimmune neuromuscular
+skin rash + fever,steroid treatment,skin,dermatomyositis,autoimmune flare
+weakness + paralysis,immunotherapy,limbs,Guillain–Barré syndrome,post-infectious
+loss of memory,medication + therapy,brain,Alzheimer’s disease,cognitive disorder
+inability to focus,cognitive therapy,brain,attention deficit disorder,neuro condition
+muscle weakness,corticosteroid + immunotherapy,limbs,Lambert-Eaton syndrome,paraneoplastic
+weight gain with round face,hormone inhibitor,body,Cushing’s syndrome,adrenal hyperfunction
+tremor and rigidity,dopamine therapy,brain,Parkinson’s disease,neurodegenerative
+yellowing of skin,chelation therapy,liver,Wilson’s disease,copper accumulation
+fatigue and paleness,vitamin B12 injections,blood,pernicious anemia,autoimmune gastritis
+irregular heartbeat,potassium replacement,heart,hypokalemia,electrolyte imbalance
+hand tremor,beta blocker,arms,essential tremor,familial tendency
+loss of coordination,physiotherapy,limbs,spinocerebellar ataxia,genetic disorder
+protruding eyes,antithyroid medication,neck,Graves’ disease,hyperthyroidism
+enlarged hands and jaw,surgical removal of tumor,pituitary,acromegaly,growth hormone excess
+purple stretch marks,hormone therapy,abdomen,Cushing’s syndrome,steroid overproduction
+copper-colored ring in eyes,chelation therapy,eyes,Wilson’s disease,metabolic disorder
+persistent headache,dopamine agonist,brain,pituitary adenoma,hormonal imbalance
+numbness in limbs,corticosteroid,nerves,multiple sclerosis,autoimmune demyelination
+dark skin tone,hormone replacement,body,Addison’s disease,adrenal insufficiency
+muscle cramps,calcium supplementation,muscles,hypoparathyroidism,low calcium
+abnormal facial movements,dopamine control drugs,brain,Huntington’s disease,hereditary
+fatigue and dizziness,iron therapy,blood,aplastic anemia,bone marrow disorder
+abdominal swelling,low-salt diet + diuretic,abdomen,ascites,liver cirrhosis
+leg numbness,IV immunoglobulin,nerves,Guillain–Barré syndrome,post-viral
+protruding abdomen,enzyme replacement,liver,Gaucher’s disease,metabolic storage disorder
+high blood pressure,hormone suppressant,adrenal gland,Conn’s syndrome,aldosterone excess
+unsteady gait,physiotherapy,legs,cerebellar ataxia,balance dysfunction
+pain in joints,corticosteroid,joints,vasculitis,blood vessel inflammation
+vision blurring,steroid drops,eyes,optic neuritis,multiple sclerosis
+difficulty swallowing,immunotherapy,throat,myasthenia gravis,autoimmune
+brittle bones,hormone therapy,skeleton,osteoporosis,calcium deficiency
+loss of smell,supportive therapy,brain,Parkinson’s disease,sensory impairment
+severe fatigue,hormone therapy,adrenal,Addison’s disease,chronic insufficiency
+double vision,steroid therapy,eyes,neuromyelitis optica,autoimmune optic inflammation
+thinning hair,hormone control,scalp,Cushing’s syndrome,cortisol excess
+copper buildup symptoms,chelation therapy,liver,Wilson’s disease,rare metabolic
+slow movement,dopamine therapy,brain,Parkinson’s disease,tremor-related
+muscle stiffness,physical therapy,limbs,stiff person syndrome,autoimmune
+severe fatigue,iron chelation,blood,sideroblastic anemia,defective hemoglobin synthesis
+poor muscle tone,physiotherapy,limbs,muscular dystrophy,genetic weakness
+chronic diarrhea,gluten-free diet,intestines,celiac disease,malabsorption
+increased appetite,hormone inhibitor,pituitary,acromegaly,GH overproduction
+loss of speech clarity,physiotherapy,face,amyotrophic lateral sclerosis,motor neuron damage
+puffy face,hormone therapy,thyroid,hypothyroidism,endocrine dysfunction
+droopy eyelid,steroid therapy,eyes,myasthenia gravis,neuromuscular
+sensitivity to light,steroid drops,eyes,uveitis,autoimmune
+difficulty walking,physiotherapy,legs,spinocerebellar ataxia,inherited
+swollen joints,immunosuppressant,joints,lupus erythematosus,systemic
+shaking hands,beta blocker,arms,essential tremor,benign condition
+uncontrolled laughter,antidepressant,brain,pseudobulbar affect,neurological symptom
+numbness in face,corticosteroid,nerves,trigeminal neuropathy,inflammation
+dark pigmentation,hormone therapy,skin,Addison’s disease,adrenal dysfunction
+large jaw + thick skin,surgery,pituitary,acromegaly,pituitary tumor
+tingling in fingers,immunotherapy,spine,multiple sclerosis,demyelinating lesion
+poor balance,physical rehabilitation,limbs,cerebellar ataxia,brain degeneration
+weight loss and fatigue,hormone therapy,thyroid,Graves’ disease,autoimmune hyperthyroid
+swollen hands,immunosuppressant,skin,scleroderma,connective tissue disease
+burning feet,vitamin therapy,nerves,small fiber neuropathy,rare condition
+tremors in hands,dopamine agonist,brain,Parkinson’s disease,degenerative
+double vision,corticosteroid,eyes,myasthenia gravis,autoimmune
+thickened skin,steroid cream,skin,scleroderma,collagen disorder
+confusion + tremor,chelation therapy,liver,Wilson’s disease,copper buildup
+fatigue after meals,dietary adjustment,pancreas,insulinoma,excess insulin secretion
+dry mouth + joint pain,immunosuppressant,glands,Sjögren’s syndrome,autoimmune dryness
+tingling and paralysis,IV immunoglobulin,nerves,Guillain–Barré syndrome,immune attack
+memory loss,cholinesterase inhibitor,brain,Alzheimer’s disease,dementia type
+hand clumsiness,dopamine therapy,brain,Parkinson’s disease,motor deficit
+facial weakness,physiotherapy,face,Bell’s palsy,viral inflammation
+loss of coordination,rehabilitation,brain,cerebellar ataxia,inherited
+increased thirst + urination,hormone replacement,pituitary,diabetes insipidus,rare endocrine
+abdominal discomfort,chelation therapy,liver,Wilson’s disease,copper storage
+bone pain,calcium + vitamin D,bones,osteomalacia,vitamin D deficiency
+dark skin + low pressure,steroid replacement,body,Addison’s disease,adrenal failure
+chronic muscle pain,physiotherapy + rest,muscles,fibromyalgia,unknown cause
+recurrent infection,immunoglobulin therapy,immune system,common variable immunodeficiency,antibody deficiency
+shaky movement,dopamine,brain,Parkinson’s disease,neurodegenerative disorder
+severe muscle weakness,steroid therapy,muscles,dermatomyositis,autoimmune inflammation
+loss of coordination,supportive care,limbs,spinocerebellar ataxia,rare inherited
+difficulty speaking,physiotherapy,mouth,ALS,motor neuron loss
+metallic taste,chelation,liver,Wilson’s disease,copper excess
+shortness of breath,corticosteroid + oxygen therapy,lungs,sarcoidosis,granulomatous inflammation
+joint pain + rash,immunosuppressant therapy,joints,vasculitis,autoimmune vessel disease
+hyperflexible joints,physiotherapy + bracing,limbs,Ehlers–Danlos syndrome,connective tissue disorder
+tall stature + chest deformity,beta blocker + surgery,chest,Marfan syndrome,genetic connective tissue
+vision problems,anti-inflammatory drops,eyes,uveitis,sarcoidosis manifestation
+muscle fatigue,immunosuppressive therapy,muscles,polymyositis,autoimmune
+chest discomfort,corticosteroid,lungs,pulmonary sarcoidosis,granuloma formation
+easy bruising,platelet transfusion,blood,idiopathic thrombocytopenic purpura,immune platelet destruction
+facial rash,steroid ointment,face,cutaneous lupus,autoimmune
+swollen glands,corticosteroid + rest,neck,sarcoidosis,lymph node enlargement
+hand tremors,dopamine therapy,brain,Wilson’s disease,copper toxicity
+bone pain,calcium + vitamin D,bones,osteogenesis imperfecta,brittle bone disorder
+frequent nosebleeds,supportive therapy,nose,hereditary hemorrhagic telangiectasia,fragile vessels
+abdominal distension,enzyme replacement,abdomen,Gaucher’s disease,storage disorder
+muscle weakness,corticosteroid + rest,limbs,dermatomyositis,inflammatory myopathy
+short fingers,supportive therapy,hands,Albright’s hereditary osteodystrophy,endocrine disorder
+fatigue + low blood pressure,hormone therapy,adrenal glands,Addison’s disease,adrenal failure
+recurrent mouth ulcers,immunosuppressant,mouth,Behçet’s disease,vasculitic disorder
+irregular heartbeat,beta blocker,heart,long QT syndrome,electrical abnormality
+frequent fractures,bisphosphonate,bones,osteogenesis imperfecta,collagen defect
+lung scarring,antifibrotic therapy,lungs,pulmonary fibrosis,idiopathic
+abnormal gait,physiotherapy,legs,cerebellar ataxia,genetic cause
+joint stiffness,steroid + DMARD,joints,scleroderma,connective tissue disease
+vision loss,steroid drops,eyes,optic neuritis,autoimmune
+chronic cough,corticosteroid,lungs,sarcoidosis,inflammatory granuloma
+skin thickening,immunosuppressant,skin,systemic sclerosis,autoimmune fibrosis
+pain in legs,physiotherapy,legs,peripheral artery disease,poor circulation
+purple rash on legs,steroid therapy,skin,Henoch–Schönlein purpura,small vessel vasculitis
+skin lumps,corticosteroid,skin,sarcoid nodules,granulomatous inflammation
+chest pain,immunosuppressant,heart,cardiac sarcoidosis,granulomatous infiltration
+muscle cramps,immunotherapy,limbs,stiff person syndrome,autoimmune
+dry eyes,artificial tears,eyes,Sjögren’s syndrome,gland disorder
+bluish skin color,oxygen therapy,lungs,methemoglobinemia,rare blood disorder
+recurrent pneumonia,IV immunoglobulin,lungs,common variable immunodeficiency,antibody deficiency
+back stiffness,physiotherapy,spine,ankylosing spondylitis,inflammatory arthritis
+difficulty swallowing,immunosuppressant,throat,polymyositis,muscle inflammation
+bone deformities,orthopedic correction,skeleton,Paget’s disease of bone,abnormal remodeling
+sensitivity to sunlight,vitamin therapy,skin,porphyria,metabolic disorder
+swollen hands,corticosteroid,skin,systemic sclerosis,autoimmune fibrosis
+chest tightness,bronchodilator + steroid,lungs,eosinophilic pneumonia,allergic inflammation
+muscle stiffness,muscle relaxant,limbs,stiff person syndrome,GABA deficiency
+difficulty walking,physiotherapy,legs,Friedreich’s ataxia,hereditary
+dry mouth,artificial saliva,mouth,Sjögren’s syndrome,autoimmune dryness
+red spots on skin,steroid + antihistamine,skin,vasculitis,vessel inflammation
+chronic fatigue,hormone replacement,body,Addison’s disease,endocrine disorder
+brittle nails,supplement + care,nails,scleroderma,connective tissue involvement
+abdominal pain,chelation therapy,liver,Wilson’s disease,copper buildup
+joint pain,corticosteroid,joints,lupus erythematosus,autoimmune
+leg weakness,IV immunoglobulin,limbs,Guillain–Barré syndrome,post-viral
+bluish lips,oxygen therapy,lungs,pulmonary hypertension,vascular narrowing
+numbness + tingling,steroid therapy,nerves,vasculitic neuropathy,autoimmune
+bone pain,calcium supplement,skeleton,osteomalacia,vitamin D deficiency
+vision changes,corticosteroid,eyes,optic neuritis,demyelination
+loss of sensation,immunotherapy,limbs,transverse myelitis,spinal cord inflammation
+joint contracture,physical therapy,hands,Dupuytren’s contracture,fibrotic condition
+swollen eyes,steroid + rest,eyes,orbital pseudotumor,inflammatory lesion
+fatigue + rash,steroid therapy,skin,dermatomyositis,autoimmune
+red painful eyes,steroid drops,eyes,scleritis,inflammatory disorder
+weak pulse in arms,immunosuppressant,arteries,Takayasu arteritis,large vessel vasculitis
+pale skin,bone marrow transplant,blood,aplastic anemia,marrow failure
+burning feet,vitamin therapy,nerves,small fiber neuropathy,sensory nerve damage
+thickened skin,topical steroid,skin,morphea,localized scleroderma
+bone tenderness,bisphosphonate,skeleton,Paget’s disease,abnormal bone turnover
+night sweats,antibiotic + steroid,lungs,sarcoidosis,granulomatous
+loss of coordination,physiotherapy,limbs,spinocerebellar ataxia,inherited disorder
+enlarged spleen,enzyme replacement,abdomen,Gaucher’s disease,storage defect
+shortness of breath,corticosteroid,lungs,hypersensitivity pneumonitis,immune reaction
+dark patches on skin,hormone replacement,body,Addison’s disease,adrenal insufficiency
+swelling around mouth,antihistamine,face,angioedema,allergic
+numb fingertips,steroid therapy,hands,Raynaud’s phenomenon,cold-induced vasospasm
+painful mouth ulcers,immunosuppressant,mouth,Behçet’s disease,vasculitis
+drooping eyelid,corticosteroid,eyes,myasthenia gravis,neuromuscular
+skin ulcers,immunosuppressant,legs,vasculitis,autoimmune inflammation
+abnormal gait,physiotherapy,legs,cerebellar degeneration,neurodegenerative
+fatigue with bone pain,calcium + vitamin D,bones,osteomalacia,deficiency disorder
+chronic cough,corticosteroid + antifibrotic,lungs,sarcoidosis,granulomatous disease
+skin tightening,immunosuppressant,skin,systemic sclerosis,connective-tissue disorder
+recurrent fever,corticosteroid,blood,adult-onset Still’s disease,inflammatory
+swelling of face,antihistamine + steroid,face,angioedema,allergic reaction
+joint deformity,physiotherapy,joints,rheumatoid arthritis,autoimmune arthropathy
+bluish fingers,vasodilator,hands,Raynaud’s phenomenon,cold-induced vasospasm
+shortness of breath,antifibrotic therapy,lungs,idiopathic pulmonary fibrosis,chronic scarring
+red patches on skin,topical steroid,skin,cutaneous lupus,autoimmune rash
+chest pain,immunosuppressant,heart,myocarditis,inflammatory
+chronic fatigue,hormone replacement,glands,Addison’s disease,endocrine failure
+leg ulcers,wound care + steroid,legs,vasculitis,vessel inflammation
+dry eyes + mouth,lubricating drops,glands,Sjögren’s syndrome,autoimmune dryness
+bone pain,calcium + vit D,bones,osteomalacia,deficiency
+swollen fingers,immunosuppressant,hands,scleroderma,collagen disorder
+eye pain,steroid drops,eyes,uveitis,inflammatory
+joint pain + rash,corticosteroid,joints,lupus erythematosus,systemic autoimmune
+back stiffness,physiotherapy,spine,ankylosing spondylitis,inflammatory arthritis
+unsteady gait,rehab therapy,legs,cerebellar ataxia,coordination loss
+chronic diarrhea,gluten-free diet,intestines,celiac disease,malabsorption
+persistent fever,antibiotic + steroid,blood,sarcoidosis,granulomatous
+muscle stiffness,muscle relaxant,limbs,stiff person syndrome,autoimmune GABA defect
+numb toes,vitamin supplement,feet,small-fiber neuropathy,sensory loss
+dark skin,steroid replacement,body,Addison’s disease,adrenal insufficiency
+joint swelling,immunotherapy,joints,Churg-Strauss syndrome,vasculitis variant
+vision loss,corticosteroid,eyes,optic neuritis,demyelinating
+fatigue + weight loss,hormone therapy,thyroid,Graves’ disease,autoimmune
+painful ulcers in mouth,immunosuppressant,mouth,Behçet’s disease,vasculitic
+breathlessness,steroid therapy,lungs,hypersensitivity pneumonitis,immune reaction
+facial redness,topical steroid,face,rosacea variant,inflammatory
+cold hands,vasodilator,fingers,Raynaud’s disease,circulation issue
+chest tightness,bronchodilator,lungs,eosinophilic pneumonia,rare allergic
+weak legs,IV immunoglobulin,limbs,Guillain–Barré syndrome,post-viral
+difficulty swallowing,immunosuppressant,throat,polymyositis,myopathy
+painful skin nodules,corticosteroid,skin,erythema nodosum,sarcoid feature
+enlarged spleen,enzyme therapy,abdomen,Gaucher’s disease,storage defect
+muscle pain,steroid therapy,muscles,dermatomyositis,autoimmune
+severe tiredness,hormone replacement,body,hypopituitarism,endocrine failure
+rash on legs,steroid cream,skin,leukocytoclastic vasculitis,small-vessel type
+swollen ankles,diuretic + steroid,legs,nephrotic syndrome,protein loss
+red painful eyes,steroid drops,eyes,scleritis,connective-tissue disease
+frequent fractures,bisphosphonate,bones,osteogenesis imperfecta,collagen defect
+bone tenderness,calcitonin,skeleton,Paget’s disease,remodeling defect
+muscle weakness,immunotherapy,limbs,Lambert–Eaton syndrome,paraneoplastic
+unsteady steps,rehab therapy,legs,Friedreich’s ataxia,hereditary
+facial numbness,corticosteroid,face,trigeminal neuropathy,inflammatory
+purple rash,steroid + antihistamine,skin,Henoch–Schönlein purpura,vasculitis
+recurrent infection,IV immunoglobulin,immune system,CVID,antibody deficiency
+swelling in neck,steroid,neck,sarcoid lymphadenopathy,granuloma
+stiffness of spine,physiotherapy,spine,ankylosing spondylitis,chronic
+difficulty walking,physiotherapy,legs,spinocerebellar ataxia,inherited
+joint pain + ulcer,immunosuppressant,joints,Behçet’s syndrome,autoimmune
+blue skin,oxygen therapy,lungs,methemoglobinemia,hemoglobin disorder
+abdominal distension,enzyme therapy,liver,Gaucher’s disease,metabolic
+drooping eyelids,corticosteroid,eyes,myasthenia gravis,autoimmune neuromuscular
+dry skin + eyes,lubricant drops,glands,Sjögren’s syndrome,chronic dryness
+pain in fingers,steroid therapy,hands,vasculitis,inflammatory
+enlarged aorta,beta blocker,chest,Marfan syndrome,connective-tissue
+rash after infection,corticosteroid,skin,erythema multiforme,immune reaction
+sore mouth,immunosuppressant,mouth,pemphigus vulgaris,blistering disease
+breath difficulty,antifibrotic agent,lungs,idiopathic fibrosis,chronic scarring
+rash on hands,topical steroid,skin,dermatomyositis,autoimmune
+chest pain + fatigue,steroid therapy,heart,pericarditis,inflammatory disease
+weak muscles,immunosuppressant,limbs,polymyositis,autoimmune
+bone swelling,bisphosphonate,skeleton,Paget’s disease,abnormal growth
+stiff shoulders,physiotherapy,shoulders,polymyalgia rheumatica,inflammatory
+mouth ulcers + eye pain,corticosteroid,eyes,Behçet’s disease,systemic vasculitis
+tremor + imbalance,dopaminergic therapy,brain,Parkinsonism,secondary type
+itchy rash,antihistamine + steroid,skin,urticarial vasculitis,immune complex reaction
+pale skin,bone-marrow stimulation,blood,aplastic anemia,marrow failure
+chronic joint pain,DMARD therapy,joints,rheumatoid arthritis,autoimmune
+weak pulse in arms,immunosuppressant,arteries,Takayasu arteritis,large vessel vasculitis
+burning in chest,antacid + steroid,chest,eosinophilic esophagitis,allergic inflammation
+hard lumps under skin,steroid therapy,skin,sarcoid nodules,granulomatous
+blurred vision,steroid drops,eyes,optic neuritis,demyelinating disease
+cold hands + feet,vasodilator,limbs,Raynaud’s phenomenon,vascular spasm
+muscle stiffness,immunotherapy,limbs,stiff person syndrome,autoimmune GABA disorder
+dry mouth,saliva substitute,glands,Sjögren’s syndrome,chronic dryness
+purple rash on legs,corticosteroid,skin,Henoch–Schönlein purpura,small vessel vasculitis
+weakness in legs,IV immunoglobulin,nerves,Guillain–Barré syndrome,post-infectious
+facial rash,steroid ointment,face,lupus erythematosus,autoimmune
+chest pain,corticosteroid,lungs,sarcoidosis,granulomatous inflammation
+bluish skin,oxygen therapy,lungs,methemoglobinemia,abnormal hemoglobin
+back pain,physiotherapy,spine,ankylosing spondylitis,chronic inflammation
+joint swelling,immunosuppressant,joints,vasculitis,inflammatory disorder
+fatigue,hormone replacement,glands,Addison’s disease,adrenal failure
+thickened skin,immunotherapy,skin,scleroderma,connective tissue fibrosis
+numb hands,physiotherapy,hands,peripheral neuropathy,autoimmune origin
+abdominal fullness,enzyme replacement,liver,Gaucher’s disease,metabolic storage
+shortness of breath,antifibrotic + oxygen,lungs,pulmonary fibrosis,idiopathic
+vision blurring,steroid drops,eyes,uveitis,sarcoid manifestation
+red eyes,anti-inflammatory drops,eyes,scleritis,connective-tissue inflammation
+joint stiffness,DMARD + steroid,joints,rheumatoid arthritis,autoimmune
+dry eyes,lubricating drops,eyes,Sjögren’s syndrome,gland dysfunction
+dizziness,salt tablet + therapy,heart,POTS,autonomic disorder
+swelling in legs,diuretic + steroid,legs,nephrotic syndrome,protein loss
+facial weakness,physiotherapy,face,Bell’s palsy,viral neuropathy
+rash on arms,topical steroid,skin,dermatomyositis,inflammatory myopathy
+chest tightness,immunosuppressant,lungs,hypersensitivity pneumonitis,immune response
+weak grip,physiotherapy,hands,myasthenia gravis,neuromuscular
+recurring ulcers,corticosteroid,mouth,Behçet’s disease,systemic vasculitis
+numb legs,steroid + IVIg,spine,transverse myelitis,spinal cord inflammation
+bone pain,vitamin D + calcium,skeleton,osteomalacia,deficiency
+rash after sunlight,steroid cream,skin,lupus photosensitivity,autoimmune
+tremor,dopamine agonist,brain,Parkinson’s disease,neurodegenerative
+loss of coordination,rehabilitation,limbs,cerebellar ataxia,inherited
+burning eyes,lubricating drops,eyes,keratoconjunctivitis sicca,dryness disorder
+enlarged liver,enzyme therapy,abdomen,Gaucher’s disease,lysosomal storage
+difficulty swallowing,immunotherapy,throat,polymyositis,muscle inflammation
+unsteady walk,physiotherapy,legs,Friedreich’s ataxia,hereditary neuropathy
+chronic cough,corticosteroid,lungs,sarcoidosis,granulomatous inflammation
+muscle pain,steroid therapy,muscles,dermatomyositis,autoimmune
+rash with fever,corticosteroid,skin,adult-onset Still’s disease,inflammatory
+weak voice,physiotherapy,throat,ALS,motor neuron degeneration
+cold fingertips,vasodilator,hands,Raynaud’s disease,vascular spasm
+eye pain,corticosteroid drops,eyes,optic neuritis,demyelinating
+breathlessness,bronchodilator + steroid,lungs,eosinophilic pneumonia,allergic
+fatigue,thyroid replacement,glands,Hashimoto’s thyroiditis,autoimmune
+skin thickening,topical therapy,skin,morphea,localized scleroderma
+joint pain,immunosuppressant,joints,vasculitis,autoimmune
+bone tenderness,bisphosphonate,skeleton,Paget’s disease,abnormal remodeling
+abnormal gait,physiotherapy,legs,spinocerebellar ataxia,hereditary
+loss of balance,neurorehab,brain,cerebellar degeneration,degenerative
+short fingers,supportive care,hands,Albright’s osteodystrophy,endocrine
+weight loss,hormone therapy,thyroid,Graves’ disease,hyperthyroidism
+brittle nails,moisturizers + supplements,nails,scleroderma,connective tissue
+drooping eyelid,corticosteroid,eyes,myasthenia gravis,autoimmune
+red nodules,steroid therapy,skin,erythema nodosum,sarcoidosis
+low blood pressure,hormone therapy,adrenal,Addison’s disease,adrenal crisis
+stiff joints,physiotherapy,joints,polymyalgia rheumatica,inflammatory
+blue lips,oxygen therapy,lungs,pulmonary hypertension,vascular disorder
+pale skin,bone-marrow stimulant,blood,aplastic anemia,marrow suppression
+swelling in hands,immunosuppressant,skin,lupus panniculitis,connective-tissue
+hair loss patches,corticosteroid,scalp,alopecia areata,autoimmune
+abdominal pain,chelation therapy,liver,Wilson’s disease,copper accumulation
+vision loss,immunotherapy,eyes,neuromyelitis optica,autoimmune
+frequent nosebleeds,cauterization,nose,hereditary hemorrhagic telangiectasia,fragile vessels
+numb feet,vitamin therapy,nerves,small-fiber neuropathy,sensory nerve loss
+weakness after illness,IVIg,limbs,Guillain–Barré syndrome,post-infectious
+irregular heartbeat,beta blocker,heart,long QT syndrome,electrical abnormality
+sun-sensitive rash,steroid ointment,skin,subacute cutaneous lupus,autoimmune
+thickened fingers,steroid + moisturizer,hands,scleroderma,fibrosis
+stiff neck,physiotherapy,neck,ankylosing spondylitis,spinal inflammation
+rash with joint pain,immunotherapy,joints,lupus erythematosus,autoimmune
+recurring fever,corticosteroid,body,sarcoidosis,inflammatory granuloma
+numbness + vision loss,corticosteroid,nerves,multiple sclerosis,demyelinating
+facial twitching,anticonvulsant,face,hemifacial spasm,nerve irritation
+poor coordination,rehab therapy,legs,cerebellar ataxia,degenerative
+breathing difficulty,steroid + oxygen,lungs,pulmonary sarcoidosis,granuloma
+chest pain,immunotherapy,heart,myocarditis,inflammatory disorder
+red eye + headache,steroid drops,eyes,scleritis,connective tissue
+weak muscles,corticosteroid,limbs,polymyositis,autoimmune inflammation
